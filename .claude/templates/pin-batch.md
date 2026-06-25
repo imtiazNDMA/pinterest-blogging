@@ -19,5 +19,5 @@
 (repeat)
 
 ---
-**Schedule summary:** Pin 1 → date, Pin 2 → date+1, … (spaced, not bulk-dumped)
+**Schedule summary:** Pin 1 on date, Pin 2 on date+1, and so on (spaced, not bulk-dumped; no arrows in pin copy)
 **Tracker:** append one `Pin` row per pin (Batch ID, Title, Angle, Board, Status=Draft, scheduled date).
