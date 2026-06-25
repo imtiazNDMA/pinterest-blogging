@@ -11,3 +11,6 @@ Desktop.ini
 *.tmp
 *.bak
 *~
+
+# Superpowers scratch (progress ledger, etc.)
+.superpowers/
