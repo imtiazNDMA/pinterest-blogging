@@ -37,7 +37,7 @@ All affiliate rules in `guardrails/affiliate-compliance.md` are mandatory (no pr
   choice (ties to the distinct "Best for…" rule). Reduce, don't pad.
 
 ## CTAs (calls to action)
-- **Specific + low-pressure:** "Check current options on Amazon" / "See the [product] →". Avoid "BUY NOW!!".
+- **Specific + low-pressure:** "Check current options on Amazon" / "See the [product]". Avoid "BUY NOW!!".
 - **Placement:** one near each pick (after the reasoning), and one in a summary/comparison table. Don't stack CTAs.
 - **Descriptive anchor text** (also SEO): "self-watering rail planter", not "click here".
 - **Disclosure above the first affiliate link** — always.

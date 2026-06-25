@@ -27,7 +27,7 @@ ready until it provably clears every checklist. You catch what the writer missed
 - [ ] (2+ failed lines here = automatic NEEDS WORK — rewrite the sections, don't surface-patch)
 
 **Formatting & readability (formatting-and-readability.md) — hard gates**
-- [ ] **No arrows:** grep the draft for `->`, `→`, `=>`, `»`. Any in prose = FAIL (Markdown blockquote `>` exempt). Rewrite to words.
+- [ ] **No arrows:** grep the draft for `->`, `→`, `=>`, `»` (and a bare `>` used as an arrow, e.g. "Floor > grow box" — judgment call). Any in prose = FAIL (Markdown blockquote `>` at line start is exempt). Rewrite to words.
 - [ ] **Zero emojis:** scan body, headings, callouts, tables. Any emoji = FAIL.
 - [ ] **No wall-of-text paragraph:** any paragraph over ~4 sentences / ~60 words = FAIL; split it.
 - [ ] **No over-long sentence:** any sentence over ~35 words = FAIL; split it.
