@@ -140,10 +140,10 @@ For which crops actually thrive in these systems, see our [best balcony vegetabl
 
 Work down these questions in order:
 
-1. **Where will it sit?** Floor → grow box or fabric pot. Railing → light rail planter only, after you've checked the load limit. Overhead hook → hanging insert with a verified ceiling anchor.
-2. **What are you growing?** Herbs and lettuce → a 1-quart rail planter is plenty. Tomatoes, peppers, eggplant → a multi-gallon floor box. Strawberries or a lot of herbs in little floor space → a vertical tower.
-3. **How exposed is the balcony?** All-day south sun → prioritize the biggest reservoir and UV-stable resin. Shaded and cool → reconsider whether you need self-watering at all.
-4. **How often will you realistically refill?** Often-away → biggest reservoir plus a clear water-level indicator. Around daily → a smaller reservoir is fine.
+1. **Where will it sit?** On the floor, use a grow box or fabric pot. On a railing, use a light rail planter only, after you've checked the load limit. On an overhead hook, use a hanging insert with a verified ceiling anchor.
+2. **What are you growing?** For herbs and lettuce, a 1-quart rail planter is plenty. For tomatoes, peppers, and eggplant, choose a multi-gallon floor box. For strawberries or a lot of herbs in little floor space, pick a vertical tower.
+3. **How exposed is the balcony?** In all-day south sun, prioritize the biggest reservoir and UV-stable resin. If it's shaded and cool, reconsider whether you need self-watering at all.
+4. **How often will you realistically refill?** If you're often away, get the biggest reservoir plus a clear water-level indicator. If you're around daily, a smaller reservoir is fine.
 5. **Budget tight?** Build a DIY sub-irrigated planter first; upgrade to a branded box once you're hooked.
 
 Quality fit comes first here. When two picks are equally good for your situation, a dedicated garden-supply brand's planter (via their own program) often outlasts a generic one on a hot balcony, but only choose it if it genuinely suits *your* spot.
