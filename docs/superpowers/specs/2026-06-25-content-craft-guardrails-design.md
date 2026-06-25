@@ -22,7 +22,8 @@ ones are hard gates editor-qa FAILs; subjective ones are flags editor-qa surface
   stays in owner-filled `[PERSONAL TIP]`.
 - **Location:** New files go in `guidelines/` (not `guardrails/`); their non-negotiable rules carry an
   explicit `(hard gate)` tag, exactly how `content-structure.md` already mixes spec + enforced rules.
-- **Emojis:** ZERO emojis anywhere in post content (body, headings, callouts, tables) — absolute hard gate.
+- **Emojis:** ZERO emojis anywhere in post content (body, headings, callouts, tables) AND in pin copy
+  (overlay text, pin titles, pin descriptions) — absolute hard gate. Deliberate brand choice.
 
 ## 3. File plan
 
@@ -32,8 +33,10 @@ ones are hard gates editor-qa FAILs; subjective ones are flags editor-qa surface
 | NEW | `.claude/guidelines/humanization.md` | Rhythm + reader-connection craft (guidance) |
 | EXPAND | `.claude/guardrails/anti-ai-slop.md` | Arrows (hard gate) + re-examination: new phrasing & structural tells; emoji ban |
 | EXPAND | `.claude/guidelines/conversion-copywriting.md` | Honest persuasion frameworks + deeper copy levers |
+| EXPAND | `.claude/guidelines/pin-spec.md` | Add zero-emoji rule to pin overlay/title/description copy |
 | WIRE | `.claude/agents/content-writer.md` | Add the two new files to "Read first"; add craft requirements |
 | WIRE | `.claude/agents/editor-qa.md` | Add the two new files to "Read first"; add tiered checklist items |
+| WIRE | `.claude/agents/pinterest-strategist.md` | Enforce zero emojis in generated pin copy |
 
 No other files change. `content-quality.md` and `brand-voice.md` get a one-line cross-reference only if
 needed to avoid duplication (they already gesture at structure/voice).
@@ -101,6 +104,11 @@ Purpose line: how the prose sounds like a person who has actually grown things, 
 - **CTA craft (deeper):** one primary CTA per pick, descriptive anchor, low-pressure; risk-reversal and
   honesty as conversion levers (build on existing section, no duplication).
 
+### 4.6 `guidelines/pin-spec.md` (EXPAND)
+
+- Add to "Copy per pin": `(hard gate)` **zero emojis** in pin overlay text, titles, and descriptions —
+  same absolute rule as post content. A keyword + a soft CTA carry the pin; no emoji decoration.
+
 ### 4.5 Agent wiring
 
 **`content-writer.md`:**
@@ -113,13 +121,16 @@ Purpose line: how the prose sounds like a person who has actually grown things, 
   bold cap, zero emojis, no arrows.
 - Add a **Humanization** guidance block (flags): burstiness, stance, sensory detail, read-aloud.
 
+**`pinterest-strategist.md`:**
+- Add a rule that generated pin copy (overlay text, titles, descriptions) contains zero emojis.
+
 ---
 
 ## 5. Enforcement tiers (summary)
 
 **Hard gates (editor-qa FAIL):**
 - No arrows (`->`, `→`, `=>`, `»`, `>`-as-arrow) in prose
-- Zero emojis anywhere in content
+- Zero emojis anywhere in post content AND pin copy (overlay/title/description)
 - Paragraph ≤4 sentences / ≤~60 words
 - Sentence ≤35 words
 - No body run >350 words without a subhead
@@ -135,7 +146,7 @@ Purpose line: how the prose sounds like a person who has actually grown things, 
 ## 6. Out of scope (YAGNI)
 
 - No automated Flesch-score tooling (manual judgment + flag only).
-- No changes to pin copy rules (`pin-spec.md`) in this pass.
+- No changes to pin copy rules (`pin-spec.md`) other than the zero-emoji rule (in scope per §4.6).
 - No new slash command; this rides the existing `/new-post` pipeline.
 - No rewrite of existing posts here (the sample was already cleaned in commit `e239c0c`).
 
