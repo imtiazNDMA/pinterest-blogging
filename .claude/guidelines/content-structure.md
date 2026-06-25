@@ -29,7 +29,7 @@ last_updated: 2026-06-24
 3. **Main sections (H2s):** each a sub-question or step; specific (varieties, sizes, sun hours, timing).
    - Use tables for comparisons, numbered lists for steps.
    - One or two `[PERSONAL TIP: ...]` callout placeholders where lived experience would add most.
-   - `[YOUR PHOTO: description]` placeholders where an original photo belongs (E-E-A-T + pin source).
+   - **2–4 `[YOUR PHOTO: description]` placeholders, one per pin angle** in the brief (E-E-A-T + each pin design needs its own source photo).
 4. **Common mistakes / "skip this if…"** (honesty = authority).
 5. **FAQ (H2 + H3 questions):** mine PAA; 3–6 concise Q&As.
 6. **Closing + internal links:** 1–2 sentences + "Next, read…" links to cluster siblings/pillar. Give it a *reader-facing* heading (e.g. "Start with one pot", "Your next step") — never the literal label "Wrap-up".

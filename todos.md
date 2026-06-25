@@ -16,7 +16,7 @@
   **Fix:** `guidelines/content-structure.md` + `templates/post-skeleton.md` — intro = no heading;
   make the others reader-facing. Add an `editor-qa` check that flags scaffold-leak headings.
 
-- [ ] **2. (Med) Too few `[YOUR PHOTO]` markers**
+- [x] **2. (Med) Too few `[YOUR PHOTO]` markers** — _done 2026-06-25_
   `content-writer` left only 1 photo marker; pin creation needs 2–4 (one per pin angle).
   **Fix:** Require `content-writer` to leave 2–4 `[YOUR PHOTO]` markers, one per pin angle.
 
@@ -53,3 +53,7 @@
   placeholders). Updated `guidelines/content-structure.md` skeleton items 1/2/6 + buyer item 5 and
   added a "Headings are reader-facing" rule. Added a grep gate to `agents/editor-qa.md` that FAILs any
   bare scaffold-label heading (Intro / Quick answer / TL;DR / Wrap-up / Comparison table / Conclusion).
+- **2026-06-25 — Fix #2 (photo markers):** `agents/content-writer.md` now requires 2–4 `[YOUR PHOTO]`
+  markers (one per pin angle) + reports the count in its self-check. `guidelines/content-structure.md`
+  states the 2–4 count. `agents/editor-qa.md` grep-counts `[YOUR PHOTO` and FAILs if <2.
+  `templates/post-skeleton.md` carries a "2–4, one per pin angle" cue.

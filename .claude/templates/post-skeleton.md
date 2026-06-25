@@ -36,6 +36,7 @@ Specific, useful content (varieties, sizes, sun hours, timing). Tables/lists whe
 
 > [PERSONAL TIP: first-person note for the owner to fill — do not auto-write.]
 
+<!-- PHOTOS: leave 2–4 [YOUR PHOTO] markers total across the post — one per pin angle in the brief. -->
 ![ [YOUR PHOTO: describe the original photo that belongs here] ](image-placeholder)
 
 ## <Next section H2>

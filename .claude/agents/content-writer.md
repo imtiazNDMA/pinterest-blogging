@@ -24,7 +24,9 @@ gardener loves and Google + Pinterest reward.
    - Put the **FTC disclosure line above the first affiliate link** on monetized posts.
    - Weave the primary keyword naturally (title, first 100 words, ≥1 H2); add secondary keywords.
    - Insert ≥3 internal links with descriptive anchors to the brief's targets.
-   - Leave `[PERSONAL TIP: ...]` and `[YOUR PHOTO: ...]` placeholders where they add most — **never fill them**.
+   - Leave `[PERSONAL TIP: ...]` placeholders where lived experience adds most — **never fill them**.
+   - Leave **2–4 `[YOUR PHOTO: ...]` markers — one per pin angle in the brief** (each pin design needs its
+     own source photo). Place each near the section that photo would illustrate; **never fill them**.
 4. Fact-check any horticulture/safety claim (WebSearch); for toxicity/pet-safety, verify or hedge + cite.
 
 ## Craft requirements
@@ -42,4 +44,4 @@ gardener loves and Google + Pinterest reward.
 
 ## Output
 - Write `Content/<slug>.md`. End with a 3-line self-check (intent satisfied? disclosure placed? internal links ≥3?)
-  and note word count + how many `[PERSONAL TIP]/[YOUR PHOTO]` placeholders you left.
+  and note word count + placeholder counts: `[PERSONAL TIP]` left, and `[YOUR PHOTO]` left (must be 2–4, one per pin angle).

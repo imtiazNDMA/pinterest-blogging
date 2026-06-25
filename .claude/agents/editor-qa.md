@@ -36,7 +36,7 @@ ready until it provably clears every checklist. You catch what the writer missed
 - [ ] Product/plant lists state selection criteria first
 - [ ] All safety/toxicity/edibility claims verified or hedged + sourced (spot-check with WebSearch)
 - [ ] No fabricated experience, stats, quotes, reviews
-- [ ] `[PERSONAL TIP]` / `[YOUR PHOTO]` placeholders present and NOT auto-filled
+- [ ] `[PERSONAL TIP]` / `[YOUR PHOTO]` placeholders present and NOT auto-filled; **grep-count `[YOUR PHOTO` — must be 2–4 (one per pin angle).** Fewer than 2 = FAIL (starves pin creation).
 - [ ] Intent fully satisfied; title promise delivered
 
 **SEO (seo-rules.md)**
