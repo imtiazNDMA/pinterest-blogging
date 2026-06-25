@@ -10,11 +10,12 @@ states the rules every agent and command must obey.
 ---
 
 ## Current state (update as it changes)
-- **Niche:** small-space / container & balcony gardening — *leading candidate, being re-validated* (run `/niche-research`).
+- **Niche:** **Balcony & Patio Styling** — *committed 2026-06-25* via `/niche-research` (71/85). Decor-led styling of small balconies/patios (furniture, lights, layouts), bridging home decor × gardening. Container gardening = future expansion arm. Full analysis: `niche research/research.md`.
+- **Production mode:** **AI-for-everything** — AI-generated articles, pins, and images. Moat = depth + specificity + scannable formatting (content-craft guardrails), not faked anecdotes. Label AI honestly on Pinterest (home-decor GenAI opt-out).
 - **Brand name:** not chosen → use the token `{{BLOG_NAME}}` and `{{DOMAIN}}` everywhere; find-replace later.
 - **Voice:** friendly **second person ("you")**. See `guidelines/brand-voice.md`.
 - **Output:** publish-ready **Markdown** drafts in `Content/`; you paste into WordPress. No site live yet.
-- **Pins:** copy + Canva design briefs (Canva free + Pinterest native scheduler).
+- **Pins:** copy + **AI-generated images** (with Canva design briefs as fallback), Pinterest native scheduler. Label AI on Pinterest.
 - **System of record:** `pinterest_blog_master_tracker.csv` (see `guidelines/tracker-schema.md`).
 
 ---

@@ -1,6 +1,6 @@
 # Project Memory — Pinterest Container-Gardening Blog
 
-_Last updated: 2026-06-24_
+_Last updated: 2026-06-25_
 
 ## Goal
 Build a steady side income by driving **Pinterest traffic → WordPress blog posts**, monetized with Amazon Associates + garden affiliate programs + ad networks (Mediavine Journey → Raptive → premium).
@@ -12,30 +12,38 @@ Build a steady side income by driving **Pinterest traffic → WordPress blog pos
 - **Interests:** gardening/plants, home decor/organization, crafts/DIY, pets.
 - **Style:** systematic; set up folders (Content, Growth Strategy, keyword Research, niche research) before starting.
 
-## Chosen niche (decided 2026-06-24)
-**Small-space, container & balcony gardening** (apartment-friendly, beginner-focused).
-Picked for low competition, fast ranking, clear product intent, and a roadmap to expand into the broader houseplants/home-garden space later ("narrow entry → broad vision").
+## Chosen niche (committed 2026-06-25)
+**Balcony & Patio Styling** — styling small balconies/patios (furniture, string lights, rugs, cozy layouts; decor-led, plant-light).
+Chosen via `/niche-research` (scored 71/85, runner-up to Indoor Plant Styling at 72). Won on **monetization**
+(high-AOV outdoor furniture + repeat seasonal decor) and **AI-render fit**, and it bridges both target categories
+(home decor × gardening). Main risk: **seasonality** (spring/summer peak) — needs deliberate off-season smoothing.
+Container gardening (the prior leading candidate) drops to a **future expansion arm**, not the entry, because its
+YMYL/accuracy load and E-E-A-T exposure fight a 100%-AI workflow. Full analysis: `niche research/research.md`.
+
+## AI-for-everything (key constraint, set 2026-06-25)
+The user will use **AI for everything** — articles, pins, and images. This reframes E-E-A-T: authority comes from
+**specificity, depth, and clear stance**, not "I personally tested this." Pinterest note: **home decor is on Pinterest's
+2026 GenAI "see less" opt-out list** (gardening is not) — label AI honestly and keep renders authentic. The studio's
+content-craft guardrails (formatting-and-readability, humanization, anti-slop arrows/emoji bans) were added 2026-06-25
+to keep AI output human and scannable.
 
 ## Status
-Strategy approved. **Content studio built (2026-06-24)** in `.claude/` — 7 agents, 7 commands, 5 guardrails
-(incl. anti-ai-slop), 9 guidelines (incl. headlines-and-titles, hooks-and-intros, conversion-copywriting),
-9 playbooks (incl. editing-and-deslop), 5 templates. `roadmap_codex.md` folded into playbooks and retired.
-Blog/Pinterest/content still not built. **Niche is being RE-VALIDATED** (container gardening = leading candidate, not locked).
-**Next step:** run `/niche-research` to confirm/choose the niche, then `/keyword-cluster <pillar>`.
+Strategy approved. **Content studio built + hardened (2026-06-24/25)** in `.claude/`. Niche **committed**: Balcony & Patio Styling.
+Blog/Pinterest/content still not built. **Next step:** `/keyword-cluster Small balcony/patio ideas & makeovers` (first pillar).
 See `.claude/CLAUDE.md` for the studio map. Brand name not chosen → `{{BLOG_NAME}}`/`{{DOMAIN}}` tokens.
-Voice: second-person. Output: Markdown drafts in `Content/`. Pins: copy + Canva briefs.
+Voice: second-person. Output: Markdown drafts in `Content/`. Pins: AI-generated images + copy (label AI on Pinterest).
 
 ---
 
 # Master Strategy
 
-## 1. Content pillars
-1. **Container & balcony how-tos** — e.g. "best vegetables for balcony pots," "vertical gardening for small balconies"
-2. **Plant care by problem/plant** — e.g. "why are my container tomatoes dying," "herbs that grow in shade"
-3. **Gear & setup** (money posts) — e.g. "best self-watering planters," "grow lights for apartments"
-4. **Inspiration / ideas** (Pinterest fuel) — e.g. "small balcony garden ideas," "renter-friendly garden setups"
+## 1. Content pillars (Balcony & Patio Styling)
+1. **Small balcony/patio ideas & makeovers** (Pinterest fuel) — e.g. "small balcony decorating ideas," "apartment patio makeover"
+2. **Outdoor furniture & gear** (money posts) — e.g. "best small balcony furniture," "best outdoor string lights for balconies"
+3. **Layout how-tos** — e.g. "how to add privacy to a balcony," "balcony lighting ideas," "zoning a tiny patio"
+4. **Seasonal & renter outdoor styling** — e.g. "renter-friendly balcony upgrades," "cozy fall balcony ideas" (also off-season smoothing)
 
-Boards + topic clusters mirror these four pillars.
+Boards + topic clusters mirror these four pillars. Expansion arms: balcony plant styling (bridges to gardening) and indoor plant styling.
 
 ## 2. Monetization ladder
 | Stage | Traffic | Monetization |
@@ -45,7 +53,7 @@ Boards + topic clusters mirror these four pillars.
 | Scaling | 25k+ pageviews | Consider **Raptive**; compare RPM vs Journey |
 | Mature | 50k+ | Premium tier negotiation + own digital products (printables, e-book) |
 
-**Affiliate mix:** Amazon (breadth, 3% but everything-in-cart for 24h) + higher-rate garden programs (seed companies, planter/tool brands, ~5–15%) + eventually own printable garden planners.
+**Affiliate mix:** Amazon Home/Garden (breadth, ~1–4% but everything-in-cart for 24h) + higher-rate decor/furniture programs (Wayfair up to 7% on high-AOV outdoor furniture, Society6 ~10%, One Kings Lane ~12%) + string-light/planter brands + eventually own printables. High AOV is the lever here (one patio-furniture sale ≫ many small garden items).
 
 ## 3. Tech setup (bootstrap, <$30/mo)
 - **Hosting:** budget managed WordPress host (~$3–7/mo intro) + domain (~$10/yr).
@@ -63,7 +71,7 @@ Boards + topic clusters mirror these four pillars.
 - **Structure:** topic clusters — a few pillar guides + many long-tail supporting posts, interlinked.
 - **Mix:** ~70% informational (ad RPM) / ~30% buyer "best X" posts (affiliate).
 - **SEO:** one long-tail keyword per post; fully satisfy intent; original photos + real experience (E-E-A-T); strong internal linking.
-- **AI use:** draft/outline with AI, but add genuine experience, photos, and editing — thin generic AI content gets penalized; lived experience is the moat.
+- **AI use (AI-for-everything):** articles, pins, and images are AI-generated. The moat is **depth + specificity + clear stance + scannable formatting** (enforced by the content-craft guardrails), not faked personal anecdotes. `[PERSONAL TIP]` stays owner-fillable for optional real experience. Label AI honestly on Pinterest (home-decor GenAI opt-out).
 - **Cadence:** 3–5 quality posts/week.
 
 ## 6. Pinterest strategy
