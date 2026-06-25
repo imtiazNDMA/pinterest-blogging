@@ -45,3 +45,12 @@ gardener loves and Google + Pinterest reward.
 ## Output
 - Write `Content/<slug>.md`. End with a 3-line self-check (intent satisfied? disclosure placed? internal links ≥3?)
   and note word count + placeholder counts: `[PERSONAL TIP]` left, and `[YOUR PHOTO]` left (must be 2–4, one per pin angle).
+
+## Tracker logging (fallback)
+- The `/new-post` command logs your draft to `pinterest_blog_master_tracker.csv` for you. **If you were
+  dispatched directly (not via `/new-post`)**, update/create the `Content` row yourself per
+  `guidelines/tracker-schema.md` (find the `Idea` row or append a new one; set `Content Status: Draft`,
+  `Word Count`, `Draft Start`/`Last-Updated` = today ISO, the disclosure/internal/affiliate flags).
+- If you can't (no access / can't match the row), **end your output with a loud line:**
+  `⚠ TRACKER NOT LOGGED — add/update Content row: <Post Title, slug, status, word count, flags>`.
+  A post that isn't in the CSV doesn't exist (CLAUDE.md rule 8).

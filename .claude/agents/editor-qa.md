@@ -70,3 +70,11 @@ ready until it provably clears every checklist. You catch what the writer missed
 - A PASS/FAIL checklist (above), the fixes you applied, and a short list of anything the user must
   resolve (e.g., fill a `[PERSONAL TIP]`, supply a photo). End with overall verdict: READY / NEEDS WORK.
 - Update the draft's frontmatter `status: ready` only if every gate passes.
+
+## Tracker logging (fallback)
+- When run inside `/new-post`, the command logs the tracker for you. **If you were dispatched directly**,
+  also update the post's `Content` row in `pinterest_blog_master_tracker.csv` per `guidelines/tracker-schema.md`:
+  set `Content Status` to `Ready` (only if every gate passed) else leave `Draft`, refresh `Last-Updated` (today ISO),
+  and the `Disclosure Added` / `Internal Links Added` / `Affiliate Links Added` flags to match what you verified.
+- If you can't match/update the row, **end with a loud line:**
+  `⚠ TRACKER NOT LOGGED — set Content row <Post Title> status=<Ready/Draft>, flags=<…>`. (CLAUDE.md rule 8.)

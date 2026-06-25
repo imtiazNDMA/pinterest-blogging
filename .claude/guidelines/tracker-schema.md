@@ -29,6 +29,10 @@ The seed CSV ships 3 `Example *` rows — these are templates; real rows drop th
 - **pinterest-strategist / `/make-pins`:** appends `Pin` rows (Batch ID, Title, Angle, Board, Status=Draft → scheduled date).
 - **analytics-optimizer / `/weekly-review`:** fills metric columns from pasted exports, computes CTR/RPM/Net Profit, sets Next Action.
 
+> **Fallback:** the commands above are the normal loggers, but agents (content-writer, editor-qa,
+> pinterest-strategist) dispatched **directly** must log their own row here, or end their output with a
+> loud `⚠ TRACKER NOT LOGGED — …` line. A post/pin not in the CSV doesn't exist (CLAUDE.md rule 8).
+
 ## Rules
 - **Numbers only from real exports.** Never fabricate metrics; leave blank until data exists.
 - Keep one source of truth — don't fork the CSV. Edits are appends/updates in place.

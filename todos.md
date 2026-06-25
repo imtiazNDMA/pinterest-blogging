@@ -29,7 +29,7 @@
   Sample used "2026 Picks" → maintenance debt.
   **Fix:** `guidelines/headlines-and-titles.md` — add a year-in-title policy.
 
-- [ ] **5. (Med) Tracker logging is orchestration-only**
+- [x] **5. (Med) Tracker logging is orchestration-only** — _done 2026-06-25_
   Agents don't log to the tracker; only the command does.
   **Fix:** Make `/new-post` logging explicit + add an agent fallback note.
 
@@ -64,3 +64,9 @@
 - **2026-06-25 — Fix #4 (year-in-title policy):** `guidelines/headlines-and-titles.md` gained a
   "Year-in-title policy" section + an Avoid bullet (default: no year in SEO title/H1/slug; only if a
   committed annual refresh; pins may use it sparingly). `agents/editor-qa.md` flags/strips stray years.
+- **2026-06-25 — Fix #5 (explicit tracker logging):** `commands/new-post.md` step 5 now spells out the
+  exact `Content`-row columns to find/create + set (status, word count, dates, disclosure/internal/
+  affiliate flags, URL, next action) and to confirm the Record ID in the report. Added a "Tracker
+  logging (fallback)" section to `agents/content-writer.md` + `agents/editor-qa.md` (log the row when
+  dispatched directly, else emit a loud `⚠ TRACKER NOT LOGGED` line). `guidelines/tracker-schema.md`
+  "Who writes what" gained the matching fallback note.
