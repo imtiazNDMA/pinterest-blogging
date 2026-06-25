@@ -20,7 +20,7 @@
   `content-writer` left only 1 photo marker; pin creation needs 2–4 (one per pin angle).
   **Fix:** Require `content-writer` to leave 2–4 `[YOUR PHOTO]` markers, one per pin angle.
 
-- [ ] **3. (Med) "Best for…" segments not distinct**
+- [x] **3. (Med) "Best for…" segments not distinct** — _done 2026-06-25_
   Sample had 2 picks both = floor grow box.
   **Fix:** `guidelines/conversion-copywriting.md` — require "Best for…" segments to be DISTINCT
   product categories.
@@ -57,3 +57,7 @@
   markers (one per pin angle) + reports the count in its self-check. `guidelines/content-structure.md`
   states the 2–4 count. `agents/editor-qa.md` grep-counts `[YOUR PHOTO` and FAILs if <2.
   `templates/post-skeleton.md` carries a "2–4, one per pin angle" cue.
+- **2026-06-25 — Fix #3 (distinct "Best for…" picks):** `guidelines/conversion-copywriting.md` framing
+  rule 3 + QA check now require each "Best for…" segment to be a DISTINCT product (different
+  category/form factor); two relabeled identicals = FAIL. Mirrored in `agents/editor-qa.md` craft check
+  and `agents/content-writer.md` buyer-post craft line.

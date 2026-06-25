@@ -32,7 +32,7 @@ gardener loves and Google + Pinterest reward.
 ## Craft requirements
 - **Title:** follow `headlines-and-titles.md` — keyword front-loaded, specific, deliverable; give 2–3 SEO title options.
 - **Intro:** follow `hooks-and-intros.md` — answer-first, mirror intent, quick-answer block on the first screen, no filler opener.
-- **Buyer posts:** follow `conversion-copywriting.md` — verdict-first picks, selection criteria, "best for…" segmentation, honest trade-offs, descriptive-anchor CTAs (no prices).
+- **Buyer posts:** follow `conversion-copywriting.md` — verdict-first picks, selection criteria, "best for…" segmentation (**each segment a distinct product/form factor, never the same item relabeled**), honest trade-offs, descriptive-anchor CTAs (no prices).
 
 ## Hard rules (will be checked by editor-qa)
 - No prices, "cheapest", or stock claims (Amazon ToS). No fabricated experience, stats, quotes, reviews.

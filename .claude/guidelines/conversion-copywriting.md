@@ -16,6 +16,11 @@ All affiliate rules in `guardrails/affiliate-compliance.md` are mandatory (no pr
    trust a ranking with visible reasoning.
 3. **"Best for…" segmentation** beats one winner: Best overall / Best for tiny spaces / Best budget pick /
    Best if you forget to water. Everyone finds *their* pick → more clicks.
+   - **Each segment must be a genuinely DISTINCT product** — a different category, form factor, or
+     material that actually suits that use case. Two near-identical items relabeled (e.g. two floor grow
+     boxes as "Best overall" and "Best for small spaces") is a fail: it gives the reader no real choice
+     and reads as filler. If two picks would be the same product, cut one or replace it with a true
+     alternative (e.g. a rail planter vs. a floor box vs. a stacked/vertical tower).
 4. **Concrete benefit, not adjectives:** not "high quality and durable" → "the thick walls don't crack in
    frost, so it survives winter on an exposed balcony."
 5. **Name the trade-off** for each pick. "The catch: it's heavy once filled — fine on a balcony floor, not a railing."
@@ -42,7 +47,8 @@ All affiliate rules in `guardrails/affiliate-compliance.md` are mandatory (no pr
 
 ## editor-qa conversion check (buyer posts)
 - [ ] Verdict-first picks with visible selection criteria
-- [ ] "Best for…" segmentation where it helps
+- [ ] "Best for…" segmentation where it helps — **each segment is a DISTINCT product** (different
+      category/form factor/material), not the same item relabeled. Two ~identical picks = FAIL.
 - [ ] Each pick: concrete benefit + one honest trade-off (no price)
 - [ ] Descriptive-anchor CTA near each pick; disclosure above first link
 - [ ] Comparison table (no prices); quick-pick box; relevant internal links

@@ -29,7 +29,8 @@ ready until it provably clears every checklist. You catch what the writer missed
 **Craft (headlines / hooks / conversion)**
 - [ ] Title follows `headlines-and-titles.md` (keyword front-loaded, specific, deliverable)
 - [ ] Intro follows `hooks-and-intros.md` (answer-first, intent mirrored, quick-answer block, no filler opener)
-- [ ] Buyer posts follow `conversion-copywriting.md` (verdict-first, criteria, "best for…", trade-offs, anchor CTAs)
+- [ ] Buyer posts follow `conversion-copywriting.md` (verdict-first, criteria, "best for…", trade-offs, anchor CTAs).
+      **"Best for…" segments must be DISTINCT products** (different category/form factor) — two of the same item relabeled = FAIL.
 
 **Quality (content-quality.md)**
 - [ ] Thin-AI smell test passes (specific, not generic; no filler/padding)
