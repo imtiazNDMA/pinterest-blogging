@@ -13,6 +13,8 @@
 - **Meta description:** 140–160 chars, includes primary keyword + a reason to click. Never auto-truncated mid-word.
 - **Slug:** short, keyword-based, hyphenated, lowercase (see `guidelines/naming-conventions.md`).
 - **Headings:** one H1; logical H2/H3; put key sub-questions in headings (helps PAA + Pinterest).
+  At least one H2 carries the **primary keyword *or* a close variant** (synonym / partial / reworded
+  phrasing) — phrase it naturally; never force the exact string if it makes the heading clunky.
 - **First 100 words** state what the reader will get and include the primary keyword once, naturally.
 - **Images:** descriptive filenames + keyword-aware alt text; never `IMG_1234.jpg`.
 
@@ -30,7 +32,7 @@
 - No buying links, no AI-spam mass posting, no doorway pages, no scraped content, no exact-match anchor spam.
 
 ## editor-qa / seo checklist
-- [ ] Exactly one primary keyword, placed in title + first 100 words + ≥1 H2 naturally
+- [ ] Exactly one primary keyword in title + first 100 words; the **primary keyword OR a close variant** in ≥1 H2, naturally
 - [ ] Meta description 140–160 chars with keyword + hook
 - [ ] Logical heading hierarchy; sub-questions surfaced
 - [ ] ≥3 descriptive internal links

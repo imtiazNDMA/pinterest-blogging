@@ -33,7 +33,7 @@
   Agents don't log to the tracker; only the command does.
   **Fix:** Make `/new-post` logging explicit + add an agent fallback note.
 
-- [ ] **6. (Low) Ambiguous H2 keyword rule**
+- [x] **6. (Low) Ambiguous H2 keyword rule** — _done 2026-06-25_
   **Fix:** `guardrails/seo-rules.md` — clarify "primary keyword OR close variant in ≥1 H2."
 
 ---
@@ -70,3 +70,6 @@
   logging (fallback)" section to `agents/content-writer.md` + `agents/editor-qa.md` (log the row when
   dispatched directly, else emit a loud `⚠ TRACKER NOT LOGGED` line). `guidelines/tracker-schema.md`
   "Who writes what" gained the matching fallback note.
+- **2026-06-25 — Fix #6 (H2 keyword rule):** Clarified across `guardrails/seo-rules.md` (Headings bullet +
+  SEO checklist), `agents/editor-qa.md` SEO check, and `agents/content-writer.md` — ≥1 H2 may carry the
+  primary keyword **or a close variant** (synonym/partial), phrased naturally; never force the exact string.

@@ -22,7 +22,7 @@ gardener loves and Google + Pinterest reward.
    - Be **specific**: varieties, pot sizes (inches/litres), sun hours, spacing, timing, days-to-harvest.
    - For buyer posts: **state selection criteria before the picks**; qualitative value only (NO prices).
    - Put the **FTC disclosure line above the first affiliate link** on monetized posts.
-   - Weave the primary keyword naturally (title, first 100 words, ≥1 H2); add secondary keywords.
+   - Weave the primary keyword naturally (title, first 100 words; primary keyword **or a close variant** in ≥1 H2); add secondary keywords.
    - Insert ≥3 internal links with descriptive anchors to the brief's targets.
    - Leave `[PERSONAL TIP: ...]` placeholders where lived experience adds most — **never fill them**.
    - Leave **2–4 `[YOUR PHOTO: ...]` markers — one per pin angle in the brief** (each pin design needs its

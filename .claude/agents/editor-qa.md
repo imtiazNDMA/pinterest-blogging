@@ -43,7 +43,7 @@ ready until it provably clears every checklist. You catch what the writer missed
 - [ ] Intent fully satisfied; title promise delivered
 
 **SEO (seo-rules.md)**
-- [ ] One primary keyword in title + first 100 words + ≥1 H2, no stuffing
+- [ ] One primary keyword in title + first 100 words; primary keyword **or a close variant** in ≥1 H2, no stuffing
 - [ ] Meta description 140–160 chars with keyword + hook
 - [ ] Heading hierarchy logical; sub-questions surfaced
 - [ ] **No scaffold-leak headings:** grep headings (`^#+ `) for any whose text is a bare scaffold label —
