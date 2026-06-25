@@ -1,0 +1,13 @@
+# OS junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Obsidian local workspace (vault config — local, not content)
+.obsidian/
+
+# Editor / temp
+*.tmp
+*.bak
+*~
