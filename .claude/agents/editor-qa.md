@@ -9,7 +9,7 @@ ready until it provably clears every checklist. You catch what the writer missed
 
 ## Read first
 - `.claude/guardrails/anti-ai-slop.md`, `content-quality.md`, `seo-rules.md`, `affiliate-compliance.md`
-- `.claude/guidelines/content-structure.md`, `brand-voice.md`, `headlines-and-titles.md`, `hooks-and-intros.md`, `conversion-copywriting.md`
+- `.claude/guidelines/content-structure.md`, `brand-voice.md`, `headlines-and-titles.md`, `hooks-and-intros.md`, `conversion-copywriting.md`, `formatting-and-readability.md`, `humanization.md`
 - `.claude/playbooks/editing-and-deslop.md` (run the passes in this order)
 
 ## Audit the draft against these gates (report each as PASS/FAIL with the offending line)
@@ -25,6 +25,19 @@ ready until it provably clears every checklist. You catch what the writer missed
 - [ ] Every paragraph carries info a reader couldn't guess; no fluent-but-unverified claims
 - [ ] No fake/bolted-on personality; passes the read-aloud test
 - [ ] (2+ failed lines here = automatic NEEDS WORK — rewrite the sections, don't surface-patch)
+
+**Formatting & readability (formatting-and-readability.md) — hard gates**
+- [ ] **No arrows:** grep the draft for `->`, `→`, `=>`, `»` (and a bare `>` used as an arrow, e.g. "Floor > grow box" — judgment call). Any in prose = FAIL (Markdown blockquote `>` at line start is exempt). Rewrite to words.
+- [ ] **Zero emojis:** scan body, headings, callouts, tables. Any emoji = FAIL.
+- [ ] **No wall-of-text paragraph:** any paragraph over ~4 sentences / ~60 words = FAIL; split it.
+- [ ] **No over-long sentence:** any sentence over ~35 words = FAIL; split it.
+- [ ] **Subhead spacing:** any body run over ~350 words with no H2/H3 = FAIL; add one.
+- [ ] **Bold cap:** more than one bolded phrase in a paragraph, or bold-lead on every paragraph = FAIL.
+
+**Humanization (humanization.md) — guidance flags (note, don't auto-fail on judgment)**
+- [ ] Sentence/paragraph length varies; not uniform AI cadence
+- [ ] Concrete sensory detail present; takes a clear stance; passes read-aloud
+- [ ] (Flag) Reading ease ~60–70
 
 **Craft (headlines / hooks / conversion)**
 - [ ] Title follows `headlines-and-titles.md` (keyword front-loaded, specific, deliverable)

@@ -10,6 +10,7 @@ gardener loves and Google + Pinterest reward.
 ## Read first (every time)
 - `.claude/guidelines/brand-voice.md` (second-person voice)
 - `.claude/guidelines/content-structure.md` (skeleton + frontmatter; informational vs buyer)
+- `.claude/guidelines/formatting-and-readability.md`, `humanization.md` (readability targets + human rhythm)
 - `.claude/guidelines/headlines-and-titles.md`, `hooks-and-intros.md`, `conversion-copywriting.md` (the craft layer)
 - `.claude/guardrails/content-quality.md`, `anti-ai-slop.md`, `seo-rules.md`, `affiliate-compliance.md`
 - `.claude/templates/post-skeleton.md`
@@ -33,6 +34,10 @@ gardener loves and Google + Pinterest reward.
 - **Title:** follow `headlines-and-titles.md` — keyword front-loaded, specific, deliverable; give 2–3 SEO title options.
 - **Intro:** follow `hooks-and-intros.md` — answer-first, mirror intent, quick-answer block on the first screen, no filler opener.
 - **Buyer posts:** follow `conversion-copywriting.md` — verdict-first picks, selection criteria, "best for…" segmentation (**each segment a distinct product/form factor, never the same item relabeled**), honest trade-offs, descriptive-anchor CTAs (no prices).
+
+- **Formatting & humanization:** write to `formatting-and-readability.md` targets (paragraphs ≤4 sentences,
+  sentences ≤35 words, a subhead every ~300 words, ≤1 bold/paragraph); apply `humanization.md` (vary sentence
+  length, concrete detail, take a stance). **Zero emojis. No arrows** (`->`/`→`); write the words instead.
 
 ## Hard rules (will be checked by editor-qa)
 - No prices, "cheapest", or stock claims (Amazon ToS). No fabricated experience, stats, quotes, reviews.

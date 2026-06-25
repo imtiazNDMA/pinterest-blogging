@@ -26,8 +26,18 @@ All affiliate rules in `guardrails/affiliate-compliance.md` are mandatory (no pr
 5. **Name the trade-off** for each pick. "The catch: it's heavy once filled — fine on a balcony floor, not a railing."
 6. **Qualitative value only** — "a worthwhile splurge that lasts years" / "the budget-friendly choice". **No prices/numbers** (Amazon ToS).
 
+## Honest persuasion frameworks (use truthfully)
+- **PAS — Problem → Agitate → Solve:** name the reader's real problem, show its concrete cost, then solve it.
+  "Forget to water for three days and a balcony pot in full sun is toast. A self-watering reservoir buys you that slack."
+  Never manufacture fake pain — agitate only a problem the reader actually has.
+- **BAB — Before → After → Bridge:** the frustrating now, the better after, the product as the bridge. Keep it true.
+- **Feature → benefit translation:** every feature gets a "so that you…". "Thick double walls *so that* it
+  survives frost on an exposed balcony." A spec the reader can't translate to a benefit doesn't convert.
+- **One reader, one decision:** aim each pick at one clear situation; too many near-identical options stall the
+  choice (ties to the distinct "Best for…" rule). Reduce, don't pad.
+
 ## CTAs (calls to action)
-- **Specific + low-pressure:** "Check current options on Amazon" / "See the [product] →". Avoid "BUY NOW!!".
+- **Specific + low-pressure:** "Check current options on Amazon" / "See the [product]". Avoid "BUY NOW!!".
 - **Placement:** one near each pick (after the reasoning), and one in a summary/comparison table. Don't stack CTAs.
 - **Descriptive anchor text** (also SEO): "self-watering rail planter", not "click here".
 - **Disclosure above the first affiliate link** — always.

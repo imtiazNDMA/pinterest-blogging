@@ -38,6 +38,21 @@
 
 ---
 
+## Content-craft guardrails (copywriting / humanization / formatting / anti-slop)
+
+_Design: `docs/superpowers/specs/2026-06-25-content-craft-guardrails-design.md` ·
+Plan: `docs/superpowers/plans/2026-06-25-content-craft-guardrails.md` · Branch: `feat/content-craft-guardrails`_
+
+- [x] **New `guidelines/formatting-and-readability.md`** — _done 2026-06-25_ (measurable hard-gate targets)
+- [x] **New `guidelines/humanization.md`** — _done 2026-06-25_ (rhythm + reader-connection, guidance flags)
+- [x] **Anti-slop re-examination** — _done 2026-06-25_ (arrows banned, emoji C3, new phrasing/format tells)
+- [x] **Deeper `conversion-copywriting.md`** — _done 2026-06-25_ (PAS/BAB, feature→benefit, one-decision)
+- [x] **Emoji ban in pins** — _done 2026-06-25_ (`pin-spec.md` + `pinterest-strategist.md`)
+- [x] **Wired `content-writer.md` + `editor-qa.md`** — _done 2026-06-25_ (tiered: hard gates + flags)
+- [x] **Brought sample post into compliance** — _done 2026-06-25_ (replaced 4 `→` arrows in the decision tree with words; now 0 arrows / 0 dashes / 0 emoji)
+
+---
+
 ## Related follow-ups (not part of the 6 fixes)
 
 - [x] Re-run `editor-qa` on `Content/best-self-watering-planters-balcony.md` to clean it under the
@@ -77,3 +92,12 @@
 - **2026-06-25 — Fix #6 (H2 keyword rule):** Clarified across `guardrails/seo-rules.md` (Headings bullet +
   SEO checklist), `agents/editor-qa.md` SEO check, and `agents/content-writer.md` — ≥1 H2 may carry the
   primary keyword **or a close variant** (synonym/partial), phrased naturally; never force the exact string.
+- **2026-06-25 — Content-craft guardrails (branch `feat/content-craft-guardrails`):** Added two guidelines
+  (`formatting-and-readability.md` with hard-gate numbers: paragraph ≤4 sentences/~60 words, sentence
+  ≤35 words, subhead every ~350 words, ≤1 bold/paragraph; `humanization.md` with rhythm/stance/sensory
+  guidance flags). Re-examined `anti-ai-slop.md`: banned arrows (`->`, `→`, `=>`, `»`) as a hard gate,
+  added absolute emoji ban (C3), and new hype/format tells. Deepened `conversion-copywriting.md`
+  (PAS/BAB, feature→benefit, one-reader-one-decision). Banned emojis in pin copy
+  (`pin-spec.md` + `pinterest-strategist.md`). Wired both new guidelines into `content-writer.md` and
+  `editor-qa.md` (tiered: formatting hard gates + humanization flags). Verified via planted-violation
+  fixture (each gate fired) and brought the sample post into compliance (4 `→` arrows rewritten to words).
