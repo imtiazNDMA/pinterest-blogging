@@ -21,6 +21,8 @@ tapestry, realm, landscape (figurative), testament, treasure trove, game-changer
 **Empty intensifiers:** "truly", "really", "very", "incredibly", "absolutely", "literally", "undoubtedly".
 **Closing slop:** "In conclusion", "At the end of the day", "The possibilities are endless",
 "happy gardening!", "with these tips, you'll be well on your way to…".
+**Hype/marketing tells:** "elevate", "transform your space", "say hello to", "meet [product]", "effortless",
+"seamless", "supercharge", "unlock", "boasts", "nestled", "dive deeper", "without further ado", "let's get started".
 > A short curated list of these can live nowhere else — keep this section current; add new tells as you spot them.
 
 ## B. Structural AI tells (rewrite the structure, not just words)
@@ -34,6 +36,11 @@ tapestry, realm, landscape (figurative), testament, treasure trove, game-changer
 - **Punctuation & sentence-pattern tells** (em-dash overuse, false-contrast constructions): the two most
   frequent and most ignored AI tells. They get their own enforced section — see **Section C** below.
 - **Fake personality** bolted on ("As a fellow plant lover, I get it!"): not experience, it's slop cosplay.
+- **Emojis as decoration/bullets** (✅ 🌱 👉): banned outright — see the absolute emoji ban below.
+- **Bold-lead on every paragraph** / bold-spam: see `formatting-and-readability.md` bold cap.
+- **Title-Case Every Heading** and **colon-padded headers** ("Watering: What You Need to Know"): use sentence case, no colon padding.
+- **Over-signposting:** "In this section we'll cover…", "Now that we've covered X, let's look at Y." Just write the section.
+- **"Pro tip:" / "Quick tip:" / "Remember:" overuse:** at most rarely, and only with a genuinely non-obvious tip.
 
 ## C. Punctuation & sentence-pattern tells (the loudest AI fingerprint)
 These are the tells that scream "written by AI" even when the content is good. Enforce hard.
@@ -51,6 +58,9 @@ human gardening writer rarely needs them.
   - List/aside — restructure into its own sentence or a comma clause.
 - **Also banned: the emphatic dramatic fragment** used for punch: "full stop", "period.", "simple as that",
   "end of story", "that's it." Just state the point.
+- **Arrows are banned in prose `(hard gate)`:** `->`, `→`, `=>`, `»`, and `>` used as an arrow. They are a
+  layout/notes tell, not writing. Rewrite to words: "leads to", "then", "becomes", "results in".
+  (A Markdown blockquote `>` at the start of a line — e.g. a `[PERSONAL TIP]` callout — is fine.)
 
 ### C2. False-contrast / negation-correction constructions
 LLMs manufacture drama with a setup-and-subvert template. It's padding that sounds identical across every AI
@@ -70,6 +80,10 @@ page. Ban these patterns; state the point directly instead.
 - **Rewrites:** "Self-watering pots aren't just convenient, they prevent root rot" → "Self-watering pots cut
   watering to twice a week and prevent the flood-then-drought cycle that rots roots."
 
+### C3. Emojis — zero, always `(hard gate)`
+No emojis anywhere in post content (body, headings, callouts, tables) or in pin copy. This is a brand choice,
+not a style preference. A keyword and a specific hook carry the text; emoji decoration reads as low-effort AI/social filler.
+
 ## D. Substance tells (the deepest, hardest to fake)
 - **No specifics:** advice that names no variety, size, number, timing, or threshold. (Cross-ref content-quality.)
 - **Hallucination risk:** confident claims with no verifiable source — especially numbers, "studies", plant
@@ -83,6 +97,9 @@ page. Ban these patterns; state the point directly instead.
 - [ ] Zero banned phrases from section A (or each is justified + rewritten)
 - [ ] **Em-dashes within cap** (≤1 per ~400 words, prefer zero); none used as a dramatic pause or afterthought;
       no "full stop"/"period."/"simple as that" emphatic fragments (C1)
+- [ ] **No arrows** (`->`, `→`, `=>`, `»`, `>`-as-arrow) in prose (C1)
+- [ ] **Zero emojis** anywhere in content or pin copy (C3)
+- [ ] No hype/marketing tells, over-signposting, colon/Title-Case headers, or "Pro tip:" overuse (A/B)
 - [ ] **No false-contrast constructions** ("not just X, it's Y", "not only… but also", "X? Not anymore",
       rhetorical-question fragments); ≤1 earned contrast in the whole post (C2)
 - [ ] No restated headings, obvious definitions, or empty conclusion
