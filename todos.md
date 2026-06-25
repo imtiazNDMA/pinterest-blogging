@@ -40,8 +40,11 @@
 
 ## Related follow-ups (not part of the 6 fixes)
 
-- [ ] Re-run `editor-qa` on `Content/best-self-watering-planters-balcony.md` to clean it under the
-  new anti-slop rules (still has 36 em-dashes; cap allows ~6). Capture before/after as proof.
+- [x] Re-run `editor-qa` on `Content/best-self-watering-planters-balcony.md` to clean it under the
+  new anti-slop rules — _done 2026-06-25_ (commit `e239c0c`). Dashes 39→0; scaffold headings removed;
+  duplicate floor-box pick → vertical tower; year stripped; photo markers 1→2; tracker row 4 → Ready.
+  **Still needs owner inputs before PUBLISH:** fill `[PERSONAL TIP]`, supply 2 photos, swap 4
+  `#affiliate` placeholders for real tagged links, replace `{{BLOG_NAME}}` tokens.
 - [x] Commit the studio to git — _done 2026-06-25_ (re-initialized empty `.git`, baseline `126cc0b`,
   then one commit per fix on `main`).
 
