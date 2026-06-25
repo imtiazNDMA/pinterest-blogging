@@ -10,7 +10,7 @@
 
 ## Pending fixes
 
-- [ ] **1. (High) Scaffolding headings leak into posts**
+- [x] **1. (High) Scaffolding headings leak into posts** — _done 2026-06-25_
   Literal scaffold H2s (`## Intro`, `## Quick answer`, `## Wrap-up`, `## Comparison table`) got
   published as real headings.
   **Fix:** `guidelines/content-structure.md` + `templates/post-skeleton.md` — intro = no heading;
@@ -48,4 +48,8 @@
 
 ## Changelog
 
-_(Add an entry here each time a box above is checked.)_
+- **2026-06-25 — Fix #1 (scaffold-heading leak):** Moved writer cues into HTML comments in
+  `templates/post-skeleton.md` (intro now has no heading; TL;DR + closing headings are reader-facing
+  placeholders). Updated `guidelines/content-structure.md` skeleton items 1/2/6 + buyer item 5 and
+  added a "Headings are reader-facing" rule. Added a grep gate to `agents/editor-qa.md` that FAILs any
+  bare scaffold-label heading (Intro / Quick answer / TL;DR / Wrap-up / Comparison table / Conclusion).

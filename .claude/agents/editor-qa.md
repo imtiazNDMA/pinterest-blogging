@@ -43,6 +43,10 @@ ready until it provably clears every checklist. You catch what the writer missed
 - [ ] One primary keyword in title + first 100 words + ≥1 H2, no stuffing
 - [ ] Meta description 140–160 chars with keyword + hook
 - [ ] Heading hierarchy logical; sub-questions surfaced
+- [ ] **No scaffold-leak headings:** grep headings (`^#+ `) for any whose text is a bare scaffold label —
+      `Intro`, `Quick answer`, `Quick Answer`, `TL;DR`, `Wrap-up`, `Wrap up`, `Comparison table`,
+      `Conclusion`. Any match = FAIL. The intro must have NO heading; every other section needs a
+      specific, reader-facing heading. Rewrite the offending heading (don't just delete it).
 - [ ] ≥3 descriptive internal links
 
 **Compliance (affiliate-compliance.md)**

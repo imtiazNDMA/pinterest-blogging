@@ -18,10 +18,17 @@ last_updated: YYYY-MM-DD
 <!-- INFORMATIONAL skeleton. For BUYER posts: add FTC disclosure line below the intro and a
      "Quick picks" + "How we chose / selection criteria" section before the picks. See guidelines/content-structure.md -->
 
-## Intro
-2–4 sentences: the reader's problem + what they'll get. Primary keyword once, naturally.
+<!-- SCAFFOLD LABELS IN THIS TEMPLATE ARE WRITER CUES, NOT HEADINGS. Never publish the words
+     "Intro", "Quick answer", "Wrap-up", or "Comparison table" as literal headings. The intro has
+     NO heading; every other section gets a specific, reader-facing heading. -->
 
-## Quick answer
+<!-- INTRO — no heading. Open with the paragraph itself. 2–4 sentences: the reader's problem +
+     what they'll get. Primary keyword once, naturally. -->
+<2–4 intro sentences here, no heading above them>
+
+<!-- QUICK ANSWER / TL;DR — keep the heading reader-facing & specific; do NOT write "Quick answer".
+     e.g. "## The 5 best balcony vegetables, ranked" or "## The short version" -->
+## <reader-facing TL;DR heading>
 The short version up top (snippet- and pinner-friendly).
 
 ## <Main section / sub-question H2>
@@ -40,5 +47,7 @@ Honest trade-offs = authority.
 ### <PAA-style question>
 Concise answer.
 
-## Wrap-up
+<!-- WRAP-UP — give the closing section a reader-facing heading; do NOT write "Wrap-up".
+     e.g. "## Start with one pot" or "## Your next step" -->
+## <reader-facing closing heading>
 1–2 sentences + internal links: **Next, read:** [<anchor>](/<slug>), [<anchor>](/<slug>)
