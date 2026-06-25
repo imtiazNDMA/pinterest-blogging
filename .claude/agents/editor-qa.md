@@ -28,6 +28,8 @@ ready until it provably clears every checklist. You catch what the writer missed
 
 **Craft (headlines / hooks / conversion)**
 - [ ] Title follows `headlines-and-titles.md` (keyword front-loaded, specific, deliverable)
+- [ ] **No year in the SEO title, H1, or slug** (e.g. "2026 Picks") unless the post is a committed annual
+      refresh — see the year-in-title policy. Flag a stray year as maintenance debt and strip it.
 - [ ] Intro follows `hooks-and-intros.md` (answer-first, intent mirrored, quick-answer block, no filler opener)
 - [ ] Buyer posts follow `conversion-copywriting.md` (verdict-first, criteria, "best for…", trade-offs, anchor CTAs).
       **"Best for…" segments must be DISTINCT products** (different category/form factor) — two of the same item relabeled = FAIL.

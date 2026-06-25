@@ -32,10 +32,20 @@ pinterest-strategist; checked by editor-qa.
 - **Mild curiosity gap** that the post closes: "…That Most Beginners Skip". Never an empty tease.
 - **Reader-relevant qualifier:** "for renters", "on a budget", "for shade", "without a garden".
 
+## Year-in-title policy
+- **Default: NO year in the SEO title, H1, or slug.** A hard-coded year dates the post and creates annual
+  maintenance debt — a stale "2026" seen in 2027 reads as abandoned and tanks CTR. Write evergreen:
+  "Best Self-Watering Planters for Balconies", not "Best Self-Watering Planters (2026 Picks)".
+- **Only add a year** if the post is genuinely an annual refresh you *commit to updating every January* —
+  and then update the title's year, `last_updated`, and the content together. If you won't maintain it, omit it.
+- **Pin titles** may use the current year sparingly (pins are refreshed often), but evergreen still travels further.
+- For "freshness" signals prefer updating `last_updated` + content over stamping a year in the title.
+
 ## Avoid
 - Clickbait you can't pay off ("You won't BELIEVE…"), ALL CAPS shouting, emoji in the SEO title.
 - Keyword stuffing two keywords into one title. Vague abstractions ("The Ultimate Guide to Gardening Success").
 - Identical phrasing across a cluster (title cannibalization) — vary the angle per post.
+- **A year in an evergreen SEO title/slug** (e.g. "2026 Picks") unless you commit to annual updates — see policy above.
 
 ## Per-surface notes
 - **SEO title vs H1:** can differ slightly; keep both keyword-led. H1 can be a touch longer/friendlier.

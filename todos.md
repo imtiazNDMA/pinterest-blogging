@@ -25,7 +25,7 @@
   **Fix:** `guidelines/conversion-copywriting.md` — require "Best for…" segments to be DISTINCT
   product categories.
 
-- [ ] **4. (Low) No year-in-title policy**
+- [x] **4. (Low) No year-in-title policy** — _done 2026-06-25_
   Sample used "2026 Picks" → maintenance debt.
   **Fix:** `guidelines/headlines-and-titles.md` — add a year-in-title policy.
 
@@ -61,3 +61,6 @@
   rule 3 + QA check now require each "Best for…" segment to be a DISTINCT product (different
   category/form factor); two relabeled identicals = FAIL. Mirrored in `agents/editor-qa.md` craft check
   and `agents/content-writer.md` buyer-post craft line.
+- **2026-06-25 — Fix #4 (year-in-title policy):** `guidelines/headlines-and-titles.md` gained a
+  "Year-in-title policy" section + an Avoid bullet (default: no year in SEO title/H1/slug; only if a
+  committed annual refresh; pins may use it sparingly). `agents/editor-qa.md` flags/strips stray years.
