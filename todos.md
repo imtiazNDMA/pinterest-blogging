@@ -42,7 +42,8 @@
 
 - [ ] Re-run `editor-qa` on `Content/best-self-watering-planters-balcony.md` to clean it under the
   new anti-slop rules (still has 36 em-dashes; cap allows ~6). Capture before/after as proof.
-- [ ] Commit the studio to git (repo currently has no commits; detached `HEAD`).
+- [x] Commit the studio to git — _done 2026-06-25_ (re-initialized empty `.git`, baseline `126cc0b`,
+  then one commit per fix on `main`).
 
 ---
 
