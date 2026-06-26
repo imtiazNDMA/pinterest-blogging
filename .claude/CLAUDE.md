@@ -58,6 +58,9 @@ states the rules every agent and command must obey.
 5. **One primary keyword per post; satisfy intent fully; ≥3 internal links; no keyword stuffing.**
    See `guardrails/seo-rules.md`.
 6. **Fresh pins only, strict 2:3 (1000×1500), no misleading pins.** See `guardrails/pinterest-policy.md`.
+   AI images obey `guardrails/ai-image-generation.md` (authentic, no logos/prices/garbled text, **label AI**);
+   design system in `guidelines/pin-visual-style.md`, prompts in `templates/ai-image-prompt.md`, procedure in
+   `playbooks/pin-image-generation.md`.
 7. **Bootstrap budget:** free tools only unless I explicitly approve a cost.
 8. **Log everything to the tracker.** A post/pin that isn't in the CSV doesn't exist.
 

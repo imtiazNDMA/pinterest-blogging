@@ -1,12 +1,19 @@
 # Guideline: Pinterest Pin Spec
 
-How the pinterest-strategist builds a pin batch for a post. Obeys `guardrails/pinterest-policy.md`.
+How the pinterest-strategist builds a pin batch for a post (**copy + strategy**). Obeys
+`guardrails/pinterest-policy.md`. The **visual design system** (palette, fonts, layout archetypes,
+text-overlay mechanics, realism) lives in `guidelines/pin-visual-style.md`; AI generation in
+`templates/ai-image-prompt.md` + `playbooks/pin-image-generation.md`; image rules in
+`guardrails/ai-image-generation.md`.
 
 ## Design spec (every pin)
 - **Size:** 1000×1500 px, **2:3** vertical. No exceptions.
 - **Text overlay:** bold, high-contrast, legible at thumbnail size; 4–8 words of hook; brand mark small.
-- **Image:** original photo preferred (`[YOUR PHOTO]` from the post) > free stock (Pexels/Unsplash, license-safe).
-- **Consistency:** recognizable template family (fonts/colors) so the account reads as one authority.
+  Mechanics (bands, fonts, sizing, safe margins) in `guidelines/pin-visual-style.md` §3–4.
+- **Image:** original photo (`[YOUR PHOTO]`) > AI-generated per the visual-style system > free stock
+  (Pexels/Unsplash, license-safe). AI images are **labeled AI** on Pinterest (home-decor opt-out).
+- **Layout:** pick one archetype per pin (`pin-visual-style.md` §6); never repeat an archetype within a batch.
+- **Consistency:** one palette + font pairing across the batch so the account reads as one authority.
 
 ## The angle taxonomy (generate multiple FRESH designs per post)
 Each post spawns several pins, each a different angle → different design + title (not a re-share):
