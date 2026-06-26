@@ -59,3 +59,6 @@ gardener loves and Google + Pinterest reward.
 - If you can't (no access / can't match the row), **end your output with a loud line:**
   `⚠ TRACKER NOT LOGGED — add/update Content row: <Post Title, slug, status, word count, flags>`.
   A post that isn't in the CSV doesn't exist (CLAUDE.md rule 8).
+- **CSV-safety (HARD):** `Notes` and `Next Action` usually contain commas — **wrap those fields in double
+  quotes** (escape internal `"` as `""`) so the row stays exactly 51 fields. Never paste comma-laden free
+  text into an unquoted cell; it silently splits the row. See `guidelines/tracker-schema.md` CSV-safety.

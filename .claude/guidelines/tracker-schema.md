@@ -10,7 +10,7 @@ Agents read it for state and append/update rows; the analytics-optimizer reads i
 
 The seed CSV ships 3 `Example *` rows — these are templates; real rows drop the "Example" prefix.
 
-## Column groups (50 columns)
+## Column groups (51 columns)
 - **Identity:** Record ID, Record Type, Cluster/Niche, Post Title, Post URL, Primary Keyword, Search Intent.
 - **Content lifecycle:** Content Status (Idea→Outline→Draft→Ready→Published), Draft Start/Publish/Last-Updated dates, Word Count.
 - **Monetization on-page:** Affiliate Links Added, Amazon Products Featured, Disclosure Added, Internal Links Added.
@@ -38,3 +38,16 @@ The seed CSV ships 3 `Example *` rows — these are templates; real rows drop th
 - Keep one source of truth — don't fork the CSV. Edits are appends/updates in place.
 - Metric columns the user can't yet provide stay empty (not zero) to avoid skewing analysis.
 - Dates ISO `YYYY-MM-DD`.
+
+## CSV-safety (HARD — prevents row corruption)
+Free-text fields routinely contain commas (**Notes**, **Next Action**, **Pin Title**, descriptions). A
+comma that isn't inside quotes **silently splits the row** into extra fields and breaks column alignment for
+every downstream metric. This has bitten the tracker before. So:
+- **Wrap every free-text field that could contain a comma, double-quote, or newline in double quotes.**
+  Escape any internal `"` by doubling it (`"` → `""`). When in doubt, quote the field.
+- **Every row has exactly 51 comma-separated fields** — no more, no fewer.
+- **Verify after writing.** Re-parse the row (or the file) with a real CSV parser and confirm 51 fields per
+  row. A quick check: `python -c "import csv; print({len(r) for r in csv.reader(open('pinterest_blog_master_tracker.csv',encoding='utf-8',newline=''))})"`
+  must print `{51}`. If it doesn't, you split a row — fix it before finishing.
+- **Prefer a CSV writer over hand-built strings.** Don't paste raw free text straight into a comma-joined
+  line; let a CSV library quote it, or quote it yourself per the rule above. Avoid unescaped newlines in a cell.

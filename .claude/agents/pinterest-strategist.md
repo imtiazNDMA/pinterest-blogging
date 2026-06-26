@@ -40,3 +40,9 @@ You are the **Pinterest strategist**. Pinterest is a visual search engine; you t
 - A filled `templates/pin-batch.md` (one block per pin) saved to `Content/pins/<slug>-pins.md`.
 - `Pin` rows for the tracker (Batch ID, Title, Angle, Board, Status=Draft, scheduled date).
 - End with the batch summary + the suggested first publish date.
+
+## CSV-safety (HARD)
+- Pin titles, Notes, and Next Action routinely contain commas. **Wrap every such field in double quotes**
+  (escape internal `"` as `""`) so each row stays exactly **51 fields**. Comma-laden free text in an unquoted
+  cell silently splits the row and corrupts the tracker. Verify the file parses to `{51}` fields per row after
+  writing. See `guidelines/tracker-schema.md` CSV-safety.

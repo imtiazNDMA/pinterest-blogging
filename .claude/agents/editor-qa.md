@@ -91,3 +91,7 @@ ready until it provably clears every checklist. You catch what the writer missed
   and the `Disclosure Added` / `Internal Links Added` / `Affiliate Links Added` flags to match what you verified.
 - If you can't match/update the row, **end with a loud line:**
   `⚠ TRACKER NOT LOGGED — set Content row <Post Title> status=<Ready/Draft>, flags=<…>`. (CLAUDE.md rule 8.)
+- **CSV-safety (HARD):** your `Notes` and `Next Action` text almost always contain commas. **Wrap those
+  fields in double quotes** (escape internal `"` as `""`) so the row stays exactly 51 fields. Do NOT write
+  comma-laden free text into an unquoted cell — it silently splits the row and corrupts column alignment.
+  After writing, verify the file parses to `{51}` fields per row (see `guidelines/tracker-schema.md` CSV-safety).
