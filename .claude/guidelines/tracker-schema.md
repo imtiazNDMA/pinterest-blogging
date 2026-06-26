@@ -51,3 +51,7 @@ every downstream metric. This has bitten the tracker before. So:
   must print `{51}`. If it doesn't, you split a row — fix it before finishing.
 - **Prefer a CSV writer over hand-built strings.** Don't paste raw free text straight into a comma-joined
   line; let a CSV library quote it, or quote it yourself per the rule above. Avoid unescaped newlines in a cell.
+- **Preserve EVERY row — never write a subset.** To update one row you must read the WHOLE file, change only
+  your row, and write back **all** rows. **Verify the row count did not drop** (it should be unchanged on an
+  update, or +N on an append) — e.g. `python -c "import csv; print(sum(1 for _ in csv.reader(open('pinterest_blog_master_tracker.csv',encoding='utf-8',newline=''))))"`.
+  A partial rewrite silently deletes pin/post rows (this has happened — 29 rows were lost once and recovered from git).

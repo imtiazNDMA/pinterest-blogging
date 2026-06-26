@@ -94,4 +94,6 @@ ready until it provably clears every checklist. You catch what the writer missed
 - **CSV-safety (HARD):** your `Notes` and `Next Action` text almost always contain commas. **Wrap those
   fields in double quotes** (escape internal `"` as `""`) so the row stays exactly 51 fields. Do NOT write
   comma-laden free text into an unquoted cell — it silently splits the row and corrupts column alignment.
-  After writing, verify the file parses to `{51}` fields per row (see `guidelines/tracker-schema.md` CSV-safety).
+  **Preserve ALL rows:** read the WHOLE file, change only the post's row, write back every row — never a
+  subset (a partial rewrite silently deletes the pin rows). After writing, verify the file parses to `{51}`
+  fields per row AND the row COUNT did not drop (see `guidelines/tracker-schema.md` CSV-safety).
