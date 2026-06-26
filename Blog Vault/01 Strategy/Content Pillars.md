@@ -18,8 +18,13 @@ audience **modifier** applied across all pillars, not a pillar itself.
 | 3 | **Balcony Privacy & Shade** | ~115k | Buyer | **High** (product need) | Next money pillar |
 | 4 | **Balcony Garden & Plants** | ~652k | Mixed | Planters/soil/tools/lights | Big 2nd engine |
 | 5 | **Balcony Flooring** | ~129k | Buyer | Mid (tiles/rugs/turf) | Sub/standalone |
-| 6 | **Balcony Lighting** | ~41k | Mixed | Mid (repeatable) | Supporting |
+| 6 | **Balcony Lighting** | hub "balcony lights" 13k | Mixed | Mid (repeatable) | **P2** (restored) |
 | ✚ | *Seasonal layer* | ~66k | Time-boxed | Q4 spike | Cross-cutting |
+
+> **Sub-clusters validated 2026-06-26** (topic sheets → 1,807 terms): full per-pillar keyword maps in
+> `keyword Research/_pillar-subclusters-2026-06-26.md`. **Lighting restored to P2** — the real term is
+> "balcony lights" (13,295), not the dead "balcony lighting ideas" (0). Highest-value NEW buyer posts surfaced:
+> **balcony swing chairs (~12k), balcony curtains (10k), balcony shade (7k), balcony railing planters (5.9k).**
 
 ## Pillar detail
 ### 1. Balcony Decor & Styling — the Pinterest magnet
