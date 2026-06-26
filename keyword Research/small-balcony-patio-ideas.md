@@ -7,7 +7,60 @@
 - **Production mode:** AI-for-everything (AI articles + AI pins + AI styled-scene images). Label AI on Pinterest (home-decor is on the 2026 GenAI "see less" opt-out list — keep renders authentic).
 - **Strategic order of weights:** **Pinterest demand → rankability (low competition) → monetization.** Pinterest is the PRIMARY traffic source; Google SEO is the secondary, compounding asset.
 
-> **All `est_volume` figures are `(est — needs validation)`.** I cannot log into Pinterest Trends or Google Keyword Planner. See the **Validation** section at the bottom for the exact autocomplete seeds + Trends charts + the Keyword Planner CSV columns you should pull so I can drop the `(est)` labels and re-rank.
+> **✅ VALIDATED 2026-06-26** with real Pinterest interest Search Volume (PinClicks exports; raw data in `_validation-volumes-2026-06-26.md`). The `(est)` labels in the old table below are **superseded by the re-rank in this section**.
+
+---
+
+## ✅ VALIDATED demand + re-rank (2026-06-26)
+
+**Headline finding:** Pinterest's interest taxonomy does **not** match several of my exact target keywords. The strong demand sits in slightly different phrasings, and the real priority order differs from the estimates. This re-rank governs; the old table further down is kept for history.
+
+### The big corrections
+1. **Privacy is the #1 untapped post** — "balcony privacy ideas" = **20,364**. Promote P2 → **P1, write next** (the pillar + renter posts already link to it as a stub).
+2. **Boho is bigger than estimated** — "boho balcony" = **16,079** (not the 4,399 of "boho balcony ideas"). Promote P2 → **P1**.
+3. **Lighting is near-dead on Pinterest** — "balcony lighting ideas" = **0**; only "balcony string lights" = 1,325. Demote P2 → **P3 / fold into cozy + pillar**.
+4. **Renter framing has ZERO Pinterest interest** — no "renter/rental balcony" term exists. The (already-written) renter post is **Google-lean**; its pins must retarget terms that exist ("small balcony decor" 109,773, "apartment balcony decorating" 69,133) with renter as an angle, not the headline.
+5. **"Patio" is weak vs "balcony"** — demote apartment-patio; reframe toward "apartment balcony decorating" (69,133).
+6. **Fall (≈1k) and year-round (0)** stay P3 / optional — thin Pinterest demand.
+
+### Re-ranked posts (real Search Volume)
+| Post (slug) | Best EXISTING Pinterest term | SV | Old → New | Status |
+|---|---|---|---|---|
+| pillar `small-balcony-patio-ideas` | balcony ideas / small balcony design / balcony ideas apartment | 622k / 168k / 216k | P1 → **P1** | written ✓ (retarget primary) |
+| `cozy-small-balcony-ideas` | cozy balcony / cozy balcony aesthetic | 39,282 / 15,711 | P1 → **P1** | written ✓ (retarget primary) |
+| `small-balcony-makeover-before-and-after` | balcony makeover | 12,590 | P1 → **P1** | written ✓ (retarget to "balcony makeover") |
+| `balcony-privacy-ideas-for-apartments` | balcony privacy ideas | 20,364 | P2 → **P1 (NEXT)** | idea |
+| `boho-balcony-ideas` | boho balcony | 16,079 | P2 → **P1** | idea |
+| `small-balcony-ideas-on-a-budget` | small balcony ideas on a budget | 2,695 | P1 → **P2** | written ✓ |
+| `cozy-winter-balcony-ideas` | winter balcony | 4,013 | P2 → **P2** (seasonal) | idea |
+| `apartment-patio-ideas` → reframe **apartment balcony decorating** | apartment balcony decorating | 69,133 | P2 → **P2 (reframe)** | idea |
+| `renter-friendly-balcony-ideas` | (no renter interest) → small balcony decor | ~0 / 109,773 | P1 → **P3 Pinterest / Google-lean** | written ✓ |
+| `small-balcony-lighting-ideas` | balcony string lights | ~0 / 1,325 | P2 → **P3 / fold** | idea |
+| `fall-balcony-decor-ideas` | fall balcony | 969 | P3 → **P3** | idea |
+| `year-round-small-balcony-ideas` | (none) | 0 | P3 → **P3 / optional** | idea |
+
+### NEW high-volume posts to ADD (decor intent, not yet in cluster)
+- **modern balcony ideas** = 56,629 (+ "modern balcony" 29,412) → style post, pairs with boho. **Add as P1.**
+- **apartment balcony decorating** = 69,133 → strong; absorbs the apartment-patio slot. **Add as P1.**
+- **small balcony decor / balcony decor ideas** = 109,773 / 45,340 → fold into pillar targeting + a possible decor-led post.
+- **tiny balcony** = 57,792 · **balcony aesthetic** = 41,532 · **mini balcony ideas** = 33,742 → variant/aesthetic angles for pillar + cozy.
+
+### Retarget primary keywords (written posts — Pinterest pin titles/descriptions)
+- **Pillar:** lead pins with "balcony ideas" / "small balcony design" / "balcony ideas apartment" (my "small balcony ideas" has no interest). Body SEO can keep "small balcony ideas" for Google; pins use the terms that exist.
+- **Cozy:** retarget to "cozy balcony" / "cozy balcony aesthetic".
+- **Makeover:** retarget to "balcony makeover".
+- **Renter:** retarget pins to "small balcony decor" / "apartment balcony decorating"; keep renter as the on-page angle.
+
+### Off-intent — DO NOT target
+"balcony railing design" 136,656 · "balcony grill design" 92,309 · "iron balcony railing" 37,854 · "house balcony design" 54,443 — architectural/construction + heavy non-US market, not decor-styling savers.
+
+### Updated build order (next to write)
+1. **Privacy** (20,364) — next; closes the dangling stub links.
+2. **Boho** (16,079).
+3. **Modern balcony ideas** (56,629) — NEW.
+4. **Apartment balcony decorating** (69,133) — NEW (replaces apartment-patio).
+5. **Winter** (4,013, seasonal — publish ~Sept/Oct).
+6. Retarget pins on the 5 written posts (above). Demote lighting / fall / year-round.
 
 ---
 
