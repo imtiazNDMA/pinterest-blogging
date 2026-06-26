@@ -11,7 +11,7 @@ internal_links: ["small-balcony-patio-ideas", "small-balcony-ideas-on-a-budget",
 monetized: true
 affiliate_programs: ["amazon", "wayfair"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-004"
 draft_start: 2026-06-26
 last_updated: 2026-06-26
 ---
