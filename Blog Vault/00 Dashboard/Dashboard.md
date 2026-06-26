@@ -10,9 +10,9 @@ updated: 2026-06-26
 ## At a glance
 | Metric | Now | Next milestone |
 |---|---|---|
-| Posts published | 0 (5 READY) | 10 live |
-| Posts written (READY) | 5 | 10 |
-| Pins designed | 25 (PB-001→005) | — |
+| Posts published | 0 (6 READY) | 10 live |
+| Posts written (READY) | 6 | 10 |
+| Pins designed | 30 (PB-001→006) | — |
 | Pins published | 0 | 25 |
 | Monthly sessions | 0 | 1,000 (ads eligible) |
 | Monthly pageviews | 0 | 25,000 (Raptive) |
@@ -27,9 +27,9 @@ updated: 2026-06-26
 - [ ] Set up Pinterest business account + first 5 boards ([[Boards Plan]])
 
 ## 🚦 Pipeline status
-- **READY to publish (need owner inputs):** Cozy · Budget · Renter · Makeover · Pillar — see [[Content Tracker]]
-- **Next to write (validated):** Balcony Privacy (20k) → Boho (16k) → Modern (57k) — see [[Content Backlog & Ideas]]
-- **Pins scheduled:** 2026-06-26 → 07-20 — see [[Pin Tracker]]
+- **READY to publish (need owner inputs):** Cozy · Budget · Renter · Makeover · Pillar · **Privacy** — see [[Content Tracker]]
+- **Next to write (validated):** Apartment Balcony Decorating (69k) → Modern (57k) → Boho (16k) — see [[Content Backlog & Ideas]]
+- **Pins scheduled:** 2026-06-26 → 07-25 (PB-001→006) — see [[Pin Tracker]]
 
 ## 🔗 Jump to
 [[Goals & Milestones]] · [[Income Dashboard]] · [[Content Calendar]] · [[Monthly Review]] · [[Weekly Routine & SOPs]]

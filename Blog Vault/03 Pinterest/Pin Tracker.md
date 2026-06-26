@@ -17,8 +17,10 @@ Every pin batch + its schedule. **Status:** Draft → Designed → Scheduled →
 | PB-003 | Renter-Friendly | 5 | no-drill hero · list · deposit-safe · before/after · privacy | 07-06 → 07-10 | Draft |
 | PB-004 | Makeover B&A | 5 | hero split · 8-grid · formula · budget split · renter split | 07-11 → 07-15 | Draft |
 | PB-005 | Pillar (hub) | 5 | aesthetic hero · 30-grid · apartment search · 2×2 category · look-bigger | 07-16 → 07-20 | Draft |
+| PB-006 | Balcony Privacy | 5 | hero · 14-grid · no-drill tease · before/after · side-front-above | 07-21 → 07-25 | Draft (incl. ready AI prompts) |
 
-**Total: 25 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
+**Total: 30 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
+PB-006 is the first batch built on the new pin design system (explicit archetype + ready-to-paste AI image prompt per pin).
 
 ## Per-pin schedule (PB-001 example — fill status as you publish)
 | Date | Pin | Board | Status |

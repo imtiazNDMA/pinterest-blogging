@@ -12,7 +12,7 @@ Capture every new idea here so nothing is lost.
 
 ## Ranked backlog (validated SV)
 ### Pillar 1 — Decor & Styling
-- [ ] **Balcony Privacy Ideas** — `balcony privacy ideas` — 20,364 — **P1 next** (also a Pillar 3 anchor)
+- [x] **Balcony Privacy Ideas** — `balcony privacy ideas` — 20,364 — ✅ WRITTEN (Ready, PB-006); Pillar 3 anchor; closed stub links
 - [ ] **Boho Balcony Ideas** — `boho balcony` — 16,079 — P1
 - [ ] **Modern Balcony Ideas** — `modern balcony ideas` — 56,629 — P1 (new)
 - [ ] **Apartment Balcony Decorating** — `apartment balcony decorating` — 69,133 — P1 (new; replaces "apartment patio")

@@ -50,6 +50,4 @@ Your single place to run the blog + Pinterest, track income, and stay motivated.
 ---
 
 ## 🔥 Why you're doing this
-Build a steady side income from a Pinterest-fed, SEO-durable balcony-styling blog — monetized with affiliate
-links + display ads. Solo, ~20 hrs/week, bootstrap budget. The compounding asset: every post + pin you ship
-keeps working for years. **Consistency beats intensity.** Ship one thing today. See [[Goals & Milestones]].
+Build a steady side income from a Pinterest-fed, SEO-durable balcony-styling blog — monetized with affiliate links + display ads. Solo, ~20 hrs/week, bootstrap budget. The compounding asset: every post + pin you ship keeps working for years. **Consistency beats intensity.** Ship one thing today. See [[Goals & Milestones]].

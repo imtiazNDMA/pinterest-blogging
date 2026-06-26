@@ -18,15 +18,19 @@ Every post and its status. Mirrors the production studio's master CSV; this is t
 | Small Balcony Ideas on a Budget | `small-balcony-ideas-on-a-budget` | small balcony ideas on a budget | Ready | PB-002 | photos×4, affiliate links, [PERSONAL TIP] |
 | Renter-Friendly Balcony Ideas | `renter-friendly-balcony-ideas` | small balcony decor (Google-lean) | Ready | PB-003 | photos×4, affiliate links, [PERSONAL TIP] |
 | Small Balcony Makeover B&A | `small-balcony-makeover-before-and-after` | balcony makeover | Ready | PB-004 | photos×5, affiliate links, [PERSONAL TIP] |
+| Balcony Privacy Ideas | `balcony-privacy-ideas-for-apartments` | balcony privacy ideas (20k) | Ready | PB-006 | photos×5, affiliate links, [PERSONAL TIP] |
 | Best Self-Watering Planters | `best-self-watering-planters-balcony` | self-watering planters balcony | Ready | — | photos×2, affiliate links |
+
+**6 posts READY** (5 in the decor cluster + 1 planters). Privacy closes the pillar + renter stub links.
 
 ## Next to write (validated priority)
 | Post | Target keyword | SV | Priority |
 |---|---|---|---|
-| Balcony Privacy Ideas | balcony privacy ideas | 20,364 | **P1 — next** |
-| Boho Balcony Ideas | boho balcony | 16,079 | P1 |
+| Apartment Balcony Decorating | apartment balcony decorating | 69,133 | **P1 — next** (new) |
 | Modern Balcony Ideas | modern balcony ideas | 56,629 | P1 (new) |
-| Apartment Balcony Decorating | apartment balcony decorating | 69,133 | P1 (new) |
+| Boho Balcony Ideas | boho balcony | 16,079 | P1 |
+| Best Balcony Furniture | balcony furniture | 18,490 | P1 (Pillar 2 / money) |
+| Balcony Garden Ideas | balcony garden ideas | 77,684 | P1 (Pillar 4) |
 | Cozy Winter Balcony | winter balcony | 4,013 | P2 seasonal |
 
 Full backlog + demoted ideas → [[Content Backlog & Ideas]].
