@@ -17,8 +17,12 @@ Programs to join, application status, and which pillars they serve. **Rates chan
 | **Etsy** (via Awin) | 1 Decor (boho) | ~4% | ⬜ | Macramé, printables, handmade decor |
 | **Society6** | 1 Decor (boho/art) | ~10% | ⬜ | Wall art, textiles |
 | String-light / planter brands | 6 Lighting, 4 Garden | varies | ⬜ | Higher rates on repeatable items |
-| **Display ads — Journey** | all (traffic) | RPM ~$10–15 | ⬜ | Apply at ~1,000 sessions/mo |
-| **Display ads — Raptive** | all (traffic) | RPM ~$15–25 | ⬜ | Apply at ~25,000 pageviews/mo |
+| **Ads — AdSense** | all (traffic) | low | ⬜ | No minimum; simplest/lightest start |
+| **Ads — Ezoic** | all (traffic) | mid | ⬜ | No minimum; higher RPM, watch site speed |
+| **Ads — Mediavine** | all (traffic) | high | ⬜ | The upgrade; verify current eligibility |
+| **Ads — Raptive** | all (traffic) | highest | ⬜ | ~100k pageviews *(verify)*; compare at scale |
+
+> Networks are **exclusive — migrate up, don't stack.** Thresholds shift — verify on each network's page. Full ladder + rationale in [[Monetization Strategy]].
 
 *Estimates — confirm current terms when you apply.
 

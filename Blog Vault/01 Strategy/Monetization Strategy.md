@@ -14,9 +14,27 @@ Two income legs that grow at different speeds: **affiliate** (works from day one
 | Stage | Trigger | What turns on |
 |---|---|---|
 | 0. Affiliate from day 1 | Approved Amazon Associates + others | Affiliate links in posts (see compliance below) |
-| 1. **Mediavine Journey** | **~1,000 monthly sessions** | Display ads start (modest RPM) |
-| 2. **Raptive** | **~25,000 monthly pageviews** | Higher ad RPM |
-| 3. Premium ads / products | 50k+ pageviews | Best RPM; digital products, email |
+| 1. **Entry ads** (AdSense *or* Ezoic) | Approved + some traffic (no hard minimum) | Earn *something* while building |
+| 2. **Mediavine** (Journey tier → full) | Mediavine eligibility | Real RPM jump + speed-friendly ads |
+| 3. **Raptive / premium** | ~100k pageviews *(verify)* | Top RPM at scale; compare offers |
+| 4. Own products | Engaged audience | Digital products, email, sponsorships |
+
+### Display-ad network ladder (the detail)
+Display networks are **mostly exclusive — you run one at a time and migrate up**, not stack them.
+| Network | Entry bar | RPM | Notes |
+|---|---|---|---|
+| **AdSense** | No minimum | Lowest | Simplest, lightest on page speed; fine to start |
+| **Ezoic** | No minimum (Access Now) | Mid | Higher RPM than AdSense, AI-optimized; **mind site speed / ad density** |
+| **Mediavine** | Journey tier low; full ~50k sessions *(verify)* | High | Great RPM + reputation for speed-friendly ads — the aspiration |
+| **Raptive** (was AdThrive) | ~100k pageviews *(verify)* | Highest | Top-tier at scale |
+
+> ⚠ **Thresholds shift — verify on each network's own page before relying on a number.** (Older project notes
+> say Journey ~1k sessions / Raptive ~25k pageviews; confirm current figures.)
+
+### Ad strategy rules of thumb
+- **At low traffic the network barely matters** — pour energy into pins + posts, not RPM tuning.
+- **Page speed is sacred** for a Pinterest site (Pinterest + Core Web Vitals). If Ezoic would slow you, run AdSense light → jump to Mediavine.
+- **Affiliate out-earns ads until ~10k+ pageviews.** Ads are the steady base that kicks in later, not the early earner.
 
 ## Income math (estimates — validate with real data)
 - **Ads** = RPM × (sessions or pageviews / 1000). Journey RPM ~$10–15; Raptive ~$15–25 *(est)*.
