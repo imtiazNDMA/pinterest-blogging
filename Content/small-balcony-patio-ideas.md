@@ -11,7 +11,7 @@ internal_links: ["cozy-small-balcony-ideas", "small-balcony-ideas-on-a-budget", 
 monetized: true
 affiliate_programs: ["amazon", "wayfair"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-005"
 draft_start: 2026-06-26
 last_updated: 2026-06-26
 ---
