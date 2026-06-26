@@ -11,7 +11,7 @@ internal_links: ["small-balcony-patio-ideas", "balcony-privacy-ideas-for-apartme
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-003"
 draft_start: 2026-06-26
 last_updated: 2026-06-26
 ---
