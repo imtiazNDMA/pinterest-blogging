@@ -1,103 +1,61 @@
-# Studio Fixes — TODO
+# Build Journal & TODO — Bloom & Lantern
 
-> **Purpose:** Track the studio fixes identified during the 2026-06-24 `/new-post` stress test
-> (sample post `Content/best-self-watering-planters-balcony.md`, tracker Record ID 4).
->
-> **Rule:** Update this file after EACH fix is applied — check the box, add the date and a one-line
-> note on what changed. A fix isn't done until its box is checked here.
-
----
-
-## Pending fixes
-
-- [x] **1. (High) Scaffolding headings leak into posts** — _done 2026-06-25_
-  Literal scaffold H2s (`## Intro`, `## Quick answer`, `## Wrap-up`, `## Comparison table`) got
-  published as real headings.
-  **Fix:** `guidelines/content-structure.md` + `templates/post-skeleton.md` — intro = no heading;
-  make the others reader-facing. Add an `editor-qa` check that flags scaffold-leak headings.
-
-- [x] **2. (Med) Too few `[YOUR PHOTO]` markers** — _done 2026-06-25_
-  `content-writer` left only 1 photo marker; pin creation needs 2–4 (one per pin angle).
-  **Fix:** Require `content-writer` to leave 2–4 `[YOUR PHOTO]` markers, one per pin angle.
-
-- [x] **3. (Med) "Best for…" segments not distinct** — _done 2026-06-25_
-  Sample had 2 picks both = floor grow box.
-  **Fix:** `guidelines/conversion-copywriting.md` — require "Best for…" segments to be DISTINCT
-  product categories.
-
-- [x] **4. (Low) No year-in-title policy** — _done 2026-06-25_
-  Sample used "2026 Picks" → maintenance debt.
-  **Fix:** `guidelines/headlines-and-titles.md` — add a year-in-title policy.
-
-- [x] **5. (Med) Tracker logging is orchestration-only** — _done 2026-06-25_
-  Agents don't log to the tracker; only the command does.
-  **Fix:** Make `/new-post` logging explicit + add an agent fallback note.
-
-- [x] **6. (Low) Ambiguous H2 keyword rule** — _done 2026-06-25_
-  **Fix:** `guardrails/seo-rules.md` — clarify "primary keyword OR close variant in ≥1 H2."
+> **Purpose:** the studio's living task tracker + journey log. This is the human checklist;
+> `pinterest_blog_master_tracker.csv` stays the system of record for posts/pins.
+> **Rule:** update after each work block — check boxes, add a dated line to the Journey log.
+> Brand chosen: **Bloom & Lantern** / `bloomandlantern.com` (domain purchase pending → tokens
+> `{{BLOG_NAME}}`/`{{DOMAIN}}` stay until bought).
 
 ---
 
-## Content-craft guardrails (copywriting / humanization / formatting / anti-slop)
+## 🎯 Today — 2026-06-27
 
-_Design: `docs/superpowers/specs/2026-06-25-content-craft-guardrails-design.md` ·
-Plan: `docs/superpowers/plans/2026-06-25-content-craft-guardrails.md` · Branch: `feat/content-craft-guardrails`_
+### Done
+- [x] Push repo to GitHub remote (`origin/main`, imtiazNDMA/pinterest-blogging)
+- [x] Inventory all keyword research + write `keyword Research/suggestions.md` (PinClicks expansion method + frontier)
+- [x] Process 6 patio PinClicks exports → validate **Patio** as a 2nd space (+2,606 terms; dataset 4,413 / 7.84M SV)
+- [x] Fold patio pillar into tracker (12 Idea rows), master plan (`.claude/memory.md`), `.claude/CLAUDE.md`, vault strategy pages
+- [x] Generate + RDAP-verify 10 available brand/domain names
+- [x] Choose brand: **Bloom & Lantern** → `bloomandlantern.com` (verified available)
+- [x] Save session to memory + update this tracker
 
-- [x] **New `guidelines/formatting-and-readability.md`** — _done 2026-06-25_ (measurable hard-gate targets)
-- [x] **New `guidelines/humanization.md`** — _done 2026-06-25_ (rhythm + reader-connection, guidance flags)
-- [x] **Anti-slop re-examination** — _done 2026-06-25_ (arrows banned, emoji C3, new phrasing/format tells)
-- [x] **Deeper `conversion-copywriting.md`** — _done 2026-06-25_ (PAS/BAB, feature→benefit, one-decision)
-- [x] **Emoji ban in pins** — _done 2026-06-25_ (`pin-spec.md` + `pinterest-strategist.md`)
-- [x] **Wired `content-writer.md` + `editor-qa.md`** — _done 2026-06-25_ (tiered: hard gates + flags)
-- [x] **Brought sample post into compliance** — _done 2026-06-25_ (replaced 4 `→` arrows in the decision tree with words; now 0 arrows / 0 dashes / 0 emoji)
-
----
-
-## Related follow-ups (not part of the 6 fixes)
-
-- [x] Re-run `editor-qa` on `Content/best-self-watering-planters-balcony.md` to clean it under the
-  new anti-slop rules — _done 2026-06-25_ (commit `e239c0c`). Dashes 39→0; scaffold headings removed;
-  duplicate floor-box pick → vertical tower; year stripped; photo markers 1→2; tracker row 4 → Ready.
-  **Still needs owner inputs before PUBLISH:** fill `[PERSONAL TIP]`, supply 2 photos, swap 4
-  `#affiliate` placeholders for real tagged links, replace `{{BLOG_NAME}}` tokens.
-- [x] Commit the studio to git — _done 2026-06-25_ (re-initialized empty `.git`, baseline `126cc0b`,
-  then one commit per fix on `main`).
+### At the office (owner actions — only you can do)
+- [ ] **Buy `bloomandlantern.com`** — confirm standard (not premium) price; enable auto-renew + free WHOIS privacy
+- [ ] Trademark sanity check — USPTO TESS, "bloom and lantern"
+- [ ] Claim `@bloomandlantern` on **Pinterest** + **Instagram** (fallback: `@bloomandlanternco`)
+- [ ] Decide GitHub repo visibility — **public vs private** (it holds tracker/strategy/vault)
+- [ ] After purchase → tell Claude to run the `{{BLOG_NAME}}`/`{{DOMAIN}}` find-replace pass
 
 ---
 
-## Changelog
+## 📋 Up next (queued — not today)
+- [ ] **Keyword frontier → backyard:** export `small backyard ideas` from PinClicks → drop in `keyword Research/` → "process these"
+- [ ] Then patio long-tail: `back patio ideas`, `mini patio ideas`, `patio conversation set` (buyer); plus dedicated seasonal + lighting seeds (came back empty in topic exports)
+- [ ] **Content backlog (money-weighted):** apartment-balcony-decorating (69k) · modern (57k) · boho (16k) · then patio cluster: small patio ideas (118k hub) → patio garden (63k) → patio furniture (money)
+- [ ] **Resume PARKED automation redesign:** make CSV the single source of truth + auto-regenerate vault. Decided: data-pages generated / prose-pages manual. Next decision: sync mechanism (`/sync-vault` command vs hooks)
+- [ ] Pre-launch owner inputs on the 6 READY posts: real photos, `[PERSONAL TIP]`, real affiliate links, replace tokens
+- [ ] `/site-setup` when ready to go live (WordPress + Pinterest business + trust pages)
 
-- **2026-06-25 — Fix #1 (scaffold-heading leak):** Moved writer cues into HTML comments in
-  `templates/post-skeleton.md` (intro now has no heading; TL;DR + closing headings are reader-facing
-  placeholders). Updated `guidelines/content-structure.md` skeleton items 1/2/6 + buyer item 5 and
-  added a "Headings are reader-facing" rule. Added a grep gate to `agents/editor-qa.md` that FAILs any
-  bare scaffold-label heading (Intro / Quick answer / TL;DR / Wrap-up / Comparison table / Conclusion).
-- **2026-06-25 — Fix #2 (photo markers):** `agents/content-writer.md` now requires 2–4 `[YOUR PHOTO]`
-  markers (one per pin angle) + reports the count in its self-check. `guidelines/content-structure.md`
-  states the 2–4 count. `agents/editor-qa.md` grep-counts `[YOUR PHOTO` and FAILs if <2.
-  `templates/post-skeleton.md` carries a "2–4, one per pin angle" cue.
-- **2026-06-25 — Fix #3 (distinct "Best for…" picks):** `guidelines/conversion-copywriting.md` framing
-  rule 3 + QA check now require each "Best for…" segment to be a DISTINCT product (different
-  category/form factor); two relabeled identicals = FAIL. Mirrored in `agents/editor-qa.md` craft check
-  and `agents/content-writer.md` buyer-post craft line.
-- **2026-06-25 — Fix #4 (year-in-title policy):** `guidelines/headlines-and-titles.md` gained a
-  "Year-in-title policy" section + an Avoid bullet (default: no year in SEO title/H1/slug; only if a
-  committed annual refresh; pins may use it sparingly). `agents/editor-qa.md` flags/strips stray years.
-- **2026-06-25 — Fix #5 (explicit tracker logging):** `commands/new-post.md` step 5 now spells out the
-  exact `Content`-row columns to find/create + set (status, word count, dates, disclosure/internal/
-  affiliate flags, URL, next action) and to confirm the Record ID in the report. Added a "Tracker
-  logging (fallback)" section to `agents/content-writer.md` + `agents/editor-qa.md` (log the row when
-  dispatched directly, else emit a loud `⚠ TRACKER NOT LOGGED` line). `guidelines/tracker-schema.md`
-  "Who writes what" gained the matching fallback note.
-- **2026-06-25 — Fix #6 (H2 keyword rule):** Clarified across `guardrails/seo-rules.md` (Headings bullet +
-  SEO checklist), `agents/editor-qa.md` SEO check, and `agents/content-writer.md` — ≥1 H2 may carry the
-  primary keyword **or a close variant** (synonym/partial), phrased naturally; never force the exact string.
-- **2026-06-25 — Content-craft guardrails (branch `feat/content-craft-guardrails`):** Added two guidelines
-  (`formatting-and-readability.md` with hard-gate numbers: paragraph ≤4 sentences/~60 words, sentence
-  ≤35 words, subhead every ~350 words, ≤1 bold/paragraph; `humanization.md` with rhythm/stance/sensory
-  guidance flags). Re-examined `anti-ai-slop.md`: banned arrows (`->`, `→`, `=>`, `»`) as a hard gate,
-  added absolute emoji ban (C3), and new hype/format tells. Deepened `conversion-copywriting.md`
-  (PAS/BAB, feature→benefit, one-reader-one-decision). Banned emojis in pin copy
-  (`pin-spec.md` + `pinterest-strategist.md`). Wired both new guidelines into `content-writer.md` and
-  `editor-qa.md` (tiered: formatting hard gates + humanization flags). Verified via planted-violation
-  fixture (each gate fired) and brought the sample post into compliance (4 `→` arrows rewritten to words).
+---
+
+## 🗺️ Journey log (milestones)
+- **2026-06-27** — Repo pushed to GitHub. Built keyword-expansion method (`suggestions.md`). **Patio validated as a full 2nd space** (+2,606 terms; hub "small patio ideas" 118k) and folded into tracker/plan/vault. **Brand chosen: Bloom & Lantern** (`bloomandlantern.com`, verified available). Next frontier = backyard.
+- **2026-06-26** — Validated demand with 10 PinClicks sheets (1,807 terms). 6 posts READY; 30 pins designed (PB-001→006); built the Obsidian `Blog Vault/` (24 notes). 6 pillars + WP categories confirmed; Lighting restored to P2.
+- **2026-06-25** — **Niche COMMITTED: Balcony & Patio Styling.** All 6 post-stress-test studio fixes applied; content-craft guardrails added (formatting/humanization/anti-slop); studio versioned in git.
+- **2026-06-24** — Built the content studio in `.claude/` (7 agents, 7 commands, guardrails/guidelines/playbooks/templates). Ran `/new-post` stress test → surfaced the 6 fixes (archived below).
+
+---
+
+## 📦 Archive — Studio fixes (2026-06-24 stress test) — ✅ all done 2026-06-25
+
+> Kept for the record. Sample post `Content/best-self-watering-planters-balcony.md` (tracker Record ID 4).
+
+- [x] **1. (High) Scaffolding headings leak into posts** — cues moved to HTML comments in `post-skeleton.md`; `content-structure.md` rule; `editor-qa` greps bare scaffold headings.
+- [x] **2. (Med) Too few `[YOUR PHOTO]` markers** — `content-writer` now requires 2–4 (one/pin angle); `editor-qa` FAILs if <2.
+- [x] **3. (Med) "Best for…" segments not distinct** — `conversion-copywriting.md` requires distinct product categories.
+- [x] **4. (Low) No year-in-title policy** — `headlines-and-titles.md`: default no year in SEO title/H1/slug.
+- [x] **5. (Med) Tracker logging orchestration-only** — `/new-post` step 5 explicit; agents got a tracker-logging fallback.
+- [x] **6. (Low) Ambiguous H2 keyword rule** — `seo-rules.md`: primary keyword OR close variant in ≥1 H2.
+- [x] **Content-craft guardrails** — `formatting-and-readability.md` + `humanization.md`; anti-slop bans arrows/emoji; deeper `conversion-copywriting.md`; emoji ban in pins; wired into `content-writer` + `editor-qa`.
+- [x] **Sample post brought into compliance** — dashes 39→0, scaffold headings removed, duplicate pick fixed, year stripped, photo markers 1→2, tracker row 4 → Ready.
+- [x] **Studio committed to git** — re-initialized `.git`, one commit per fix on `main`.
