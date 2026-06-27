@@ -23,10 +23,10 @@
 ## Where we are today (2026-06-27)
 - **Content:** 25 posts Ready (publish-pending owner inputs). Balcony Decor pillar complete; Garden 6/10;
   Flooring + Lighting hubs live; full Patio set seeded.
-- **Pins designed:** 50 (PB-001 → PB-010) — Small Balcony Ideas (25), Balcony Garden (10: planters PB-007 +
-  garden hub PB-010), Balcony Privacy (5), Small Patio Ideas (5), Patio Furniture (5).
-- **Gap:** 9 newest posts still need pin batches → Flooring / Lighting boards still thin, more Garden depth to
-  add. Site is **not live** (pins need live destination URLs).
+- **Pins designed:** 70 (PB-001 → PB-014) — Small Balcony Ideas (25), **Balcony Garden (30: all 6 garden posts
+  fed)**, Balcony Privacy (5), Small Patio Ideas (5), Patio Furniture (5).
+- **Gap:** 5 newest posts still need pin batches → Flooring / Lighting boards still thin; decor styles
+  (modern/aesthetic/boho) feed Small Balcony Ideas. Site is **not live** (pins need live destination URLs).
 
 ---
 
@@ -43,7 +43,7 @@ Gate: the blog must be live first (pins need working destination URLs).
 Goal: **every published post has at least one 5-pin batch**, so no board looks abandoned.
 - [ ] Run `/make-pins` on the 10 new posts. Priority order (volume + board-filling):
   1. ~~`balcony-garden-ideas` (138k) → **Balcony Garden** board~~ ✅ PB-010 (2026-06-27)
-  2. `best-balcony-plants` (85k), `balcony-flowers` (24k), `small-balcony-garden` (62k), `apartment-balcony-garden` (26k)
+  2. ~~`best-balcony-plants`, `balcony-flowers`, `small-balcony-garden`, `apartment-balcony-garden`~~ ✅ PB-011→014 (2026-06-27) — Garden board fully fed
   3. `modern-balcony-ideas` (57k), `balcony-aesthetic` (42k), `boho-balcony-ideas` (16k) → **Small Balcony Ideas** sections
   4. `balcony-lighting-ideas` (13k) → **Balcony Lighting** board · `balcony-flooring-ideas` (~20k) → **Balcony Flooring** board
 - [ ] **Cadence: 1–3 fresh pins/day, spaced**, evening window (~8–11 PM audience time). Do not spike a new account.
@@ -74,7 +74,7 @@ Goal: **every published post has at least one 5-pin batch**, so no board looks a
 |---|---|---|---|
 | Small Balcony Ideas | hub, cozy, budget, renter, apt-decorating, makeover, modern, aesthetic, boho | PB-001→005 done; **modern/aesthetic/boho TODO** | 🟡 partial |
 | Balcony Privacy Ideas | balcony privacy | PB-006 | ✅ |
-| Balcony Garden Ideas | garden hub, best plants, small garden, apt garden, flowers, planters | PB-007 (planters) + PB-010 (hub) done; **4 garden posts TODO** | 🟡 partial |
+| Balcony Garden Ideas | garden hub, best plants, small garden, apt garden, flowers, planters | PB-007 + PB-010→014 (all 6 posts, 30 pins) | ✅ fully fed |
 | Balcony Flooring Ideas | balcony flooring | **TODO** | 🔴 empty |
 | Balcony Lighting Ideas | balcony lighting | **TODO** | 🔴 empty |
 | Balcony Furniture Ideas | — | (pillar open) | ⏳ |

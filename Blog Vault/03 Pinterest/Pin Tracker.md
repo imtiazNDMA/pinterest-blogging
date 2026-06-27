@@ -23,13 +23,19 @@ Pins go to **pillar boards** ([[Boards Plan]]); the per-pin keyword stays focuse
 | PB-008 | Small Patio (hub) | Small Patio Ideas | 5 | 07-31 → 08-04 | Draft |
 | PB-009 | Patio Furniture | Patio Furniture Ideas | 5 | 08-05 → 08-09 | Draft |
 | PB-010 | Balcony Garden (hub) | Balcony Garden Ideas | 5 | 08-10 → 08-14 | Draft |
+| PB-011 | Best Balcony Plants | Balcony Garden Ideas | 5 | 08-15 → 08-19 | Draft |
+| PB-012 | Small Balcony Garden | Balcony Garden Ideas | 5 | 08-20 → 08-24 | Draft |
+| PB-013 | Apartment Balcony Garden | Balcony Garden Ideas | 5 | 08-25 → 08-29 | Draft |
+| PB-014 | Balcony Flowers | Balcony Garden Ideas | 5 | 08-30 → 09-03 | Draft |
 
-**Total: 50 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
+**Total: 70 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
+**Balcony Garden Ideas board is now fully fed** (PB-007 + PB-010→014 = 30 pins across the 6 garden posts).
 
 ## Batches still TO BUILD (run `/make-pins`)
-Priority (volume + fills thin boards): ~~`balcony-garden-ideas` (PB-010 ✅)~~ → `best-balcony-plants` (85k),
-`balcony-flowers` (24k), `small-balcony-garden` (62k), `apartment-balcony-garden` (26k) → `modern-balcony-ideas`,
-`balcony-aesthetic`, `boho-balcony-ideas` → `balcony-lighting-ideas`, `balcony-flooring-ideas`. See roadmap Phase 1.
+Priority (volume + fills thin boards): `modern-balcony-ideas` (57k), `balcony-aesthetic` (42k),
+`boho-balcony-ideas` (16k) → **Small Balcony Ideas** sections · `balcony-lighting-ideas` (13k) →
+**Balcony Lighting** board · `balcony-flooring-ideas` (~20k) → **Balcony Flooring** board · then the patio
+posts (`small-patio-decorating-ideas`, `diy-patio-furniture`, `patio-garden`, `small-patio-garden`, `patio-privacy`). See roadmap Phase 1.
 
 ## Per-pin schedule (PB-001 example — fill status as you publish)
 | Date | Pin | Board | Status |
