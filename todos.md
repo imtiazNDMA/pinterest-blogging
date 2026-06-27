@@ -50,7 +50,7 @@
 - [ ] **Content backlog (money-weighted):** apartment-balcony-decorating (69k) · modern (57k) · boho (16k) · then patio cluster: small patio ideas (118k hub) → patio garden (63k) → patio furniture (money)
 - [ ] **Resume PARKED automation redesign:** make CSV the single source of truth + auto-regenerate vault. Decided: data-pages generated / prose-pages manual. Next decision: sync mechanism (`/sync-vault` command vs hooks)
 - [ ] Pre-launch owner inputs on the 6 READY posts: real photos, `[PERSONAL TIP]`, real affiliate links, replace tokens
-- [ ] `/site-setup` when ready to go live (WordPress + Pinterest business + trust pages)
+- [x] `/site-setup` run 2026-06-27 → master checklist at `Growth Strategy/setup-checklist.md` (Stellar Plus install steps, Pinterest boards, GA4/GSC, publish order). Owner now executes the install + Pinterest + analytics steps.
 
 ---
 
