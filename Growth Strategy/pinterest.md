@@ -23,18 +23,18 @@
 ## Where we are today (2026-06-27)
 - **Content:** 25 posts Ready (publish-pending owner inputs). Balcony Decor pillar complete; Garden 6/10;
   Flooring + Lighting hubs live; full Patio set seeded.
-- **Pins designed:** 45 (PB-001 → PB-009) across **5 pillar boards** — Small Balcony Ideas (25), Balcony
-  Privacy (5), Balcony Garden (5), Small Patio Ideas (5), Patio Furniture (5).
-- **Gap:** the 10 newest posts have **no pin batches yet** → Garden / Flooring / Lighting boards would launch
-  thin. Site is **not live** (pins need live destination URLs).
+- **Pins designed:** 50 (PB-001 → PB-010) — Small Balcony Ideas (25), Balcony Garden (10: planters PB-007 +
+  garden hub PB-010), Balcony Privacy (5), Small Patio Ideas (5), Patio Furniture (5).
+- **Gap:** 9 newest posts still need pin batches → Flooring / Lighting boards still thin, more Garden depth to
+  add. Site is **not live** (pins need live destination URLs).
 
 ---
 
 ## Phase 0 — Account foundation *(do once, at/just before launch)*
 Gate: the blog must be live first (pins need working destination URLs).
-- [ ] Pinterest **Business** account (free analytics + native scheduler).
-- [ ] **Profile SEO** — name `Bloom & Lantern | Small Balcony & Patio Ideas`; keyword bio; logo; site URL.
-- [ ] **Claim `bloomandlantern.com`** + enable **Rich Pins** (validate one live post URL).
+- [x] Pinterest **Business** account (free analytics + native scheduler).
+- [x] **Profile SEO** — name `Bloom & Lantern | Small Balcony & Patio Ideas`; keyword bio; logo; site URL.
+- [x] **Claim `bloomandlantern.com`** + enable **Rich Pins** (validate one live post URL).
 - [ ] **Create the 9 fed pillar boards** with the keyword descriptions from `setup-checklist.md`.
 - [ ] Add **sections** inside *Small Balcony Ideas*: Cozy · Boho & Aesthetic · Budget · Modern · Renter/Apartment · Makeovers.
 - [ ] Leave the 3 empty-pillar boards (Balcony Furniture, Covered Patio, Patio Flooring) until they have posts.
@@ -42,7 +42,7 @@ Gate: the blog must be live first (pins need working destination URLs).
 ## Phase 1 — Seed the library *(launch month, weeks 1–4)*
 Goal: **every published post has at least one 5-pin batch**, so no board looks abandoned.
 - [ ] Run `/make-pins` on the 10 new posts. Priority order (volume + board-filling):
-  1. `balcony-garden-ideas` (138k) → fills **Balcony Garden** board
+  1. ~~`balcony-garden-ideas` (138k) → **Balcony Garden** board~~ ✅ PB-010 (2026-06-27)
   2. `best-balcony-plants` (85k), `balcony-flowers` (24k), `small-balcony-garden` (62k), `apartment-balcony-garden` (26k)
   3. `modern-balcony-ideas` (57k), `balcony-aesthetic` (42k), `boho-balcony-ideas` (16k) → **Small Balcony Ideas** sections
   4. `balcony-lighting-ideas` (13k) → **Balcony Lighting** board · `balcony-flooring-ideas` (~20k) → **Balcony Flooring** board
@@ -74,7 +74,7 @@ Goal: **every published post has at least one 5-pin batch**, so no board looks a
 |---|---|---|---|
 | Small Balcony Ideas | hub, cozy, budget, renter, apt-decorating, makeover, modern, aesthetic, boho | PB-001→005 done; **modern/aesthetic/boho TODO** | 🟡 partial |
 | Balcony Privacy Ideas | balcony privacy | PB-006 | ✅ |
-| Balcony Garden Ideas | garden hub, best plants, small garden, apt garden, flowers, planters | PB-007 (planters) done; **5 garden posts TODO** | 🟡 partial |
+| Balcony Garden Ideas | garden hub, best plants, small garden, apt garden, flowers, planters | PB-007 (planters) + PB-010 (hub) done; **4 garden posts TODO** | 🟡 partial |
 | Balcony Flooring Ideas | balcony flooring | **TODO** | 🔴 empty |
 | Balcony Lighting Ideas | balcony lighting | **TODO** | 🔴 empty |
 | Balcony Furniture Ideas | — | (pillar open) | ⏳ |
