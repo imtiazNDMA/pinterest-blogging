@@ -30,6 +30,12 @@
 
 ---
 
+## A2. WordPress MCP (lets Claude publish content) — security notes
+- Config lives in `.mcp.json` (Automattic `@automattic/mcp-wordpress-remote`, **version-pinned to `0.3.5`** — bump deliberately after reviewing release notes, never auto-`@latest`, so a compromised future release can't run with your site credentials).
+- **Credentials are NOT in the repo** — `.mcp.json` references `${WP_API_USERNAME}` / `${WP_APP_PASSWORD}` env vars you set locally.
+- **Scope the Application Password to least privilege:** create it on a **dedicated low-privilege WP user** (Editor/Author is plenty for publishing posts/pages), not your main admin with `manage_options`/`edit_plugins`. If you already generated one on the admin account, **rotate it** (Users → Profile → revoke + regenerate on the limited user).
+- Requires the `wordpress-mcp` plugin installed + enabled on the site, Node.js locally, and a Claude Code restart to load. (Steps in the chat history.)
+
 ## B. Trust pages  (required for Amazon + AdSense)
 
 Drafts live in `Content/pages/` — paste each into a WordPress **Page**, fill the placeholders, publish, link all four in the footer.
