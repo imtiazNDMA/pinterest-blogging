@@ -19,12 +19,22 @@
 - [x] Choose brand: **Bloom & Lantern** → `bloomandlantern.com` (verified available)
 - [x] Save session to memory + update this tracker
 
-### At the office (owner actions — only you can do)
-- [ ] **Buy `bloomandlantern.com`** — confirm standard (not premium) price; enable auto-renew + free WHOIS privacy
+### 🤖 Claude builds — status (paused mid-run 2026-06-27, resume here)
+- [x] **Trust/legal page drafts** — About · Affiliate Disclosure · Privacy → `Content/pages/` (committed). Owner fills `{{CONTACT_EMAIL}}` + run Privacy through Termly/iubenda before launch.
+- [x] **Pin batch PB-007** — planters post (Rec 4) → `Content/pins/best-self-watering-planters-balcony-pins.md` (committed, 5 fresh pins). **PENDING: log 5 Pin rows (PB-007) to the tracker** — not yet done.
+- [ ] **Patio hub post** — `small patio ideas` (118k) → `Content/small-patio-ideas.md` (Rec 47). **NOT started** (agent stopped before writing). Re-run `/new-post` on resume, then editor-qa + monetization → Ready.
+
+### 🏗️ At the office — Buy + set up (owner actions)
+- [ ] **Buy `bloomandlantern.com`** — standard (not premium) price; auto-renew + free WHOIS privacy
+- [ ] **Buy hosting + install WordPress** — budget managed host; free fast theme (Kadence/GeneratePress); permalinks `/%postname%/` (see setup steps Claude gave)
+- [ ] **WordPress baseline** — install plugins (Rank Math SEO, caching, image optimization, ToC); connect GA4 + Search Console; submit sitemap
+- [ ] Set **GitHub repo → private** (`gh repo edit imtiazNDMA/pinterest-blogging --visibility private` or repo Settings → Danger Zone)
+- [ ] After purchase → ping Claude for the `{{BLOG_NAME}}`/`{{DOMAIN}}` find-replace pass
+
+### 🔑 At the office — Brand + keyword (owner actions)
 - [ ] Trademark sanity check — USPTO TESS, "bloom and lantern"
 - [ ] Claim `@bloomandlantern` on **Pinterest** + **Instagram** (fallback: `@bloomandlanternco`)
-- [ ] Decide GitHub repo visibility — **public vs private** (it holds tracker/strategy/vault)
-- [ ] After purchase → tell Claude to run the `{{BLOG_NAME}}`/`{{DOMAIN}}` find-replace pass
+- [ ] **Export `small backyard ideas`** from PinClicks → drop in `keyword Research/` → tell Claude "process these" (closes the keyword map)
 
 ---
 
