@@ -37,10 +37,10 @@ https://bloomandlantern.com/
 Use a **flat URL** (`/post-slug/`), not `/category/post/` — cleaner, avoids broken links if a post changes category.
 
 ## Required pages (trust + legal — needed before ads/affiliates)
-- [ ] **About** — who's behind the blog (E-E-A-T; can be a brand persona, honest)
-- [ ] **Contact**
-- [ ] **Privacy Policy** (required — cookies, analytics, ads)
-- [ ] **Affiliate Disclosure** (required — FTC; linked from every monetized post)
+- [x] **About** — who's behind the blog (E-E-A-T; can be a brand persona, honest)
+- [x] **Contact**
+- [x] **Privacy Policy** (required — cookies, analytics, ads)
+- [x] **Affiliate Disclosure** (required — FTC; linked from every monetized post)
 - [ ] **Terms of Use / Disclaimer**
 - [ ] **Start Here** (optional — routes new readers into pillars)
 

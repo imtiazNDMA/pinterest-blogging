@@ -10,8 +10,8 @@
 
 - [x] Domain `bloomandlantern.com` purchased (Namecheap, 2026-06-27)
 - [x] Hosting purchased — Stellar Plus (Namecheap, 2026-06-27)
-- [ ] **Point domain at hosting (owner)** — bought together, so Namecheap usually auto-links. Verify in Namecheap → Domain List → the domain's nameservers match the hosting (or the hosting shows the domain as primary). Allow DNS to propagate.
-- [ ] **Install WordPress (owner)** — Namecheap dashboard → Hosting List → **Manage → cPanel** → **Softaculous / "Install WordPress"**:
+- [x] **Point domain at hosting (owner)** — bought together, so Namecheap usually auto-links. Verify in Namecheap → Domain List → the domain's nameservers match the hosting (or the hosting shows the domain as primary). Allow DNS to propagate.
+- [x] **Install WordPress (owner)** — Namecheap dashboard → Hosting List → **Manage → cPanel** → **Softaculous / "Install WordPress"**:
   - Protocol: **https://** · Domain: `bloomandlantern.com` · Directory: **leave blank** (install at root)
   - Site name: **Bloom & Lantern** · Tagline: *Small-space balcony & patio styling* (editable later)
   - Admin user: NOT "admin" — pick a custom username + a strong password (save it)
@@ -19,7 +19,8 @@
 - [ ] **Force HTTPS + www decision (owner)** — pick non-www `https://bloomandlantern.com` (matches our links). Set in WP → Settings → General (both Site Address + WordPress Address). LiteSpeed Cache can force HTTPS.
 - [ ] **Permalinks (owner)** — WP → Settings → Permalinks → **Post name** (`/%postname%/`).
 - [ ] **Delete sample content (owner)** — remove the "Hello World" post + "Sample Page"; set a real default category (below) and delete "Uncategorized".
-- [ ] **Theme (owner)** — Appearance → Themes → Add New → install **Kadence** *or* **GeneratePress** (both free, fast) → Activate. (Speed = SEO + future ad RPM.)
+- [x] **Theme (owner)** — **Kadence** installed + activated (2026-06-27).
+- [ ] **Customize Kadence (owner)** — apply the full "Golden Hour" brand spec in `Growth Strategy/kadence-theme-spec.md`: palette, Playfair × Montserrat typography, dusk-blue footer, amber-glow buttons, Additional CSS. Matches the pin design system.
 - [ ] **Plugins (free) (owner)** — Plugins → Add New:
   - **Rank Math SEO** (titles, meta, schema, sitemap, Open Graph for Rich Pins)
   - **LiteSpeed Cache** — Stellar runs LiteSpeed, so this is the right caching plugin; it also does **image optimization** (via free QUIC.cloud) so you may not need a separate image plugin
