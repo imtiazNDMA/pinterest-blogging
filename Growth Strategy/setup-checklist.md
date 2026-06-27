@@ -59,25 +59,35 @@ Drafts live in `Content/pages/` — paste each into a WordPress **Page**, fill t
 - [ ] **Enable Rich Pins** — Rank Math outputs the Open Graph tags Rich Pins need; validate one live post URL in the Pinterest Rich Pins Validator to switch them on account-wide.
 - [ ] **Create the launch boards** (below) with keyword-rich descriptions.
 
-### Launch board taxonomy (start with these ~10, keyword-named)
+### Board taxonomy — ONE BOARD PER PILLAR (revised 2026-06-27)
 
-> Pinterest favors focused, keyword-named boards. These 10 cover both spaces and receive the already-designed pin batches (PB-001 → PB-009). Add more granular boards (e.g. "Patio Furniture Materials", "Small Balcony Makeovers") as volume grows, or map those pins to the closest board below.
+> **Model: board = a content pillar (broad head keyword); the pins inside it carry the focused long-tail
+> keywords.** A well-fed pillar board is a strong Pinterest relevance signal, and our pillars already are the
+> topic clusters. 12 pillar boards (6 balcony + 6 patio). **Launch only the boards that have content** (an
+> empty board hurts you); add the ⏳ ones when their pillar gets posts. Use board **sections** for the focused
+> angles inside a pillar (e.g. Small Balcony Ideas → Cozy / Boho / Budget / Modern / Makeovers).
 
 **Balcony space**
-1. **Small Balcony Ideas** — *Small balcony ideas for apartments and tiny outdoor spaces: seating, layout, decor, and styling to make the most of a narrow balcony.*
-2. **Cozy Balcony Decor** — *Cozy balcony decor ideas: warm string lights, soft textiles, plants, and seating to turn a small balcony into a relaxing retreat.*
-3. **Budget Balcony Ideas** — *Budget balcony ideas and cheap small balcony upgrades: affordable rugs, lighting, and decor that look expensive for less effort.*
-4. **Apartment & Renter Balcony Ideas** — *Renter-friendly, no-drill balcony decorating ideas for apartments: removable, deposit-safe ways to style a rental balcony.*
-5. **Balcony Privacy Ideas** — *Balcony privacy ideas: screens, curtains, plants, and no-drill ways to feel hidden on an apartment balcony.*
-6. **Balcony Garden & Container Planters** — *Balcony container gardening and self-watering planters: small-space, low-maintenance ways to grow herbs, veg, and flowers on a balcony.*
+1. **Small Balcony Ideas** *(Decor & Styling pillar)* — *Small balcony ideas for apartments and tiny outdoor spaces: cozy, modern, boho, budget, renter, and makeover decor and styling.* ✅ feeds: small-balcony-patio-ideas (hub), cozy, budget, renter, apartment-decorating, makeover, modern, aesthetic, boho. Sections: Cozy · Boho & Aesthetic · Budget · Modern · Renter/Apartment · Makeovers.
+2. **Balcony Furniture Ideas** *(Furniture & Seating pillar)* — *Balcony furniture and seating ideas for small spaces: bistro sets, swing chairs, benches, and space-saving outdoor seating.* ⏳ pillar open (no posts yet).
+3. **Balcony Privacy Ideas** *(Privacy & Shade pillar)* — *Balcony privacy ideas: screens, curtains, plants, and no-drill ways to feel hidden on an apartment balcony.* ✅ feeds: balcony-privacy-ideas-for-apartments.
+4. **Balcony Garden Ideas** *(Garden & Plants pillar)* — *Balcony garden ideas and container gardening: best balcony plants, flowers, herbs, and self-watering planters for small spaces.* ✅ feeds: balcony-garden-ideas, best-balcony-plants, small-balcony-garden, apartment-balcony-garden, balcony-flowers, best-self-watering-planters-balcony.
+5. **Balcony Flooring Ideas** *(Flooring pillar)* — *Balcony flooring ideas to cover ugly concrete: interlocking deck tiles, outdoor rugs, and renter-friendly floor options.* ✅ feeds: balcony-flooring-ideas.
+6. **Balcony Lighting Ideas** *(Lighting pillar)* — *Balcony lighting ideas: warm string and fairy lights, solar and no-outlet options, and cozy ways to light a small balcony.* ✅ feeds: balcony-lighting-ideas.
 
 **Patio space**
-7. **Small Patio Ideas** — *Small patio ideas to style a tiny outdoor space: seating, flooring, plants, lighting, and privacy for apartment and townhouse patios.*
-8. **Patio Furniture Ideas** — *Patio furniture ideas for small spaces: compact seating, bistro sets, sectionals, and space-saving outdoor furniture that actually fits.*
-9. **Patio Garden Ideas** — *Patio garden ideas for small spaces: container gardens, vertical planters, edibles, and flowers to turn a bare patio into a lush garden.*
-10. **Patio Privacy & Decor** — *Patio privacy ideas and small patio decor: screens, plants, and styling to make a small patio private, cozy, and finished.*
+7. **Small Patio Ideas** *(Decor & Design pillar)* — *Small patio ideas to style a tiny outdoor space: seating, flooring, plants, lighting, and privacy for apartment and townhouse patios.* ✅ feeds: small-patio-ideas (hub), small-patio-decorating-ideas.
+8. **Patio Furniture Ideas** *(Furniture & Seating pillar)* — *Patio furniture ideas for small spaces: compact seating, bistro sets, DIY builds, and space-saving outdoor furniture.* ✅ feeds: patio-furniture-ideas, diy-patio-furniture.
+9. **Patio Garden Ideas** *(Garden & Plants pillar)* — *Patio garden ideas for small spaces: container gardens, vertical planters, edibles, and flowers for a lush small patio.* ✅ feeds: patio-garden-ideas, small-patio-garden.
+10. **Patio Privacy Ideas** *(Privacy & Shade pillar)* — *Patio privacy ideas: screens, walls, plants, and privacy planters to make a small or ground-level patio feel hidden.* ✅ feeds: patio-privacy-ideas.
+11. **Covered Patio Ideas** *(Covered/Structure pillar)* — *Covered patio ideas for small spaces: pergolas, shade, and enclosed patio designs.* ⏳ pillar open (no posts yet).
+12. **Patio Flooring Ideas** *(Flooring/Hardscape pillar)* — *Small patio flooring ideas: pavers, concrete, gravel, and brick options compared for a small patio.* ⏳ pillar open (no posts yet).
 
-*(Optional 11th: a brand board "Bloom & Lantern | Best Of" to repin your top performers.)*
+*(Optional brand board: "Bloom & Lantern | Best Of" to repin your top performers.)*
+
+> **Pin board assignment:** every pin goes to its pillar board first (see the `Pinterest Board` column in the
+> tracker, remapped to these 12 names 2026-06-27), then optionally added to one other relevant pillar board a
+> few days later. Board carries the broad keyword; the pin carries the focused one.
 
 ---
 
@@ -109,6 +119,6 @@ Drafts live in `Content/pages/` — paste each into a WordPress **Page**, fill t
 - [ ] Site live on `https://bloomandlantern.com`, fast theme, clean nav, Balcony + Patio categories
 - [ ] All 4 trust pages published + linked in the footer
 - [ ] GA4 + Search Console connected, sitemap submitted
-- [ ] Pinterest business account + website claimed + Rich Pins on + the 10 launch boards created
+- [ ] Pinterest business account + website claimed + Rich Pins on + the 9 fed pillar boards created (of 12; add the 3 ⏳ when their pillar has posts)
 
 **Next:** publish the content base and start scheduling the pin batches (Milestone 2).
