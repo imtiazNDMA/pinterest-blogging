@@ -19,17 +19,17 @@ Kadence loads Google Fonts natively in every typography selector, so **no font p
 ## 1. Global color palette
 **Customize → General → Colors → Palette.** Click each swatch and set the hex. Roles map to Kadence's 9 slots:
 
-| Slot | Role | Hex | Used for |
-|---|---|---|---|
-| 1 | Accent | `#C97B5A` | links, buttons, accents (terracotta) |
-| 2 | Accent 2 (hover/active) | `#A85F42` | button hover, link hover (darker terracotta) |
-| 3 | Strongest text / headings | `#2E2B27` | H1–H3 (warm near-black) |
-| 4 | Base text / body | `#3A3A38` | paragraph text (charcoal) |
-| 5 | Muted text | `#6B655C` | meta, captions |
-| 6 | Border / hairline | `#E4D6BF` | dividers, table & card borders |
-| 7 | Subtle background | `#EFE3D1` | alt sections, sidebar, cards (deeper cream) |
-| 8 | Base background | `#F5EBDD` | page background (cream) |
-| 9 | Dark background | `#2C3E50` | footer (dusk blue) |
+| Slot | Role                      | Hex       | Used for                                     |
+| ---- | ------------------------- | --------- | -------------------------------------------- |
+| 1    | Accent                    | `#C97B5A` | links, buttons, accents (terracotta)         |
+| 2    | Accent 2 (hover/active)   | `#A85F42` | button hover, link hover (darker terracotta) |
+| 3    | Strongest text / headings | `#2E2B27` | H1–H3 (warm near-black)                      |
+| 4    | Base text / body          | `#3A3A38` | paragraph text (charcoal)                    |
+| 5    | Muted text                | `#6B655C` | meta, captions                               |
+| 6    | Border / hairline         | `#E4D6BF` | dividers, table & card borders               |
+| 7    | Subtle background         | `#EFE3D1` | alt sections, sidebar, cards (deeper cream)  |
+| 8    | Base background           | `#F5EBDD` | page background (cream)                      |
+| 9    | Dark background           | `#2C3E50` | footer (dusk blue)                           |
 
 **Brand extras** (not in the 9 slots; used via the CSS in §8): sage `#9CAF88`, honey `#C8A06A`, amber `#E8B86D`, content surface `#FFFDF8`.
 

@@ -29,6 +29,13 @@
 - [x] **Pin batch PB-009** — patio furniture post (Rec 54) → `Content/pins/patio-furniture-ideas-pins.md` (5 fresh pins: hero / 6-type grid / wicker-vs-iron-vs-metal / foldable / layout diagram). **Logged 5 Pin rows (PB-009, Rec 68–72) to the tracker 2026-06-27**; scheduled 2026-08-05 → 08-09. A/B retarget test noted ("Best Small-Patio Furniture" vs gallery hero). Owner: design in Canva (2:3 1000×1500), label AI, schedule via Pinterest native scheduler. ✅
 - [x] **Patio garden HUB post** — `patio garden ideas` (63k, P2 garden sub-hub) → `Content/patio-garden-ideas.md` (Rec 52). **Written 2026-06-27** via full `/new-post` pipeline. ~1,680 words, ~28 ideas, 7 internal links (fills the hub's "build a small patio garden" down-link), light monetization block. **YMYL: petunia/zinnia/sunflower pet-safe claims ASPCA-verified (cats + dogs); marigold omitted as cat-toxic.** editor-qa PASS all gates → **status=Ready**. Owner: pick SEO title, fill 1 [PERSONAL TIP] + 5 [YOUR PHOTO], swap affiliate placeholders. Next: `/make-pins patio-garden-ideas`. ✅
 
+### 🌿 Patio children batch (closing hub down-links) — ✅ all 4 done 2026-06-27
+- [x] **1/4 small-patio-decorating-ideas** (Rec 48, 30k) → `Content/small-patio-decorating-ideas.md`. Decor-lane child; ~1,650w, 20 moves, 6 links, editor-qa PASS → **Ready**.
+- [x] **2/4 small-patio-garden** (Rec 53, 32k) → `Content/small-patio-garden.md`. Deep container child of garden hub; ~1,640w, ~27 steps, 6 links; **YMYL ASPCA-verified** (basil/petunia/zinnia/sunflower) → **Ready**.
+- [x] **3/4 diy-patio-furniture** (Rec 55, 27k) → `Content/diy-patio-furniture.md`. BUILD child of furniture money post; ~1,780w, 14 projects, tool/pallet safety hedges, 5 links → **Ready**.
+- [x] **4/4 patio-privacy-ideas** (Rec 56, 18k) → `Content/patio-privacy-ideas.md`. Ground-level privacy sub-hub; ~1,700w, ~17 ideas, cross-links balcony privacy + down-links patio-privacy-screen, 6 links → **Ready**.
+- All 4 owner-fill: SEO title pick, 1 [PERSONAL TIP] + 5 [YOUR PHOTO] each, affiliate links; then `/make-pins`.
+
 ### 🏗️ At the office — Buy + set up (owner actions)
 - [x] **Buy `bloomandlantern.com`** — purchased 2026-06-27 (Namecheap). Confirm auto-renew + WHOIS privacy on.
 - [x] **Buy hosting** — **Stellar Plus** (Namecheap) purchased 2026-06-27.

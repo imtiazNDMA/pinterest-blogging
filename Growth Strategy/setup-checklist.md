@@ -18,7 +18,7 @@
 - [ ] **Enable free SSL (owner)** — cPanel → SSL/TLS Status → run **AutoSSL** for the domain. Confirm `https://` loads with a padlock before going live.
 - [ ] **Force HTTPS + www decision (owner)** — pick non-www `https://bloomandlantern.com` (matches our links). Set in WP → Settings → General (both Site Address + WordPress Address). LiteSpeed Cache can force HTTPS.
 - [ ] **Permalinks (owner)** — WP → Settings → Permalinks → **Post name** (`/%postname%/`).
-- [ ] **Delete sample content (owner)** — remove the "Hello World" post + "Sample Page"; set a real default category (below) and delete "Uncategorized".
+- [x] **Delete sample content (owner)** — remove the "Hello World" post + "Sample Page"; set a real default category (below) and delete "Uncategorized".
 - [x] **Theme (owner)** — **Kadence** installed + activated (2026-06-27).
 - [ ] **Customize Kadence (owner)** — apply the full "Golden Hour" brand spec in `Growth Strategy/kadence-theme-spec.md`: palette, Playfair × Montserrat typography, dusk-blue footer, amber-glow buttons, Additional CSS. Matches the pin design system.
 - [ ] **Plugins (free) (owner)** — Plugins → Add New:
