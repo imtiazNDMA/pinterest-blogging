@@ -33,17 +33,31 @@ Blog/Pinterest/content still not built. **Next step:** `/keyword-cluster Small b
 See `.claude/CLAUDE.md` for the studio map. Brand name not chosen → `{{BLOG_NAME}}`/`{{DOMAIN}}` tokens.
 Voice: second-person. Output: Markdown drafts in `Content/`. Pins: AI-generated images + copy (label AI on Pinterest).
 
+**Update 2026-06-27 — Patio space validated & folded in.** 6 PinClicks patio exports added 2,606 net-new
+keywords (+1.17M SV; dataset now 4,413 unique terms / 7.84M pool). Patio is a full second space (6 sub-clusters,
+hub "small patio ideas" 118k). Folded into the master plan (pillars above) and the tracker as 12 `Idea` Content
+rows across 4 patio clusters (Record IDs 11, 47–57). **Next keyword frontier:** backyard ("small backyard ideas"
+38× references) — see `keyword Research/suggestions.md`.
+
 ---
 
 # Master Strategy
 
 ## 1. Content pillars (Balcony & Patio Styling)
-1. **Small balcony/patio ideas & makeovers** (Pinterest fuel) — e.g. "small balcony decorating ideas," "apartment patio makeover"
-2. **Outdoor furniture & gear** (money posts) — e.g. "best small balcony furniture," "best outdoor string lights for balconies"
-3. **Layout how-tos** — e.g. "how to add privacy to a balcony," "balcony lighting ideas," "zoning a tiny patio"
-4. **Seasonal & renter outdoor styling** — e.g. "renter-friendly balcony upgrades," "cozy fall balcony ideas" (also off-season smoothing)
+The niche spans **two validated spaces** — **Balcony** and **Patio** — each feeding the four thematic pillars below.
+Both are now keyword-validated (real Pinterest Search Volume): Balcony hub "balcony ideas" **622k**; Patio hub
+"small patio ideas" **118k** / "patio garden ideas" **63k**. Full maps: `keyword Research/_pillar-subclusters-2026-06-26.md`
+(balcony, 6 sub-clusters) + `keyword Research/_patio-subclusters-2026-06-27.md` (patio, 6 sub-clusters).
 
-Boards + topic clusters mirror these four pillars. Expansion arms: balcony plant styling (bridges to gardening) and indoor plant styling.
+1. **Ideas & makeovers** (Pinterest fuel) — balcony: "small balcony ideas," "cozy balcony"; patio: "small patio ideas" (118k), "small patio decorating ideas," "modern patio design"
+2. **Outdoor furniture & gear** (money posts) — balcony: "balcony furniture," swing/hanging chairs; patio: "patio furniture ideas" (30k), "diy/pallet patio furniture," wicker/wrought-iron, conversation sets
+3. **Layout how-tos** — privacy/shade/lighting: "balcony privacy ideas," "patio privacy ideas" (18k), "patio privacy screens," "balcony lights"
+4. **Garden arm + seasonal/renter** — "balcony garden" (138k), "patio garden ideas" (63k), "small patio garden" (32k) ⚠YMYL; plus "fall/winter balcony," renter-friendly upgrades (off-season smoothing)
+
+Boards + topic clusters mirror these pillars **per space**. Tracker clusters: `small-balcony-patio-ideas`,
+`balcony-containers`, `patio-styling-ideas`, `patio-garden`, `patio-furniture`, `patio-privacy`.
+Expansion arms: **backyard** small-space styling (next keyword frontier — `keyword Research/suggestions.md`),
+balcony/patio plant styling (bridges to gardening), indoor plant styling.
 
 ## 2. Monetization ladder
 | Stage | Traffic | Monetization |

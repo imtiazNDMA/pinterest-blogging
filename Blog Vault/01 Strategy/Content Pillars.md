@@ -7,9 +7,12 @@ updated: 2026-06-26
 
 ← [[Home]] · [[Niche Overview]] · [[WordPress Categories & Tags]] · [[Content Calendar]]
 
-Six pillars, sized by **real Pinterest search volume** (validated 2026-06-26). Each maps to a WordPress category
+The niche spans **two validated spaces** — **Balcony** (6 pillars, below) and **Patio** (added 2026-06-27).
+Each pillar is sized by **real Pinterest search volume**, maps to a WordPress category
 ([[WordPress Categories & Tags]]) and a board family ([[Boards Plan]]). "Small / tiny / apartment / renter" is an
 audience **modifier** applied across all pillars, not a pillar itself.
+
+## Balcony space (validated 2026-06-26)
 
 | # | Pillar | Real SV | Intent | Monetization | Status |
 |---|---|---|---|---|---|
@@ -52,10 +55,27 @@ Clusters: balcony string lights, solar lights, lanterns, fairy lights, café/fes
 ### Seasonal (publish 6–8 weeks ahead)
 Christmas balcony decor (9.4k — biggest seasonal), fall decor, cozy winter (heaters/fire tables = high AOV), Halloween.
 
+## Patio space (validated 2026-06-27)
+Patio is a full second space — not a balcony sub-topic. 2,606 net-new keywords (+1.17M SV). Full map:
+`keyword Research/_patio-subclusters-2026-06-27.md`. Maps onto the same four thematic pillars.
+
+| # | Patio pillar | Hub term | Real SV | Intent | Monetization |
+|---|---|---|---|---|---|
+| P1 | **Patio Decor & Styling** (hub) | small patio ideas | **118,387** | Inspiration | Ads + soft decor |
+| P2 | **Patio Garden & Plants** | patio garden ideas | **63,325** | Mixed | Planters/soil/tools ⚠YMYL |
+| P3 | **Patio Furniture & Seating** | patio furniture ideas | **30,239** | Buyer | **High** (furniture AOV, conversation sets) |
+| P4 | **Patio Privacy & Shade** | patio privacy ideas | **18,504** | Buyer | **High** (screens, planters) |
+| P5 | *Patio Covered / Structure* | covered/rooftop patio | 18k–83k | Inspiration | Mid (target small long-tail) |
+| P6 | *Patio Flooring / Hardscape* | patio pavers design | 15,400 | Buyer | Mid (pavers/concrete) |
+
+Cross-link patio ↔ balcony siblings (privacy↔privacy, garden↔garden, furniture↔furniture).
+Tracker clusters: `patio-styling-ideas`, `patio-garden`, `patio-furniture`, `patio-privacy` (Record IDs 11, 47–57).
+
 ## Build sequence (recommended)
-1. Finish **Pillar 1** high-value posts: Privacy → Boho → Modern.
-2. Launch **Pillar 2 (Furniture)** + **Pillar 3 (Privacy/Shade)** — fastest path to revenue.
-3. Bring **Pillar 4 (Garden)** online as the durability + seasonality hedge.
-4. Layer in Flooring/Lighting/Seasonal as supporting clusters.
+1. Finish **Balcony Pillar 1** high-value posts: Privacy → Boho → Modern.
+2. Launch **Balcony Pillar 2 (Furniture)** + **Pillar 3 (Privacy/Shade)** — fastest path to revenue.
+3. Open the **Patio space** in parallel: Small Patio Ideas (118k hub) → Patio Garden (63k) → Patio Furniture (money).
+4. Bring **Garden** (both spaces) online as the durability + seasonality hedge.
+5. Layer in Flooring/Lighting/Seasonal + **backyard** expansion (next keyword frontier) as supporting clusters.
 
 > Full product mapping per pillar → [[Monetization Strategy]] + [[Affiliate Programs]].

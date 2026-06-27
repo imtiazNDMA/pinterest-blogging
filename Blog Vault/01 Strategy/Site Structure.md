@@ -23,7 +23,16 @@ How the WordPress site is organized so Google reads topical authority and reader
 ├── /balcony-furniture/              ← Pillar 2 hub (future)
 ├── /balcony-privacy/                ← Pillar 3 hub (future)
 ├── /balcony-garden/                 ← Pillar 4 hub (future)
-└── /balcony-lighting/ , /balcony-flooring/  (future)
+├── /balcony-lighting/ , /balcony-flooring/  (future)
+│
+├── /small-patio-ideas/              ← Patio Pillar 1 hub (future)
+│     ├── /small-patio-decorating-ideas/
+│     ├── /cozy-patio-ideas-small-spaces/
+│     ├── /modern-patio-design/
+│     └── /small-covered-patio-ideas/
+├── /patio-garden-ideas/             ← Patio Pillar 2 hub (future)
+├── /patio-furniture-ideas/          ← Patio Pillar 3 hub — money (future)
+└── /patio-privacy-ideas/            ← Patio Pillar 4 hub (future)
 ```
 Use a **flat URL** (`/post-slug/`), not `/category/post/` — cleaner, avoids broken links if a post changes category.
 
