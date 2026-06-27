@@ -20,7 +20,7 @@ updated: 2026-06-26
 | Monthly income | $0 | First $1 |
 
 ## 🎯 This week (edit me every Monday)
-- [ ] Pick a brand name + buy `{{DOMAIN}}` → unblocks publishing
+- [ ] Pick a brand name + buy `https://bloomandlantern.com` → unblocks publishing
 - [ ] Set up WordPress + theme (see [[Site Structure]])
 - [ ] Publish first READY post (fill owner inputs: photos, affiliate links, [PERSONAL TIP])
 - [ ] Generate + schedule first pin batch images (see [[Pinterest Strategy]])

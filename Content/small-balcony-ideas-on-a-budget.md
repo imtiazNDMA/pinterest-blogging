@@ -124,7 +124,7 @@ A few small purchases punch well above their cost on a budget balcony. Treat the
 
 <!-- FTC DISCLOSURE — must sit ABOVE the first affiliate link below. Monetization-strategist inserts the
      formal product block with descriptive-anchor links here. -->
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 The standouts for most small balconies are a weatherproof [outdoor rug](#affiliate), a set of warm-white [solar string lights](#affiliate), and a roll of [bamboo privacy screening](#affiliate). Each is budget-friendly, hard to DIY for less, and does visible work the moment it goes up.
 

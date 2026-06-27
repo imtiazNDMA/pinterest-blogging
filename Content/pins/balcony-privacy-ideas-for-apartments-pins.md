@@ -1,10 +1,10 @@
 # Pin Batch — Balcony Privacy Ideas: 14 Renter-Friendly Ways to Feel Hidden
 
-- **Post slug / destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Post slug / destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Pin Batch ID:** PB-006
 - **Pillar / Board family:** Small balcony/patio ideas (Balcony & Patio Styling) — balcony privacy sub-topic (renter-friendly)
 - **Production note:** AI-for-everything. Each brief describes a clean photographic plate to GENERATE as a 1000×1500 (2:3) image; multi-word overlays are added in Canva (Path B) with the house font pairing. Render authentic, photographic, non-uncanny home decor — correct railing perspective, real-looking textiles, true-to-life string lights and plants, no warped railings, no garbled in-image text. Home decor sits on Pinterest's 2026 GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin. Privacy is the promise — every pin shows a balcony being genuinely screened off (curtains, screens, plants, blinds), matching the post so there is no bait per `guardrails/pinterest-policy.md`.
-- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the big list number on Pin 2. Brand mark: small {{BLOG_NAME}} wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook.
+- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the big list number on Pin 2. Brand mark: small Bloom & Lantern wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook.
 
 > One block per pin. 5 pins, each a DIFFERENT angle + a DISTINCT archetype = a fresh design. 2:3 / 1000×1500 px. No prices. Zero emojis. No arrows in pin copy.
 
@@ -33,7 +33,7 @@
 - **Description:** These balcony privacy ideas turn an exposed apartment ledge into a tucked-away corner using a curtain, a slatted privacy screen, and a few well-placed plants. It is the kind of cozy, hidden balcony privacy you can put together without losing your deposit. Save this for your own apartment balcony privacy plan and tap through for all fourteen.
 - **Board:** Balcony Privacy Ideas
 - **Image filename:** balcony-privacy-ideas-for-apartments-hero-corner.jpg
-- **Destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Scheduled date:** 2026-07-21 (evening slot, ~8–9 PM)
 
 ---
@@ -61,7 +61,7 @@
 - **Description:** A scannable grid of fourteen balcony privacy ideas, from a balcony privacy screen and outdoor balcony curtains to balcony privacy plants and roll-down balcony blinds. Each one blocks the view from neighbors while keeping your small balcony bright and styled. Pin this so all fourteen apartment balcony privacy ideas stay in one place.
 - **Board:** Apartment Balcony Ideas
 - **Image filename:** balcony-privacy-ideas-for-apartments-14-grid.jpg
-- **Destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Scheduled date:** 2026-07-22 (evening slot, ~8–9 PM)
 
 ---
@@ -88,7 +88,7 @@
 - **Description:** Want balcony privacy without losing your deposit? This no-drill balcony privacy setup leans on a tension-rod curtain and clamp-on railing planters, so nothing gets drilled and everything lifts out on move-out day. It is renter-friendly apartment balcony privacy that landlords cannot complain about. Save this for your own rental and see every no-drill option in the post.
 - **Board:** Renter Friendly Decor
 - **Image filename:** balcony-privacy-ideas-for-apartments-no-drill.jpg
-- **Destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Scheduled date:** 2026-07-23 (evening slot, ~8–9 PM)
 
 ---
@@ -118,7 +118,7 @@
 - **Description:** This balcony privacy before and after takes an exposed, see-through railing and closes it in with a curtain, a privacy screen, and a railing planter, all from the same corner and the same angle. It shows exactly how much balcony privacy you gain once you layer a screen and some plants. Save this balcony makeover and follow the steps in the full post.
 - **Board:** Small Balcony Makeovers
 - **Image filename:** balcony-privacy-ideas-for-apartments-before-after.jpg
-- **Destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Scheduled date:** 2026-07-24 (evening slot, ~8–9 PM)
 
 ---
@@ -147,7 +147,7 @@
 - **Description:** Real balcony privacy means blocking the view from three directions — the side, the front, and above — and this framework covers all three with a balcony privacy screen, a planter wall, and a roll-down blind or shade. Once you know where you are exposed, the right balcony privacy fix is obvious. Save this and walk through the full side-front-above plan in the post.
 - **Board:** Apartment Balcony Ideas
 - **Image filename:** balcony-privacy-ideas-for-apartments-side-front-above.jpg
-- **Destination:** {{DOMAIN}}/balcony-privacy-ideas-for-apartments
+- **Destination:** https://bloomandlantern.com/balcony-privacy-ideas-for-apartments
 - **Scheduled date:** 2026-07-25 (evening slot, ~8–9 PM)
 
 ---

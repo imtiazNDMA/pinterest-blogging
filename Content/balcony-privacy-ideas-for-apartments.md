@@ -95,7 +95,7 @@ A private pocket is also the most budget-friendly cozy upgrade you can make, sin
 
 A few privacy pieces are worth buying purpose-made rather than improvising, because they screen more reliably and hold up to weather. The picks below cover the spots where a made-for-it product beats a DIY fix: outdoor curtains and tension rods, no-drill blinds, a freestanding screen, faux-hedge panels, bamboo fencing, a railing screen roll, a trellis, and an overhead shade sail.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 How we picked: three things decide whether a privacy buy earns its place. How much of the sightline it actually blocks, whether it goes up with no drilling and comes away clean, and whether it shrugs off sun, rain, and wind on an exposed balcony. Every pick below is renter friendly first.
 

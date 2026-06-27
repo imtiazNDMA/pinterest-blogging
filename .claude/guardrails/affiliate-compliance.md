@@ -7,7 +7,7 @@ Re-verify specifics before relying — programs change. Sources tracked in `.cla
 - Every post containing affiliate links MUST include a **clear, conspicuous disclosure ABOVE the first
   affiliate link** — not buried in a footer, not only on a separate page.
 - Use plain language a reader understands. Default line (adjust to brand voice, keep it clear):
-  > *"This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small
+  > *"This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small
   > commission at no extra cost to you."*
 - A site-wide **Affiliate Disclosure page** is required in addition to the per-post line.
 - Disclosures apply to Pinterest too: if a **pin links directly** to an affiliate URL or the pin itself is
@@ -18,7 +18,7 @@ Re-verify specifics before relying — programs change. Sources tracked in `.cla
   Prices change and caching them violates the Operating Agreement. Describe value qualitatively
   ("budget-friendly," "a splurge that lasts," "great value for the size") — never a number.
 - **NEVER scrape or copy Amazon review text, star ratings, or "X bought in past month" data.**
-- **Required Associate disclosure** somewhere obvious (commonly): *"As an Amazon Associate {{BLOG_NAME}}
+- **Required Associate disclosure** somewhere obvious (commonly): *"As an Amazon Associate Bloom & Lantern
   earns from qualifying purchases."* Put on disclosure page + near Amazon links.
 - **No link cloaking that hides it's Amazon**, no affiliate links in email/PDF/offline, no incentivized clicks
   ("click my link to support me" framing is risky — keep it about helping the reader).

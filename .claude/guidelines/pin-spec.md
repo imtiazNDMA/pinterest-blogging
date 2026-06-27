@@ -37,7 +37,7 @@ Default batch: **4–6 pins** per new post across distinct angles.
   hook and soft CTA carry the pin; no emoji decoration (matches the post content rule in `anti-ai-slop.md` C3).
 - **Board:** assign to the keyword-named board for the post's pillar/sub-topic.
 - **Suggested image filename:** keyword-based, hyphenated.
-- **Destination URL:** the blog post (token `{{DOMAIN}}/<slug>`), not a raw affiliate link.
+- **Destination URL:** the blog post (token `https://bloomandlantern.com/<slug>`), not a raw affiliate link.
 
 ## Schedule
 - Spread the batch over days (e.g., 1 pin/day), not all at once.

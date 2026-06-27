@@ -25,7 +25,7 @@ studio** (the `.claude/` system); this vault tracks status and the human steps.
 - **Photos** — real or AI-generated styled images (the studio gives design briefs + AI prompts).
 - **[PERSONAL TIP]** — one genuine first-person line per post (never faked — it's the honesty anchor).
 - **Affiliate links** — real tagged URLs; FTC disclosure above the first one.
-- **Tokens** — replace `{{BLOG_NAME}}` / `{{DOMAIN}}` / `{{AMAZON_TAG}}`.
+- **Tokens** — replace `Bloom & Lantern` / `https://bloomandlantern.com` / `{{AMAZON_TAG}}`.
 
 ## Quality bar (the studio enforces; know it)
 - No AI slop, no em-dashes/emojis/clickbait, scannable formatting.

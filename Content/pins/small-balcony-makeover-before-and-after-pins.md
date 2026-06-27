@@ -1,6 +1,6 @@
 # Pin Batch — Small Balcony Makeover: 8 Before-and-After Transformations
 
-- **Post slug / destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Post slug / destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Pin Batch ID:** PB-004
 - **Pillar / Board family:** Small balcony/patio ideas & makeovers (Balcony & Patio Styling) — makeover / before-and-after sub-topic
 - **Production note:** AI-for-everything. Each brief describes a styled scene to GENERATE as a 1000×1500 (2:3) image. Render authentic, photographic, non-uncanny home decor (correct perspective, real-looking textiles, true-to-life string lights and pots, no warped railings, no garbled in-image text). Home decor sits on Pinterest's GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin. Before/after is the hero format here, so the splits are the priority — and they must be **honest and believable per `guardrails/pinterest-policy.md`**: both halves are the **same balcony from the same perspective**, a realistic transformation, no exaggerated or misleading "magazine vs. slum" trickery, no bait.
@@ -16,7 +16,7 @@
 - **Description:** This small balcony makeover before and after takes a bare grey ledge and turns it into a warm nook with a rug, one anchor chair, string lights, and a few plants. It is the kind of balcony transformation you can copy on a small apartment footprint in a single weekend. Save this and see all eight makeovers in the full post.
 - **Board:** Small Balcony Makeovers
 - **Image filename:** small-balcony-makeover-before-and-after-hero-split.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Scheduled date:** 2026-07-11 (evening slot, ~8–9 PM)
 
 ---
@@ -28,7 +28,7 @@
 - **Description:** A scannable grid of eight small balcony makeover ideas, each shown as a before and after so you can see the whole balcony glow up at a glance. From boho to modern, every tiny balcony makeover starts from the same bare ledge you are working with. Pin this so all eight balcony transformations stay in one place.
 - **Board:** Balcony Before and After
 - **Image filename:** small-balcony-makeover-before-and-after-8-grid.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Scheduled date:** 2026-07-12 (evening slot, ~8–9 PM)
 
 ---
@@ -40,7 +40,7 @@
 - **Description:** Every small balcony makeover before and after follows the same six steps: declutter, lay a floor, anchor a seat, add greenery, warm it with light, then layer in something personal. Work the order and your balcony transformation comes together without looking cluttered. Save this formula before you start your own balcony glow up.
 - **Board:** Small Balcony Makeovers
 - **Image filename:** small-balcony-makeover-before-and-after-6-step-formula.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Scheduled date:** 2026-07-13 (evening slot, ~8–9 PM)
 
 ---
@@ -52,7 +52,7 @@
 - **Description:** This balcony glow up proves a small balcony makeover before and after does not take a big spend — a rug, a foldable chair, solar lights, and a few painted pots do the heavy lifting. It is an affordable apartment balcony makeover any renter can copy without overspending. Save this and find the full budget breakdown in the post.
 - **Board:** Budget Balcony Decor
 - **Image filename:** small-balcony-makeover-before-and-after-budget-glow-up.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Scheduled date:** 2026-07-14 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** This rental balcony makeover before and after goes from bare concrete to a finished nook using only removable pieces — deck tiles, an outdoor rug, clamp-on planters, and a tension-rod curtain. Nothing is drilled, so the whole apartment balcony makeover lifts out on move-out day and your deposit stays safe. Save this no-drill balcony transformation for your own rental reset.
 - **Board:** Rental Balcony Makeovers
 - **Image filename:** small-balcony-makeover-before-and-after-renter-no-drill.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-makeover-before-and-after
+- **Destination:** https://bloomandlantern.com/small-balcony-makeover-before-and-after
 - **Scheduled date:** 2026-07-15 (evening slot, ~8–9 PM)
 
 ---

@@ -2,7 +2,7 @@
 
 A content-production system for a Pinterest-fed, SEO-durable, monetized blog in the **Balcony & Patio Styling**
 niche (decor-led styling of small balconies and patios). Niche committed 2026-06-25. Brand not chosen yet →
-the tokens `{{BLOG_NAME}}`, `{{DOMAIN}}`, `{{AMAZON_TAG}}` are placeholders, find-replaced once decided.
+the tokens `Bloom & Lantern`, `https://bloomandlantern.com`, `{{AMAZON_TAG}}` are placeholders, find-replaced once decided.
 
 This repo is organized into **three layers** that do different jobs.
 

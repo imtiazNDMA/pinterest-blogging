@@ -12,7 +12,7 @@ How the WordPress site is organized so Google reads topical authority and reader
 
 ## URL + silo model
 ```
-{{DOMAIN}}/
+https://bloomandlantern.com/
 ├── /  (homepage — featured pillars + latest)
 ├── /small-balcony-ideas/            ← Pillar 1 hub page
 │     ├── /cozy-small-balcony-ideas/

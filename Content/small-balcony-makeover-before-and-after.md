@@ -139,7 +139,7 @@ On that last step, choose performance or solution-dyed outdoor fabric, seal any 
 
 Most of a makeover can be thrifted or DIY'd, but a few after pieces are worth buying once and buying well, because they take the weather and do visible work every day. The big one is your anchor seat: a single quality bistro set or a compact bench outlasts a wobbly flat-pack set and carries the whole zone. Around it, a weatherproof rug or interlocking tiles, warm-white string lights, and a couple of planters handle the rest.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 **How we picked:** one rule for every piece below. It has to earn its spot with the highest visual impact for the step it covers, survive sun and rain on an exposed ledge, and scale down for a small balcony floor. Nothing here is on the list just because it fills space.
 

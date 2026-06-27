@@ -26,11 +26,10 @@ pinterest_blog_master_tracker.csv   # system of record
 - **Pin Batch ID:** `PB-###`, sequential.
 - **Record ID** (tracker): integer, sequential, never reused.
 
-## Tokens (never hard-code real values)
-- `{{BLOG_NAME}}` — blog/brand name (not chosen yet).
-- `{{DOMAIN}}` — site domain, no protocol (e.g. `examplegarden.com`).
-- `{{AMAZON_TAG}}` — Amazon Associates tracking ID.
-Replace via find-and-replace once the user provides them.
+## Tokens
+- Brand name — resolved to **Bloom & Lantern** on 2026-06-27 (was the `BLOG_NAME` token).
+- Domain — resolved to `https://bloomandlantern.com` on 2026-06-27 (was the `DOMAIN` token; now a full HTTPS URL **with** protocol, so links read `https://bloomandlantern.com/<slug>`).
+- `{{AMAZON_TAG}}` — Amazon Associates tracking ID. Still a token; never hard-code a real value until provided. Replace via find-and-replace once the user supplies it.
 
 ## Dates
 - ISO 8601 `YYYY-MM-DD` everywhere.

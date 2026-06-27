@@ -3,7 +3,7 @@
 Goal: a live, trustworthy WordPress site + Pinterest presence ready for affiliate/ad approval. Bootstrap (<$30/mo).
 
 ## A. WordPress / tech stack
-1. **Domain** (~$10/yr) — short, brandable, niche-hinting. Set `{{DOMAIN}}`.
+1. **Domain** (~$10/yr) — short, brandable, niche-hinting. Set `https://bloomandlantern.com`.
 2. **Hosting** — budget managed WordPress host (~$3–7/mo intro). Self-hosted WordPress.org (NOT wordpress.com).
 3. **Theme** — free, fast: Kadence or GeneratePress (free). Speed = SEO + ad RPM.
 4. **Plugins (free):** Rank Math (SEO), a caching plugin, image optimization, a table-of-contents plugin.
@@ -24,7 +24,7 @@ Link all four in the footer.
 5. Profile: keyword-rich name + bio aligned to the niche entity (topical authority).
 
 ## D. Definition of done (Milestone 1)
-- [ ] Site live on `{{DOMAIN}}`, fast theme, clean nav, pillar categories
+- [ ] Site live on `https://bloomandlantern.com`, fast theme, clean nav, pillar categories
 - [ ] All 4 trust pages published + linked in footer
 - [ ] GA4 + Search Console connected
 - [ ] Pinterest business account + website claimed + Rich Pins on + first boards created

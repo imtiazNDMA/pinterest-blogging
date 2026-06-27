@@ -17,7 +17,7 @@ last_updated: 2026-06-25
 
 If your balcony plants dry out the second you skip a day, or you travel and come home to crispy basil, the best self-watering planters for balconies fix that by holding a few days of water in a reservoir under the soil. The right one depends on where it sits (railing, floor, or hanging) and how heavy it gets when full, because a soaked planter on a railing is a safety risk as well as a watering one. Below are the picks segmented by situation, the exact criteria they were judged on, and how to run one without drowning your roots.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 **Quick picks:**
 

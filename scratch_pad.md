@@ -208,7 +208,7 @@ After each phase I pause for your check. (We can compress phases if you'd rather
 2. **Pin tool:** **Canva free** for design + **Pinterest native scheduler** (free) for cadence.
 3. **Build pace:** **One pass**, then full review.
 4. **`roadmap_codex.md`:** **Fold into playbooks, then retire** the standalone file (single source of truth).
-5. **Blog name:** none yet → use placeholder `{{BLOG_NAME}}` / `{{DOMAIN}}` tokens everywhere so it's a find-replace later.
+5. **Blog name:** none yet → use placeholder `Bloom & Lantern` / `https://bloomandlantern.com` tokens everywhere so it's a find-replace later.
 
 ---
 

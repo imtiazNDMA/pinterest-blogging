@@ -1,6 +1,6 @@
 # Pin Batch — Small Balcony Decorating Ideas for Renters: 17 No-Drill Tricks
 
-- **Post slug / destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Post slug / destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Pin Batch ID:** PB-003
 - **Pillar / Board family:** Small balcony/patio ideas & makeovers (Balcony & Patio Styling) — renter / no-drill sub-topic
 - **Production note:** AI-for-everything. Each brief describes a styled scene to GENERATE as a 1000×1500 (2:3) image. Render authentic, photographic, non-uncanny home decor (correct perspective, real-looking textiles, true-to-life string lights and pots, no warped railings, no garbled in-image text). Home decor sits on Pinterest's GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin. Every pin leans into the no-drill / fully removable / deposit-safe hook — that is the save-worthy angle.
@@ -16,7 +16,7 @@
 - **Description:** These small balcony decorating ideas for renters style a bare ledge with nothing drilled into the wall — an outdoor rug, clamp-on railing planters, a freestanding screen, and solar lights that all lift off later. It is renter friendly balcony decor that keeps your deposit intact. Save this for your no-drill balcony refresh.
 - **Board:** Renter Friendly Balcony Ideas
 - **Image filename:** renter-friendly-balcony-ideas-no-drill-hero.jpg
-- **Destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Scheduled date:** 2026-07-06 (evening slot, ~8–9 PM)
 
 ---
@@ -28,7 +28,7 @@
 - **Description:** A scannable list of apartment balcony no drill ideas, from interlocking floor tiles and clamp-on planters to a tension-rod curtain and adhesive hooks. Every piece is removable balcony decor you can add one at a time and take with you when you move. Pin this so your whole renter balcony checklist stays in one place.
 - **Board:** No Drill Balcony Ideas
 - **Image filename:** renter-friendly-balcony-ideas-17-no-damage-grid.jpg
-- **Destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Scheduled date:** 2026-07-07 (evening slot, ~8–9 PM)
 
 ---
@@ -40,7 +40,7 @@
 - **Description:** You can style a rental balcony without losing your deposit when every upgrade is fully removable — think clamp-on planters, freestanding decor, and lights that rest in place instead of screwing in. These no damage balcony upgrades come off cleanly on move-out day. Save this before your next renter balcony project.
 - **Board:** Renter Friendly Decor
 - **Image filename:** renter-friendly-balcony-ideas-deposit-safe.jpg
-- **Destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Scheduled date:** 2026-07-08 (evening slot, ~8–9 PM)
 
 ---
@@ -52,7 +52,7 @@
 - **Description:** Watch a rental patio go from bare concrete to a styled nook using only no damage balcony upgrades — deck tiles, an outdoor rug, clamp-on planters, and a tension-rod curtain. Nothing is drilled, so the whole makeover lifts out when your lease ends. Save this renter friendly balcony before-and-after for your own deposit-safe reset.
 - **Board:** Rental Balcony Makeovers
 - **Image filename:** renter-friendly-balcony-ideas-before-after-removable.jpg
-- **Destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Scheduled date:** 2026-07-09 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** Get renter balcony privacy without touching a drill — a freestanding screen, a tension-rod curtain, and a tall clamp-on planter of trailing plants build a soft wall that all lifts away later. These rental patio ideas screen the view while staying fully removable. Save this for a private, deposit-safe balcony corner.
 - **Board:** Renter Balcony Privacy
 - **Image filename:** renter-friendly-balcony-ideas-no-drill-privacy.jpg
-- **Destination:** {{DOMAIN}}/renter-friendly-balcony-ideas
+- **Destination:** https://bloomandlantern.com/renter-friendly-balcony-ideas
 - **Scheduled date:** 2026-07-10 (evening slot, ~8–9 PM)
 
 ---

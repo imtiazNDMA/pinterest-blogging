@@ -119,7 +119,7 @@ One more removable balcony decor move that costs nothing: shop your home. An ind
 
 A few removable pieces do enough visible work to be worth buying rather than improvising. The picks below are the spots where a purpose-made, no-damage product beats a DIY version on a rental balcony.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 **How we picked:** every product below had to pass the same deposit-safe test as the ideas above, so each one is fully removable, attaches with no holes or hardware in the wall or railing, and is built to take sun and rain on an exposed balcony.
 

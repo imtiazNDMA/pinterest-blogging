@@ -13,7 +13,7 @@ states the rules every agent and command must obey.
 - **Niche:** **Balcony & Patio Styling** — *committed 2026-06-25* via `/niche-research` (71/85). Decor-led styling of small balconies/patios (furniture, lights, layouts), bridging home decor × gardening. Container gardening = future expansion arm. Full analysis: `niche research/research.md`.
   - **Two validated spaces** (keyword-validated, real Pinterest SV): **Balcony** (6 pillars, `keyword Research/_pillar-subclusters-2026-06-26.md`) + **Patio** (added 2026-06-27, hub "small patio ideas" 118k, `keyword Research/_patio-subclusters-2026-06-27.md`). Dataset: 4,413 unique terms / 7.84M SV pool. Next keyword frontier: **backyard** (`keyword Research/suggestions.md`).
 - **Production mode:** **AI-for-everything** — AI-generated articles, pins, and images. Moat = depth + specificity + scannable formatting (content-craft guardrails), not faked anecdotes. Label AI honestly on Pinterest (home-decor GenAI opt-out).
-- **Brand name:** not chosen → use the token `{{BLOG_NAME}}` and `{{DOMAIN}}` everywhere; find-replace later.
+- **Brand name:** **Bloom & Lantern** — domain `https://bloomandlantern.com` *purchased 2026-06-27 (Namecheap registrar + Stellar Plus hosting).* The brand-name and domain tokens were find-replaced repo-wide on 2026-06-27, so use **Bloom & Lantern** / `https://bloomandlantern.com` directly. Only `{{AMAZON_TAG}}` remains a placeholder (Amazon Associate tag not yet provided).
 - **Voice:** friendly **second person ("you")**. See `guidelines/brand-voice.md`.
 - **Output:** publish-ready **Markdown** drafts in `Content/`; you paste into WordPress. No site live yet.
 - **Pins:** copy + **AI-generated images** (with Canva design briefs as fallback), Pinterest native scheduler. Label AI on Pinterest.
@@ -68,7 +68,7 @@ states the rules every agent and command must obey.
 ---
 
 ## Conventions
-- **Tokens:** `{{BLOG_NAME}}`, `{{DOMAIN}}`, `{{AMAZON_TAG}}` are placeholders — never hard-code a real value until I provide it.
+- **Tokens:** the brand-name and domain tokens were resolved to **Bloom & Lantern** / `https://bloomandlantern.com` on 2026-06-27 (repo-wide find-replace). `{{AMAZON_TAG}}` is still a placeholder — never hard-code a real value until I provide it. Affiliate anchors stay as `{{AMAZON_TAG}}#affiliate` until real tagged links exist.
 - **Files & slugs:** see `guidelines/naming-conventions.md`.
 - **Data intake:** I cannot log into Pinterest Trends / Keyword Planner / GA4 / Search Console / Amazon.
   When real numbers are needed, I produce the structure and you paste exports; I then process them.

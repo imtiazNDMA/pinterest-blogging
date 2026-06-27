@@ -1,13 +1,13 @@
 ---
-title: "About {{BLOG_NAME}}"
+title: "About Bloom & Lantern"
 slug: about
 type: page
-description: "{{BLOG_NAME}} helps renters and small-space dwellers style a balcony or patio on a budget, with practical decor, furniture, privacy, garden, and lighting guides."
+description: "Bloom & Lantern helps renters and small-space dwellers style a balcony or patio on a budget, with practical decor, furniture, privacy, garden, and lighting guides."
 ---
 
-# About {{BLOG_NAME}}
+# About Bloom & Lantern
 
-You have a small balcony or patio, a limited budget, and probably a lease that says "no permanent changes." {{BLOG_NAME}} is here for exactly that situation.
+You have a small balcony or patio, a limited budget, and probably a lease that says "no permanent changes." Bloom & Lantern is here for exactly that situation.
 
 This site is about turning tight outdoor spaces into places you actually want to sit. No sprawling backyard required. No landlord-angering drills. Just clear, doable ideas for the four square metres you do have.
 
@@ -35,7 +35,7 @@ Headings are written as the questions you are actually asking, so you can scan t
 
 ## How this content is made
 
-Honesty matters here, so here is the straight version. {{BLOG_NAME}} is an AI-assisted publication. The articles are produced with the help of AI tools, then shaped against a strict set of editorial standards for accuracy, specificity, and usefulness.
+Honesty matters here, so here is the straight version. Bloom & Lantern is an AI-assisted publication. The articles are produced with the help of AI tools, then shaped against a strict set of editorial standards for accuracy, specificity, and usefulness.
 
 What that means in practice:
 

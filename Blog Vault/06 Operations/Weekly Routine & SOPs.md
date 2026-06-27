@@ -24,7 +24,7 @@ weekly rhythm.
 > Adjust freely — the point is **batching** (write-batch, pin-batch) and a repeatable cadence, not these exact days.
 
 ## SOP — Launch (do once)
-1. Pick brand name → buy `{{DOMAIN}}` → replace all `{{tokens}}`.
+1. Pick brand name → buy `https://bloomandlantern.com` → replace all `{{tokens}}`.
 2. Install WordPress + fast theme; configure permalinks to `/%postname%/`.
 3. Add legal/trust pages: About, Contact, Privacy, **Affiliate Disclosure**, Terms ([[Site Structure]]).
 4. Install plugins: SEO, caching, image optimization, ToC.

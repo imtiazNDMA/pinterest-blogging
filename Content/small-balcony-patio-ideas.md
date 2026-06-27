@@ -186,7 +186,7 @@ A few pieces do enough visible work to be worth buying rather than improvising. 
 
 How we picked: every essential below works on almost any small balcony, survives weather, and keeps a small footprint, so it earns its place no matter your layout or style.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 **Best for anchoring the layout: a compact bistro set or space-saving chair.** One well-chosen seat sets the whole zone, and a folding or slim-profile design tucks against the wall when you need the floor back. Browse a [space-saving balcony bistro set](#affiliate) and let the look follow your style. The [makeover](/small-balcony-makeover-before-and-after) and [cozy](/cozy-small-balcony-ideas) guides walk through choosing the right one.
 

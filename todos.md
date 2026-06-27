@@ -3,8 +3,9 @@
 > **Purpose:** the studio's living task tracker + journey log. This is the human checklist;
 > `pinterest_blog_master_tracker.csv` stays the system of record for posts/pins.
 > **Rule:** update after each work block — check boxes, add a dated line to the Journey log.
-> Brand chosen: **Bloom & Lantern** / `bloomandlantern.com` (domain purchase pending → tokens
-> `{{BLOG_NAME}}`/`{{DOMAIN}}` stay until bought).
+> Brand: **Bloom & Lantern** / `https://bloomandlantern.com` — domain + **Stellar Plus** hosting
+> purchased 2026-06-27 (Namecheap). Brand/domain tokens find-replaced repo-wide 2026-06-27;
+> only `{{AMAZON_TAG}}` (Associate tag) and `{{CONTACT_EMAIL}}` remain to fill.
 
 ---
 
@@ -29,11 +30,12 @@
 - [x] **Patio garden HUB post** — `patio garden ideas` (63k, P2 garden sub-hub) → `Content/patio-garden-ideas.md` (Rec 52). **Written 2026-06-27** via full `/new-post` pipeline. ~1,680 words, ~28 ideas, 7 internal links (fills the hub's "build a small patio garden" down-link), light monetization block. **YMYL: petunia/zinnia/sunflower pet-safe claims ASPCA-verified (cats + dogs); marigold omitted as cat-toxic.** editor-qa PASS all gates → **status=Ready**. Owner: pick SEO title, fill 1 [PERSONAL TIP] + 5 [YOUR PHOTO], swap affiliate placeholders. Next: `/make-pins patio-garden-ideas`. ✅
 
 ### 🏗️ At the office — Buy + set up (owner actions)
-- [ ] **Buy `bloomandlantern.com`** — standard (not premium) price; auto-renew + free WHOIS privacy
-- [ ] **Buy hosting + install WordPress** — budget managed host; free fast theme (Kadence/GeneratePress); permalinks `/%postname%/` (see setup steps Claude gave)
+- [x] **Buy `bloomandlantern.com`** — purchased 2026-06-27 (Namecheap). Confirm auto-renew + WHOIS privacy on.
+- [x] **Buy hosting** — **Stellar Plus** (Namecheap) purchased 2026-06-27.
+- [x] **Token find-replace pass** — `Bloom & Lantern` / `https://bloomandlantern.com` applied repo-wide 2026-06-27 (43 files; `{{AMAZON_TAG}}` + `{{CONTACT_EMAIL}}` still tokens).
+- [ ] **Install WordPress on Stellar Plus** — via cPanel/Softaculous; free fast theme (Kadence/GeneratePress); permalinks `/%postname%/`; point `bloomandlantern.com` to the host (auto on Namecheap). Run `/site-setup` for the full walkthrough.
 - [ ] **WordPress baseline** — install plugins (Rank Math SEO, caching, image optimization, ToC); connect GA4 + Search Console; submit sitemap
 - [ ] Set **GitHub repo → private** (`gh repo edit imtiazNDMA/pinterest-blogging --visibility private` or repo Settings → Danger Zone)
-- [ ] After purchase → ping Claude for the `{{BLOG_NAME}}`/`{{DOMAIN}}` find-replace pass
 
 ### 🔑 At the office — Brand + keyword (owner actions)
 - [ ] Trademark sanity check — USPTO TESS, "bloom and lantern"
@@ -53,6 +55,7 @@
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-27 (later)** — **Domain `bloomandlantern.com` + Stellar Plus hosting purchased** (Namecheap). Ran the brand/domain **token find-replace repo-wide** (43 files): `{{BLOG_NAME}}`→Bloom & Lantern, `{{DOMAIN}}`→`https://bloomandlantern.com`; `{{AMAZON_TAG}}` kept. Built out patio space: **hub (Rec 47)**, **furniture money post (Rec 54)**, **garden hub (Rec 52)** all READY, with pin batches **PB-008/009** logged. Next: install WordPress on Stellar Plus, then `/site-setup`.
 - **2026-06-27** — Repo pushed to GitHub. Built keyword-expansion method (`suggestions.md`). **Patio validated as a full 2nd space** (+2,606 terms; hub "small patio ideas" 118k) and folded into tracker/plan/vault. **Brand chosen: Bloom & Lantern** (`bloomandlantern.com`, verified available). Next frontier = backyard.
 - **2026-06-26** — Validated demand with 10 PinClicks sheets (1,807 terms). 6 posts READY; 30 pins designed (PB-001→006); built the Obsidian `Blog Vault/` (24 notes). 6 pillars + WP categories confirmed; Lighting restored to P2.
 - **2026-06-25** — **Niche COMMITTED: Balcony & Patio Styling.** All 6 post-stress-test studio fixes applied; content-craft guardrails added (formatting/humanization/anti-slop); studio versioned in git.

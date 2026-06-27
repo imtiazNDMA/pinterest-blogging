@@ -1,6 +1,6 @@
 # Pin Batch — Cozy Small Balcony Ideas: 18 Ways to Make It a Retreat
 
-- **Post slug / destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Post slug / destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Pin Batch ID:** PB-001
 - **Pillar / Board family:** Small balcony/patio ideas & makeovers (Balcony & Patio Styling)
 - **Production note:** AI-for-everything. Each brief describes a styled scene to GENERATE as a 1000×1500 (2:3) image. Render authentic, photographic, non-uncanny home decor (correct hands/perspective, real-looking textiles, no warped railings or melted string lights). Home decor sits on Pinterest's GenAI opt-out list, so **label each pin as AI-generated** when publishing.
@@ -16,7 +16,7 @@
 - **Description:** These cozy small balcony ideas layer one comfy seat, warm balcony lighting, and a soft throw to make even a narrow ledge feel like a room. The dusk-and-string-lights look is renter-friendly and comes together in a weekend. Save this for your balcony refresh.
 - **Board:** Cozy Balcony Decor
 - **Image filename:** cozy-small-balcony-ideas-dusk-string-lights.jpg
-- **Destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Scheduled date:** 2026-06-26 (evening slot, ~8–9 PM)
 
 ---
@@ -28,7 +28,7 @@
 - **Description:** A scannable list of cozy balcony ideas for an apartment, from cozy balcony seating to a weatherproof rug and warm string lights. Each small move stacks into a layered, lived-in look on a tiny footprint. Pin this so your whole balcony checklist is in one place.
 - **Board:** Small Balcony Ideas
 - **Image filename:** cozy-small-balcony-ideas-18-list-grid.jpg
-- **Destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Scheduled date:** 2026-06-27 (evening slot, ~8–9 PM)
 
 ---
@@ -40,7 +40,7 @@
 - **Description:** Most cozy small balconies follow the same order: seat, rug, warm light, greenery, then one personal touch. Build top to bottom and a small cozy balcony comes together without looking cluttered. Save this formula for when you start your balcony nook.
 - **Board:** Cozy Balcony Decor
 - **Image filename:** cozy-small-balcony-ideas-layering-formula.jpg
-- **Destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Scheduled date:** 2026-06-28 (evening slot, ~8–9 PM)
 
 ---
@@ -52,7 +52,7 @@
 - **Description:** You can make a small balcony cozy without a big haul — warm balcony lighting and one good throw do most of the work. This budget corner shows how a thrifted chair and a few plants turn into a warm balcony nook. Save this for an easy, low-cost balcony refresh.
 - **Board:** Budget Balcony Decor
 - **Image filename:** cozy-small-balcony-ideas-budget-corner.jpg
-- **Destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Scheduled date:** 2026-06-29 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** Wondering how to make a small balcony cozy in an apartment? Start with cozy balcony seating, add warm balcony lighting, then ground it with a rug and a soft throw. These small cozy balcony touches work even on a narrow rental ledge. Save this for your next balcony project.
 - **Board:** Apartment Balcony Ideas
 - **Image filename:** cozy-small-balcony-ideas-apartment-nook.jpg
-- **Destination:** {{DOMAIN}}/cozy-small-balcony-ideas
+- **Destination:** https://bloomandlantern.com/cozy-small-balcony-ideas
 - **Scheduled date:** 2026-06-30 (evening slot, ~8–9 PM)
 
 ---

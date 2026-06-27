@@ -1,6 +1,6 @@
 # Pin Batch — Small Balcony Ideas: 30 Ways to Style a Tiny Outdoor Space
 
-- **Post slug / destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Post slug / destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Pin Batch ID:** PB-005
 - **Pillar / Board family:** Small balcony/patio ideas & makeovers (Balcony & Patio Styling) — **PILLAR / HUB post**. This is the landing hub every cluster pin ultimately reinforces, so the batch is the definitive, aspirational entry point into the topic.
 - **Production note:** AI-for-everything. Each brief describes a styled scene to GENERATE as a 1000×1500 (2:3) image. Render authentic, photographic, non-uncanny home decor (correct perspective, real-looking textiles, true-to-life string lights and pots, no warped railings, no garbled in-image text). Home decor sits on Pinterest's GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin. "small balcony ideas" is a saturated head term, so each pin must EARN the click with strong, specific, aspirational visuals — not lean on the keyword alone.
@@ -16,7 +16,7 @@
 - **Description:** These small balcony ideas turn a narrow ledge into a full outdoor room with a rug, low seating, layered plants, and warm string lights. It is the aspirational, do-it-all version of small balcony decorating ideas, built to copy one layer at a time. Save this and explore all 30 ideas in the full guide.
 - **Board:** Small Balcony Ideas
 - **Image filename:** small-balcony-patio-ideas-aesthetic-hero-dusk.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Scheduled date:** 2026-07-16 (evening slot, ~8–9 PM)
 
 ---
@@ -28,7 +28,7 @@
 - **Description:** A scannable grid of small balcony ideas covering seating, lighting, flooring, privacy, and plants so you can see the full range at a glance. Whether you want a cozy nook or a tidy small balcony design, there is a starting point here for every tiny footprint. Pin this so your whole list of tiny balcony ideas stays in one place.
 - **Board:** Balcony Design Ideas
 - **Image filename:** small-balcony-patio-ideas-30-list-grid.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Scheduled date:** 2026-07-17 (evening slot, ~8–9 PM)
 
 ---
@@ -40,7 +40,7 @@
 - **Description:** These small apartment balcony ideas show how to style a tiny rental balcony with one compact seat, a rail planter, and simple lighting. It is apartment balcony decorating that works in a narrow space without crowding the floor. Save this for your own apartment balcony refresh.
 - **Board:** Apartment Balcony Ideas
 - **Image filename:** small-balcony-patio-ideas-apartment-search.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Scheduled date:** 2026-07-18 (evening slot, ~8–9 PM)
 
 ---
@@ -52,7 +52,7 @@
 - **Description:** Every small balcony design comes down to four moves: seating, lighting, privacy, and plants, and this pin shows a vignette for each. Use it as a quick map of small balcony decorating ideas before you start styling your own tiny space. Save this and get the full breakdown of all four in the post.
 - **Board:** Small Balcony Decor
 - **Image filename:** small-balcony-patio-ideas-category-quadrant.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Scheduled date:** 2026-07-19 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** A few simple tricks make a tiny balcony look bigger: pale colors, low furniture, going vertical, and keeping the floor clear. These small balcony design moves open up even the narrowest ledge, and the full framework is waiting in the post. Save this for small balcony inspiration before your next refresh.
 - **Board:** Tiny Balcony Inspiration
 - **Image filename:** small-balcony-patio-ideas-look-bigger-tricks.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-balcony-patio-ideas
 - **Scheduled date:** 2026-07-20 (evening slot, ~8–9 PM)
 
 ---

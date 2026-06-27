@@ -1,6 +1,6 @@
 # Pin Batch — <Post Title>
 
-- **Post slug / destination:** {{DOMAIN}}/<slug>
+- **Post slug / destination:** https://bloomandlantern.com/<slug>
 - **Pin Batch ID:** PB-###
 - **Pillar / Board family:** <pillar>
 

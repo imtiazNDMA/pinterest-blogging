@@ -3,10 +3,10 @@ type: home
 updated: 2026-06-26
 ---
 
-# 🏡 {{BLOG_NAME}} — Blog Command Center
+# 🏡 Bloom & Lantern — Blog Command Center
 
 Your single place to run the blog + Pinterest, track income, and stay motivated.
-**Niche:** Balcony & Patio Styling (decor-led). **Brand:** not chosen yet → `{{BLOG_NAME}}` / `{{DOMAIN}}`.
+**Niche:** Balcony & Patio Styling (decor-led). **Brand:** not chosen yet → `Bloom & Lantern` / `https://bloomandlantern.com`.
 
 > [!tip] How to use this vault
 > Open this folder in **Obsidian** (Open folder as vault). Everything links with `[[wikilinks]]` — click to navigate, or hit the **Graph view** to see the whole system. It works with **zero plugins**. A few pages have optional **Dataview** queries (marked) that turn into live tables if you install the Dataview community plugin.

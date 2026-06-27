@@ -37,7 +37,7 @@ Full backlog + demoted ideas → [[Content Backlog & Ideas]].
 
 ## Publishing checklist (per post, before hitting Publish)
 - [ ] Owner inputs filled (real photos, [PERSONAL TIP])
-- [ ] `{{BLOG_NAME}}` / `{{DOMAIN}}` / `{{AMAZON_TAG}}` tokens replaced
+- [ ] `Bloom & Lantern` / `https://bloomandlantern.com` / `{{AMAZON_TAG}}` tokens replaced
 - [ ] Affiliate links real + FTC disclosure above first link
 - [ ] Category assigned ([[WordPress Categories & Tags]]); 3+ internal links
 - [ ] Meta title + description set; featured image set

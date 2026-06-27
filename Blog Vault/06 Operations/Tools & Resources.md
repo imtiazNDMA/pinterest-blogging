@@ -45,7 +45,7 @@ The stack. **Bootstrap rule: free tools unless a cost is clearly worth it.**
 - ASPCA toxic/non-toxic plant list (for the garden pillar — YMYL safety).
 
 ## Brand assets (fill once chosen)
-- Brand name: `{{BLOG_NAME}}` · Domain: `{{DOMAIN}}`
+- Brand name: `Bloom & Lantern` · Domain: `https://bloomandlantern.com`
 - Colors: warm cream `#F5EBDD` · terracotta `#C97B5A` · sage `#9CAF88` · charcoal `#3A3A38` (from the pin visual style)
 - Fonts: Playfair Display (display) + Montserrat (body) — free
 - Logo / wordmark: ___

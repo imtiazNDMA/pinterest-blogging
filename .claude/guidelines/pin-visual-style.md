@@ -74,7 +74,7 @@ Text must survive the **thumbnail squint test** (legible at ~236 px wide, the Pi
 - **Coverage:** text + bands ≤ ~40% of the pin; leave ~60% breathing room for the image.
 - **Safe margins:** keep all text ≥ **80 px** from every edge (Pinterest rounds corners and crops).
 - **Contrast:** dark-on-cream or white-on-charcoal/terracotta; aim ~4.5:1 (WCAG AA) for thumbnail legibility.
-- **Brand mark:** small {{BLOG_NAME}} wordmark, bottom-center or bottom-corner, 24–30 px, low-key.
+- **Brand mark:** small Bloom & Lantern wordmark, bottom-center or bottom-corner, 24–30 px, low-key.
 
 ---
 

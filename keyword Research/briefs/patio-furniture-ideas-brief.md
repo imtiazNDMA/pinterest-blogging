@@ -85,13 +85,13 @@ Recommended: **Option 1** for SEO title/H1 (matches buyer intent), with the **ex
 ---
 
 ## Internal linking plan (≥3; aim 5+ — descriptive anchors, exact slug each)
-1. **UP to hub** — anchor "small patio ideas" → `{{DOMAIN}}/small-patio-ideas` (in intro + "how we chose")
-2. **DIY sibling** — anchor "DIY and pallet patio furniture" → `{{DOMAIN}}/diy-patio-furniture` (in materials/DIY note; absorbs the pallet term cleanly)
-3. **Makeover sibling** — anchor "give old patio furniture a makeover" → `{{DOMAIN}}/patio-furniture-makeover` (materials note; carries vintage/metal makeover terms) *(confirm slug at write time)*
-4. **Flooring sibling** — anchor "compare small patio flooring options" → `{{DOMAIN}}/small-patio-flooring-ideas` (layout section — the floor the furniture sits on)
-5. **Privacy sibling** — anchor "screen the seating area for privacy" → `{{DOMAIN}}/patio-privacy-ideas` (layout/zone section)
-6. **Cozy sibling** — anchor "make the seating corner feel cozy" → `{{DOMAIN}}/cozy-patio-ideas-small-spaces` (cushions/textiles)
-7. *(natural, optional)* "apartment or townhouse patio" → `{{DOMAIN}}/small-patio-ideas-apartment` (foldable/space-saving section)
+1. **UP to hub** — anchor "small patio ideas" → `https://bloomandlantern.com/small-patio-ideas` (in intro + "how we chose")
+2. **DIY sibling** — anchor "DIY and pallet patio furniture" → `https://bloomandlantern.com/diy-patio-furniture` (in materials/DIY note; absorbs the pallet term cleanly)
+3. **Makeover sibling** — anchor "give old patio furniture a makeover" → `https://bloomandlantern.com/patio-furniture-makeover` (materials note; carries vintage/metal makeover terms) *(confirm slug at write time)*
+4. **Flooring sibling** — anchor "compare small patio flooring options" → `https://bloomandlantern.com/small-patio-flooring-ideas` (layout section — the floor the furniture sits on)
+5. **Privacy sibling** — anchor "screen the seating area for privacy" → `https://bloomandlantern.com/patio-privacy-ideas` (layout/zone section)
+6. **Cozy sibling** — anchor "make the seating corner feel cozy" → `https://bloomandlantern.com/cozy-patio-ideas-small-spaces` (cushions/textiles)
+7. *(natural, optional)* "apartment or townhouse patio" → `https://bloomandlantern.com/small-patio-ideas-apartment` (foldable/space-saving section)
 
 Note: the hub (`small-patio-ideas`) already links DOWN to this post via anchor "patio furniture ideas for tight spaces" — keep that reciprocal.
 
@@ -123,7 +123,7 @@ Mirror the balcony-makeover pattern: **high-AOV furniture network as the anchor 
 
 ### Compliance (hard rules)
 - **FTC + Amazon Associate disclosure ABOVE the first affiliate link**, verbatim default line:
-  > *This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.*
+  > *This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.*
 - **NO prices, "cheapest," discounts, "on sale," or stock/availability** — qualitative value only ("a splurge that lasts years," "the budget-friendly pick").
 - **No copied Amazon reviews/ratings.** No fabricated "I tested" or durability-test claims.
 - Descriptive-anchor CTAs near each pick ("see compact patio loveseats"), one CTA in the comparison table — do not stack CTAs.

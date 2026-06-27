@@ -30,5 +30,5 @@ future expansion arm ([[Content Pillars]]).
 - **Off-intent volume to ignore:** "balcony grill design" (92k) and Diwali terms = India construction/festival intent, poor US monetization. Skip.
 
 ## Brand
-Not chosen yet. Using tokens `{{BLOG_NAME}}`, `{{DOMAIN}}`, `{{AMAZON_TAG}}` everywhere → find-replace once decided.
+Not chosen yet. Using tokens `Bloom & Lantern`, `https://bloomandlantern.com`, `{{AMAZON_TAG}}` everywhere → find-replace once decided.
 Name should signal small-space/balcony + cozy/styling, be short, brandable, and have an available `.com`.

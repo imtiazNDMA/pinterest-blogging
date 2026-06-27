@@ -1,10 +1,10 @@
 # Pin Batch — Best Patio Furniture Ideas for Small Spaces
 
-- **Post slug / destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Post slug / destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Pin Batch ID:** PB-009
 - **Pillar / Board family:** Small patio ideas & makeovers (Balcony & Patio Styling) — **MONEY / BUYER post**. The furniture-buyer companion to the "small patio ideas" hub (PB-008), targeting "patio furniture ideas" (real Pinterest SV 30,239) and its high-AOV buyer cluster (outdoor patio furniture 19,122, patio furniture layout 13,489, wicker patio furniture 6,075, wrought iron patio furniture 5,258, black patio furniture 3,664, pallet patio furniture 4,202). Same buyer-batch DNA as PB-007 (planters), so the angles lean buyer / comparison / product / list / layout — built to send shoppers into the Wayfair-anchor + Amazon-support post, never to a raw affiliate link.
 - **Production note:** AI-for-everything, **Path B** (generate a clean photographic plate as a 1000×1500 / 2:3 image, then add the multi-word overlay in Canva with the house font pairing). Render authentic, photographic, non-uncanny outdoor furniture — correct ground-level patio perspective (a compact slab or paved courtyard with a fence, low wall, or pergola, **no balcony railing**), real furniture materials (true woven all-weather wicker, black powder-coated wrought iron, brushed metal/aluminum, real cushion folds), believable string lights and pots, no warped fence or pergola, no garbled in-image text. Home decor sits on Pinterest's 2026 GenAI opt-out list, so **label each pin as AI-generated** when publishing. **No prices, no "cheapest," no stock claims anywhere on the pin** (Amazon ToS + `guardrails/affiliate-compliance.md`). Every pin's promise (compact furniture that fits a small slab and leaves a walking lane) matches the buyer post, so there is no bait per `guardrails/pinterest-policy.md`. Plants are realistic and season-appropriate (the batch publishes early-to-mid August — healthy summer greenery, leafy plants, ornamental grasses, never dead or off-season planting).
-- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the oversized "6" on Pin 2. Brand mark: small {{BLOG_NAME}} wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook — no archetype repeats, so each counts as a fresh pin, not a re-share.
+- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the oversized "6" on Pin 2. Brand mark: small Bloom & Lantern wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook — no archetype repeats, so each counts as a fresh pin, not a re-share.
 
 > One block per pin. 5 pins, each a DIFFERENT angle + a DISTINCT archetype = a fresh design. 2:3 / 1000×1500 px. No prices. Zero emojis. No arrows, no em-dashes in pin copy.
 
@@ -36,7 +36,7 @@
 - **Description:** These patio furniture ideas start with footprint, not finish: one well-scaled loveseat and a slim side table seat two comfortably while leaving a clear walking lane on a tight slab. It is the compact-picks approach to outdoor patio furniture that beats squeezing around a bulky four-piece set. Save this and tap through for the full pick-by-pick buying guide.
 - **Board:** Patio Furniture Ideas
 - **Image filename:** patio-furniture-ideas-small-space-hero.jpg
-- **Destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Scheduled date:** 2026-08-05 (evening slot, ~8–9 PM)
 
 ---
@@ -68,7 +68,7 @@
 - **Description:** Six compact picks of outdoor patio furniture sorted by the job each one does: a loveseat to anchor a corner, a bistro set for two-person meals, a modular sectional, a storage bench, a foldable set, and weatherproof cushions. Choose the piece that fits your slab instead of buying a whole oversized set. Pin this so all six small-space furniture ideas stay in one place.
 - **Board:** Outdoor Patio Furniture
 - **Image filename:** patio-furniture-ideas-6-types-grid.jpg
-- **Destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Scheduled date:** 2026-08-06 (evening slot, ~8–9 PM)
 
 ---
@@ -100,7 +100,7 @@
 - **Description:** The frame material decides weight, weather resistance, and how a set feels on a small slab. All-weather wicker patio furniture stays light and movable, wrought iron patio furniture is heavy enough to hold in wind, and powder-coated metal is the easiest to stack and reconfigure. A black powder-coated finish also explains why black patio furniture suits both modern and traditional corners. Save this and read which one fits your patio.
 - **Board:** Patio Furniture Materials
 - **Image filename:** patio-furniture-ideas-wicker-vs-iron-vs-metal.jpg
-- **Destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Scheduled date:** 2026-08-07 (evening slot, ~8–9 PM)
 
 ---
@@ -132,7 +132,7 @@
 - **Description:** Foldable and stackable patio furniture is the pick that gives your floor back: chairs collapse to a few inches and a folding table drops flat against the wall between meals. It lets one small slab flex from a quiet morning coffee to overflow seating when friends come over, which makes it ideal renter and balcony-patio outdoor furniture. Save this and check the space-saving picks in the post.
 - **Board:** Space Saving Patio Furniture
 - **Image filename:** patio-furniture-ideas-foldable-tiny-spaces.jpg
-- **Destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Scheduled date:** 2026-08-08 (evening slot, ~8–9 PM)
 
 ---
@@ -164,7 +164,7 @@
 - **Description:** A good patio furniture layout lives or dies on a few measurements, so split a tight slab into three zones: a sit zone anchored against the longest wall, a clear path of at least 24 inches through the center, and a green zone of corner pots. Push the seating to the edges and a visible stretch of floor makes the whole patio read bigger. Save this layout plan and measure before you buy.
 - **Board:** Patio Furniture Layout
 - **Image filename:** patio-furniture-ideas-small-patio-layout-diagram.jpg
-- **Destination:** {{DOMAIN}}/patio-furniture-ideas
+- **Destination:** https://bloomandlantern.com/patio-furniture-ideas
 - **Scheduled date:** 2026-08-09 (evening slot, ~8–9 PM)
 
 ---
@@ -180,4 +180,4 @@
 
 **Tracker:** orchestrator appends 5 `Pin` rows to `pinterest_blog_master_tracker.csv`, Pin Batch ID PB-009, linked to the patio-furniture-ideas buyer post, Status=Draft (one row per pin: Batch ID, Title, Angle, Board, scheduled date). This batch does not touch the tracker directly. CSV-safety: wrap comma-bearing fields (titles, notes, next action) in double quotes so each row stays 51 fields.
 
-**Reminders:** Generate each image at strict 2:3 / 1000×1500 px (Path B clean plate, then add the multi-word overlay in Canva with Playfair Display + Montserrat, Bebas Neue for the Pin 2 "6"). Keep designs distinct per angle and archetype so they count as fresh pins, not re-shares — no archetype is repeated in this batch (Aesthetic Hero, Number / List Grid, Comparison Split, Single Product / Flat-lay, Formula / Diagram). This is a high-AOV buyer post, so let the visuals (the compact hero with the open lane, the 6-type grid, the three-material comparison, the folds-flat product, the zoning plan) earn the click — every pin's promise matches the buyer post, no bait (per `guardrails/pinterest-policy.md`). Render real furniture materials (true woven all-weather wicker, black powder-coated wrought iron, brushed metal) so no image contradicts the materials comparison. Ground-level patio context only: slab or paved courtyard with a fence, low wall, or pergola, no balcony railing. Plants realistic and season-appropriate for an early-to-mid-August publish window. Schedule with the Pinterest native scheduler in the evening window, one per day, spaced — no bulk dump. **Label every pin as AI-generated on Pinterest** (home decor is on the 2026 GenAI opt-out list). **No prices, no "cheapest," no stock claims, zero emojis, no arrows, no em-dashes in pin copy.** Pins route to {{DOMAIN}}/patio-furniture-ideas (the post), never to a raw affiliate link, per `guardrails/affiliate-compliance.md`.
+**Reminders:** Generate each image at strict 2:3 / 1000×1500 px (Path B clean plate, then add the multi-word overlay in Canva with Playfair Display + Montserrat, Bebas Neue for the Pin 2 "6"). Keep designs distinct per angle and archetype so they count as fresh pins, not re-shares — no archetype is repeated in this batch (Aesthetic Hero, Number / List Grid, Comparison Split, Single Product / Flat-lay, Formula / Diagram). This is a high-AOV buyer post, so let the visuals (the compact hero with the open lane, the 6-type grid, the three-material comparison, the folds-flat product, the zoning plan) earn the click — every pin's promise matches the buyer post, no bait (per `guardrails/pinterest-policy.md`). Render real furniture materials (true woven all-weather wicker, black powder-coated wrought iron, brushed metal) so no image contradicts the materials comparison. Ground-level patio context only: slab or paved courtyard with a fence, low wall, or pergola, no balcony railing. Plants realistic and season-appropriate for an early-to-mid-August publish window. Schedule with the Pinterest native scheduler in the evening window, one per day, spaced — no bulk dump. **Label every pin as AI-generated on Pinterest** (home decor is on the 2026 GenAI opt-out list). **No prices, no "cheapest," no stock claims, zero emojis, no arrows, no em-dashes in pin copy.** Pins route to https://bloomandlantern.com/patio-furniture-ideas (the post), never to a raw affiliate link, per `guardrails/affiliate-compliance.md`.

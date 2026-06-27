@@ -1,6 +1,6 @@
 # Pin Batch — Small Balcony Ideas on a Budget: Cheap Ways to Style a Tiny Space
 
-- **Post slug / destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Post slug / destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Pin Batch ID:** PB-002
 - **Pillar / Board family:** Small balcony/patio ideas & makeovers (Balcony & Patio Styling) — budget sub-topic
 - **Production note:** AI-for-everything. Each brief describes a styled scene to GENERATE as a 1000×1500 (2:3) image. Render authentic, photographic, non-uncanny home decor (correct perspective, real-looking textiles, true-to-life string lights and pots, no warped railings). Home decor sits on Pinterest's GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin.
@@ -16,7 +16,7 @@
 - **Description:** These small balcony ideas on a budget lean on one outdoor rug, a single strand of string lights, and a thrifted chair to fake a high-end look for less. It is affordable balcony decor that suits a renter and comes together in a weekend. Save this for your budget balcony refresh.
 - **Board:** Budget Balcony Decor
 - **Image filename:** small-balcony-ideas-on-a-budget-hero-rug-lights.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Scheduled date:** 2026-07-01 (evening slot, ~8–9 PM)
 
 ---
@@ -28,7 +28,7 @@
 - **Description:** A scannable list of cheap balcony ideas, from solar lights and painted pots to a crate table and fabric privacy. Each small move is affordable balcony decor you can add one piece at a time. Pin this so your whole budget balcony makeover checklist stays in one place.
 - **Board:** Small Balcony Ideas
 - **Image filename:** small-balcony-ideas-on-a-budget-20-list-grid.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Scheduled date:** 2026-07-02 (evening slot, ~8–9 PM)
 
 ---
@@ -40,7 +40,7 @@
 - **Description:** The trick to small balcony ideas on a budget is knowing where to spend and where to save — invest in a rug and string lights, then thrift the chair, pots, and lantern. This is budget apartment balcony styling without overspending on the wrong pieces. Save this before your next balcony haul.
 - **Board:** Cheap Balcony Ideas
 - **Image filename:** small-balcony-ideas-on-a-budget-spend-vs-save.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Scheduled date:** 2026-07-03 (evening slot, ~8–9 PM)
 
 ---
@@ -52,7 +52,7 @@
 - **Description:** Turn a plain corner into a glowing nook with cheap DIY balcony decor — solar string lights, a fairy-light jar, and painted pots do the heavy lifting after dark. These dollar store balcony ideas keep a budget apartment balcony cozy without rewiring a thing. Save this for an easy weekend project.
 - **Board:** Balcony DIY Projects
 - **Image filename:** small-balcony-ideas-on-a-budget-diy-corner-dusk.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Scheduled date:** 2026-07-04 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** See a small balcony makeover on a budget go from bare concrete to a styled rental nook with a rug, foldable chair, and cheap balcony privacy panel. Affordable swaps like these make a budget apartment balcony feel finished without losing your deposit. Save this before-and-after for your own balcony reset.
 - **Board:** Small Balcony Makeovers
 - **Image filename:** small-balcony-ideas-on-a-budget-before-after-makeover.jpg
-- **Destination:** {{DOMAIN}}/small-balcony-ideas-on-a-budget
+- **Destination:** https://bloomandlantern.com/small-balcony-ideas-on-a-budget
 - **Scheduled date:** 2026-07-05 (evening slot, ~8–9 PM)
 
 ---

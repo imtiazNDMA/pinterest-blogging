@@ -30,7 +30,7 @@ to keep AI output human and scannable.
 ## Status
 Strategy approved. **Content studio built + hardened (2026-06-24/25)** in `.claude/`. Niche **committed**: Balcony & Patio Styling.
 Blog/Pinterest/content still not built. **Next step:** `/keyword-cluster Small balcony/patio ideas & makeovers` (first pillar).
-See `.claude/CLAUDE.md` for the studio map. Brand name not chosen → `{{BLOG_NAME}}`/`{{DOMAIN}}` tokens.
+See `.claude/CLAUDE.md` for the studio map. Brand: **Bloom & Lantern** / `https://bloomandlantern.com` (domain + Stellar Plus hosting purchased 2026-06-27; tokens resolved repo-wide).
 Voice: second-person. Output: Markdown drafts in `Content/`. Pins: AI-generated images + copy (label AI on Pinterest).
 
 **Update 2026-06-27 — Patio space validated & folded in.** 6 PinClicks patio exports added 2,606 net-new

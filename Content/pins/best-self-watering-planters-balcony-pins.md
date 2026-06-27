@@ -1,10 +1,10 @@
 # Pin Batch — Best Self-Watering Planters for Balconies
 
-- **Post slug / destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Post slug / destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Pin Batch ID:** PB-007
 - **Pillar / Board family:** Gear & setup (money posts) — balcony-containers cluster (self-watering planters, buyer intent)
 - **Production note:** AI-for-everything. Each brief describes a clean photographic plate to GENERATE as a 1000×1500 (2:3) image; multi-word overlays are added in Canva (Path B) with the house font pairing. Render authentic, photographic, non-uncanny home decor and container gardening — correct railing perspective, real-looking soil and foliage, true-to-life planters, no warped railings, no garbled in-image text. Home decor sits on Pinterest's 2026 GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin (mirrors Amazon ToS and `guardrails/affiliate-compliance.md`). Self-watering is the promise — every pin shows planters that water from a reservoir on a real small balcony, matching the post so there is no bait per `guardrails/pinterest-policy.md`. **Plant-safety match (post YMYL claim):** the post says self-watering systems suit moisture-lovers (tomatoes, peppers, basil, parsley, lettuce, strawberries) and are wrong for plants that want to dry out, so every image features moisture-loving crops only — never succulents, cacti, rosemary, or lavender in a self-watering pot.
-- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the big list number on Pin 2 and the numbered steps on Pin 4. Brand mark: small {{BLOG_NAME}} wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook.
+- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the big list number on Pin 2 and the numbered steps on Pin 4. Brand mark: small Bloom & Lantern wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook.
 
 > One block per pin. 5 pins, each a DIFFERENT angle + a DISTINCT archetype = a fresh design. 2:3 / 1000×1500 px. No prices. Zero emojis. No arrows in pin copy.
 
@@ -34,7 +34,7 @@
 - **Description:** These are the best self-watering planters for balconies, chosen by reservoir size, railing-safe weight, and small-space fit. If your basil crisps up the second you skip a day, self-watering pots for a balcony hold a few days of water under the soil and buy you slack. Save this for your container shopping list and tap through for every pick.
 - **Board:** Self-Watering Planters
 - **Image filename:** best-self-watering-planters-balcony-hero.jpg
-- **Destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Scheduled date:** 2026-07-26 (evening slot, ~8–9 PM)
 
 ---
@@ -64,7 +64,7 @@
 - **Description:** Five self-watering containers for a small space, sorted by where they sit: a floor grow box for tomatoes, a clip-on rail planter for herbs, a budget DIY build, a vertical tower for strawberries, and a forgiving fabric wicking pot. Each one is a low maintenance balcony planter that stretches the days between fills. Pin this so all five picks stay in one place.
 - **Board:** Balcony Container Gardening
 - **Image filename:** best-self-watering-planters-balcony-5-picks.jpg
-- **Destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Scheduled date:** 2026-07-27 (evening slot, ~8–9 PM)
 
 ---
@@ -92,7 +92,7 @@
 - **Description:** A clip-on self-watering rail planter clamps over your railing, holds a small reservoir under the soil, and keeps basil and parsley going while you free up the floor. It is the railing pick for renters and tiny balconies, as long as you confirm your railing load limit before mounting it full. Save this self-watering rail planter idea and read the safety notes in the post.
 - **Board:** Small Balcony Garden Ideas
 - **Image filename:** best-self-watering-planters-balcony-rail-planter.jpg
-- **Destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Scheduled date:** 2026-07-28 (evening slot, ~8–9 PM)
 
 ---
@@ -122,7 +122,7 @@
 - **Description:** Self-watering planters water from the bottom up, so a reservoir under the soil and a wick do the work while you are away. This beginner breakdown of the fill tube, the wick, and the overflow hole shows why self watering containers for a small space stop the flood-then-drought cycle on a hot balcony. Save this and learn the simple rules that keep roots healthy.
 - **Board:** Balcony Gardening for Beginners
 - **Image filename:** best-self-watering-planters-balcony-how-it-works.jpg
-- **Destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Scheduled date:** 2026-07-29 (evening slot, ~8–9 PM)
 
 ---
@@ -152,7 +152,7 @@
 - **Description:** A DIY sub-irrigated planter from a storage tote runs on the exact same bottom-up watering as a branded floor box, so the choice is budget versus polish. Build one cheap to test the idea, or buy a self-watering grow box for a forgiving, finished look in a small space. Save this comparison and decide which low maintenance balcony planter route fits your budget.
 - **Board:** Low Maintenance Garden Ideas
 - **Image filename:** best-self-watering-planters-balcony-diy-vs-store.jpg
-- **Destination:** {{DOMAIN}}/best-self-watering-planters-balcony
+- **Destination:** https://bloomandlantern.com/best-self-watering-planters-balcony
 - **Scheduled date:** 2026-07-30 (evening slot, ~8–9 PM)
 
 ---

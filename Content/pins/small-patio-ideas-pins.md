@@ -1,10 +1,10 @@
 # Pin Batch — Small Patio Ideas: 30 Ways to Style a Small Outdoor Space
 
-- **Post slug / destination:** {{DOMAIN}}/small-patio-ideas
+- **Post slug / destination:** https://bloomandlantern.com/small-patio-ideas
 - **Pin Batch ID:** PB-008
 - **Pillar / Board family:** Small patio ideas & makeovers (Balcony & Patio Styling) — **PILLAR / HUB post**. "small patio ideas" is the #1 hub term of the patio space (real Pinterest SV 118,387). This is the patio sibling of the balcony pillar (PB-005) and the landing hub every patio cluster pin ultimately reinforces, so the batch is the definitive, aspirational entry point into the topic.
 - **Production note:** AI-for-everything, **Path B** (generate a clean photographic plate as a 1000×1500 / 2:3 image, then add the multi-word overlay in Canva with the house font pairing). Render authentic, photographic, non-uncanny home decor — correct ground-level patio perspective (a compact slab or paved courtyard with a fence, low wall, or pergola, **no balcony railing**), real-looking textiles, true-to-life string lights and pots, no warped fence or pergola, no garbled in-image text. Home decor sits on Pinterest's 2026 GenAI opt-out list, so **label each pin as AI-generated** when publishing. No prices, no "cheapest," no stock claims anywhere on the pin (mirrors Amazon ToS and `guardrails/affiliate-compliance.md`). Every pin's promise matches the hub post so there is no bait per `guardrails/pinterest-policy.md`. Plants are realistic and season-appropriate (the batch publishes late July into August — show healthy summer greenery, leafy plants, and ornamental grasses, never dead or off-season planting).
-- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the oversized "30" on Pin 2. Brand mark: small {{BLOG_NAME}} wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook — no archetype repeats, so each counts as a fresh pin, not a re-share.
+- **Batch cohesion (the shared DNA):** house palette — warm cream/oat base, honey wood, terracotta/clay accent, sage green, soft charcoal text, amber golden-hour glow, dusk blue for depth (60-30-10). Font pairing across all 5: **Playfair Display** (display/hero serif) + **Montserrat** (labels/sub/CTA sans); **Bebas Neue** for the oversized "30" on Pin 2. Brand mark: small Bloom & Lantern wordmark, bottom-center, 24–30 px, low-key. Varied across the batch (the freshness): a distinct archetype per pin, a different crop/perspective, and a different overlay hook — no archetype repeats, so each counts as a fresh pin, not a re-share.
 
 > One block per pin. 5 pins, each a DIFFERENT angle + a DISTINCT archetype = a fresh design. 2:3 / 1000×1500 px. No prices. Zero emojis. No arrows, no em-dashes in pin copy.
 
@@ -35,7 +35,7 @@
 - **Description:** These small patio ideas turn a bare slab into a full outdoor room with an outdoor rug, a cushioned two-seater, corner greenery, and warm string lights overhead. It is the aspirational, do-it-all version of small patio decorating ideas, built to copy one layer at a time. Save this and explore all 30 ideas in the full guide.
 - **Board:** Small Patio Ideas
 - **Image filename:** small-patio-ideas-aesthetic-hero-golden-hour.jpg
-- **Destination:** {{DOMAIN}}/small-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-patio-ideas
 - **Scheduled date:** 2026-07-31 (evening slot, ~8–9 PM)
 
 ---
@@ -66,7 +66,7 @@
 - **Description:** A scannable grid of small patio ideas covering seating, flooring, plants, lighting, and privacy, so you can see the full range at a glance. Whether you want a cozy patio for small spaces or a tidy modern patio design, there is a starting point here for every tight footprint. Pin this so your whole list of small outdoor patio ideas stays in one place.
 - **Board:** Patio Design Ideas
 - **Image filename:** small-patio-ideas-30-list-grid.jpg
-- **Destination:** {{DOMAIN}}/small-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-patio-ideas
 - **Scheduled date:** 2026-08-01 (evening slot, ~8–9 PM)
 
 ---
@@ -96,7 +96,7 @@
 - **Description:** These small patio ideas for an apartment or townhouse show how to style a narrow, overlooked slab with one compact seating set, a defined floor, and a freestanding privacy panel. It is renter-friendly small back patio styling that lifts out clean on moving day. Save this for your own small patio ideas townhouse or apartment refresh.
 - **Board:** Apartment Patio Ideas
 - **Image filename:** small-patio-ideas-apartment-townhouse-search.jpg
-- **Destination:** {{DOMAIN}}/small-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-patio-ideas
 - **Scheduled date:** 2026-08-02 (evening slot, ~8–9 PM)
 
 ---
@@ -127,7 +127,7 @@
 - **Description:** Every small patio design comes down to four moves: seating, flooring, plants, and privacy, and this pin shows a vignette for each. Use it as a quick map of small patio decorating ideas before you start styling your own tiny outdoor space. Save this and get the full breakdown of all four in the post.
 - **Board:** Small Patio Decor
 - **Image filename:** small-patio-ideas-category-quadrant.jpg
-- **Destination:** {{DOMAIN}}/small-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-patio-ideas
 - **Scheduled date:** 2026-08-03 (evening slot, ~8–9 PM)
 
 ---
@@ -157,7 +157,7 @@
 - **Description:** A few simple patio design ideas make a small patio look bigger: pale cohesive colors, low-profile furniture, drawing the eye up, and leaving some floor visible. These cozy patio ideas for small spaces open up even the tightest slab, and the full framework is waiting in the post. Save this for small patio inspiration before your next refresh.
 - **Board:** Patio Inspiration
 - **Image filename:** small-patio-ideas-look-bigger-tricks.jpg
-- **Destination:** {{DOMAIN}}/small-patio-ideas
+- **Destination:** https://bloomandlantern.com/small-patio-ideas
 - **Scheduled date:** 2026-08-04 (evening slot, ~8–9 PM)
 
 ---

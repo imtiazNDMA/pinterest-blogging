@@ -9,7 +9,7 @@ Follow `.claude/playbooks/site-setup.md` step by step. For the requested scope:
 1. Show the checklist items with status (ask the user what's done).
 2. For trust pages (About / Contact / Privacy Policy / Affiliate Disclosure), generate ready-to-paste
    Markdown drafts into `Content/pages/` using the compliant disclosure text from
-   `.claude/guardrails/affiliate-compliance.md` (with `{{BLOG_NAME}}`/`{{DOMAIN}}` tokens).
+   `.claude/guardrails/affiliate-compliance.md` (with `Bloom & Lantern`/`https://bloomandlantern.com` tokens).
 3. For Pinterest, walk through business account, website claim, Rich Pins, and the initial keyword-named
    boards (one per pillar) — board names + descriptions drafted for them.
 4. For WordPress/tech, give the bootstrap stack (host, free fast theme, free plugins) from `.claude/memory.md`

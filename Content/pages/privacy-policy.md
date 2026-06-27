@@ -2,14 +2,14 @@
 title: "Privacy Policy"
 slug: privacy-policy
 type: page
-description: "How {{BLOG_NAME}} handles cookies, analytics, display advertising, and affiliate tracking, and how to contact us about your data."
+description: "How Bloom & Lantern handles cookies, analytics, display advertising, and affiliate tracking, and how to contact us about your data."
 ---
 
 # Privacy Policy
 
 > **TEMPLATE — NOT LEGAL ADVICE.** This is a plain-English starting draft only. Before you launch, review and finalize it with a proper privacy-policy generator (for example Termly, iubenda, or similar) or a lawyer. Make sure it reflects the actual tools you run, your audience regions (GDPR, UK GDPR, CCPA/CPRA), and your ad and analytics partners' required language. Do not treat this text as finished or authoritative.
 
-This page explains, in plain language, what information {{BLOG_NAME}} ({{DOMAIN}}) collects when you visit, why, and what choices you have.
+This page explains, in plain language, what information Bloom & Lantern (https://bloomandlantern.com) collects when you visit, why, and what choices you have.
 
 ## The short version
 
@@ -23,7 +23,7 @@ The sections below add detail.
 
 ## Cookies
 
-Cookies are small text files a website stores in your browser. {{BLOG_NAME}} and its partners use them to:
+Cookies are small text files a website stores in your browser. Bloom & Lantern and its partners use them to:
 
 - Keep the site working correctly.
 - Remember basic preferences.
@@ -40,7 +40,7 @@ Google may set cookies and process data as part of this. You can learn more in G
 
 ## Display advertising
 
-{{BLOG_NAME}} displays ads to keep the content free. Advertising partners and ad networks may use cookies and similar technologies to measure ad performance and, where permitted, show ads relevant to your interests.
+Bloom & Lantern displays ads to keep the content free. Advertising partners and ad networks may use cookies and similar technologies to measure ad performance and, where permitted, show ads relevant to your interests.
 
 [OWNER: name your actual ad network here once live, for example Google AdSense, Mediavine, or Raptive, and link their privacy or partner policy. Each network has required disclosure language you must include.]
 
@@ -48,7 +48,7 @@ If you are in a region that requires a consent banner (such as the EU, UK, or ce
 
 ## Affiliate links and cookies
 
-Some links on this site are affiliate links. When you click one, the retailer (for example Amazon) may place a cookie in your browser so any resulting purchase is credited to {{BLOG_NAME}}. This does not change your price. For full details on how affiliate links work here, see our [Affiliate Disclosure](/affiliate-disclosure).
+Some links on this site are affiliate links. When you click one, the retailer (for example Amazon) may place a cookie in your browser so any resulting purchase is credited to Bloom & Lantern. This does not change your price. For full details on how affiliate links work here, see our [Affiliate Disclosure](/affiliate-disclosure).
 
 ## Information you give us directly
 
@@ -68,7 +68,7 @@ Depending on where you live, you may have rights to access, correct, or delete t
 
 ## Third-party links
 
-Our guides link to other websites, including retailers. Once you leave {{DOMAIN}}, this policy no longer applies. Please review the privacy policy of any site you visit.
+Our guides link to other websites, including retailers. Once you leave https://bloomandlantern.com, this policy no longer applies. Please review the privacy policy of any site you visit.
 
 ## Changes to this policy
 

@@ -63,7 +63,7 @@ Layer two or three light sources instead of one:
 - **Lanterns** on the floor or a side table for a low, anchored pool of light.
 - **Flameless LED candles** for flicker without an open flame, which many leases and HOAs ban on balconies.
 
-> This post contains affiliate links. If you buy through them, {{BLOG_NAME}} may earn a small commission at no extra cost to you. As an Amazon Associate {{BLOG_NAME}} earns from qualifying purchases.
+> This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
 For the overhead layer, [warm-white outdoor string lights](#affiliate) rated for outdoor use hold up to damp and sun far better than indoor-only sets.
 
