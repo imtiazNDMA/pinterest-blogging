@@ -52,7 +52,7 @@ Match the fix to the angle and you screen only what needs screening, which keeps
 
 One thing to settle before you build anything fixed: check your lease, HOA, or strata rules, and remember that property-line and setback rules can govern fence and wall height. This is not legal advice, just a nudge to read the document you signed and your local rules before a panel goes up.
 
-If your patio is really an apartment ledge with a railing, our [balcony privacy ideas for apartments](https://bloomandlantern.com/balcony-privacy-ideas-for-apartments) guide covers the no-drill rail mounts that suit that setup better.
+If your patio is really an apartment ledge with a railing, our [balcony privacy ideas for apartments](/balcony-privacy-ideas-for-apartments) guide covers the no-drill rail mounts that suit that setup better.
 
 ## Freestanding patio privacy screens and panels (no-drill first)
 
@@ -76,7 +76,7 @@ Fabric is the softest way to feel hidden, and it slides open when you want the v
 
 ## Privacy plants and living screens
 
-A living screen softens the hard lines of fabric and panels, and it is the prettiest cover you can grow. Keep any plant pet-safe if cats or dogs share the patio, since many common plants are toxic to animals. Check anything new against the [ASPCA toxic and non-toxic plant list](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) before you bring it home, and leave the detailed care to our guide on [privacy plants for a patio garden](https://bloomandlantern.com/patio-garden-ideas).
+A living screen softens the hard lines of fabric and panels, and it is the prettiest cover you can grow. Keep any plant pet-safe if cats or dogs share the patio, since many common plants are toxic to animals. Check anything new against the [ASPCA toxic and non-toxic plant list](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) before you bring it home, and leave the detailed care to our guide on [privacy plants for a patio garden](/patio-garden-ideas).
 
 7. **Tall potted screening plants.** A row of big pots with dense, upright plants makes a natural screen along an exposed edge. Reach for tall ornamental grasses or a dense evergreen suited to your light and hardiness zone. The caveat: buy a few small and let them fill in, and check the mature height and light needs first so you are not fighting the plant later.
 8. **Clumping bamboo in a contained planter.** Bamboo grows fast and gives a tall, leafy front screen. Grow only a clumping type in a sealed, contained planter, because running bamboo spreads aggressively and is hard to remove once it escapes. The caveat: confirm the variety is a clumping type and keep it contained, and verify it against the ASPCA list above if pets share the space.
@@ -116,7 +116,7 @@ If your privacy problem is an upstairs window, side and front screens do nothing
 
 If you cannot build and want the cover up this weekend, layer the freestanding pieces by angle. Stand a weighted screen on your worst side, line tall potted plants along the front, and angle your seating into the most sheltered corner so your back is to the open edge.
 
-A screen plus a planter on one angle usually does most of the work, and everything lifts out clean when you move. For a setup that also reads as styled rather than improvised, see our [small patio decorating ideas](https://bloomandlantern.com/small-patio-decorating-ideas).
+A screen plus a planter on one angle usually does most of the work, and everything lifts out clean when you move. For a setup that also reads as styled rather than improvised, see our [small patio decorating ideas](/small-patio-decorating-ideas).
 
 [YOUR PHOTO: a renter-friendly patio corner with a weighted freestanding screen, a couple of tall potted plants, and an angled lounge chair, no drilling visible, everything standing on the slab. Pin angle 5: renter no-drill corner. Do not fill.]
 
@@ -134,13 +134,13 @@ Whatever you are screening, weigh a buy against three things: how much of the si
 
 **Best for a soft, movable screen: outdoor curtains.** Look for solution-dyed or performance outdoor fabric that resists fading and dries fast, with grommets and a rod or frame sized to the span so it does not sag or billow. Browse [outdoor-rated curtain panels]({{AMAZON_TAG}}#affiliate) and clip or weight the hems on a breezy slab.
 
-**Best for a living screen: privacy planters for tall plants.** Look for a deep, heavy trough with real drainage that holds a row of plants and doubles as ballast, ideally with a trellis back for a climber. Start with a [tall privacy planter or trough]({{AMAZON_TAG}}#affiliate), then let our [privacy plants for a patio garden](https://bloomandlantern.com/patio-garden-ideas) guide handle which plants to grow and how to care for them.
+**Best for a living screen: privacy planters for tall plants.** Look for a deep, heavy trough with real drainage that holds a row of plants and doubles as ballast, ideally with a trellis back for a climber. Start with a [tall privacy planter or trough]({{AMAZON_TAG}}#affiliate), then let our [privacy plants for a patio garden](/patio-garden-ideas) guide handle which plants to grow and how to care for them.
 
 **Best for a half-open front screen: a lattice or trellis panel.** Look for a weave tight enough to screen on its own, or an open one you pair with a climber, set in a base heavy enough to stand without drilling. Compare a [freestanding lattice or trellis panel]({{AMAZON_TAG}}#affiliate) and train a vine up it if you want fuller cover.
 
 **Best for the view from above: a shade sail or pergola.** Look for rated hardware, a clear span limit, and anchoring guidance you can actually meet on your slab, since overhead cover carries serious wind and snow load. For a pergola or larger overhead structure, compare a [patio pergola or louvered cover (Wayfair)](#wayfair-affiliate); for a lighter fix, look at an [outdoor shade sail]({{AMAZON_TAG}}#affiliate). Defer to the manufacturer's installation limits and check whether a permit applies before you anchor anything.
 
-For the full, tailored picks across all of these, see our guide to [the best patio privacy screens to buy or build](https://bloomandlantern.com/patio-privacy-screen). If you would rather grow your screen, our [privacy plants for a patio garden](https://bloomandlantern.com/patio-garden-ideas) guide covers the plant choices and care.
+For the full, tailored picks across all of these, see our guide to [the best patio privacy screens to buy or build](/patio-privacy-screen). If you would rather grow your screen, our [privacy plants for a patio garden](/patio-garden-ideas) guide covers the plant choices and care.
 
 ## Patio privacy FAQ
 
@@ -154,7 +154,7 @@ Side and front screens cannot reach an upstairs sightline, so you need overhead 
 
 ### What are good apartment patio privacy ideas for renters?
 
-Lead with freestanding and planted options that need no holes: a weighted screen, a folding divider, tall plants in heavy pots, and a lattice panel in a planter. They all lift out clean on moving day. If your patio is a railed balcony, our [balcony privacy ideas for apartments](https://bloomandlantern.com/balcony-privacy-ideas-for-apartments) guide covers the no-drill rail mounts that fit that space.
+Lead with freestanding and planted options that need no holes: a weighted screen, a folding divider, tall plants in heavy pots, and a lattice panel in a planter. They all lift out clean on moving day. If your patio is a railed balcony, our [balcony privacy ideas for apartments](/balcony-privacy-ideas-for-apartments) guide covers the no-drill rail mounts that fit that space.
 
 ### What are the best privacy plants for a patio?
 
@@ -168,4 +168,4 @@ Start with the angle that bothers you most and screen only that one. Tall plants
 
 Pick the angle that bugs you most, screen that one first, and live with it before you add more. A weighted screen on the side or a row of tall planters across the front usually changes the whole feel of the slab, and you can layer the next fix once you see the difference.
 
-**Next, read:** [small patio ideas](https://bloomandlantern.com/small-patio-ideas), [the best patio privacy screens to buy or build](https://bloomandlantern.com/patio-privacy-screen), [privacy plants for a patio garden](https://bloomandlantern.com/patio-garden-ideas), and [patio furniture ideas](https://bloomandlantern.com/patio-furniture-ideas).
+**Next, read:** [small patio ideas](/small-patio-ideas), [the best patio privacy screens to buy or build](/patio-privacy-screen), [privacy plants for a patio garden](/patio-garden-ideas), and [patio furniture ideas](/patio-furniture-ideas).

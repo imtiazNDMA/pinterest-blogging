@@ -31,7 +31,7 @@ Below are 30 concrete ideas grouped by category, from seating and flooring to pr
 
 This is the hub for the whole patio space. Skim the category that matches your patio's weakest spot, copy a few ideas, then come back for the next one.
 
-Maybe you are working with a railed ledge above ground rather than a slab at ground level. In that case, start with our [small balcony ideas (the sibling space)](https://bloomandlantern.com/small-balcony-patio-ideas) instead, since the rules for weight and screening differ up there.
+Maybe you are working with a railed ledge above ground rather than a slab at ground level. In that case, start with our [small balcony ideas (the sibling space)](/small-balcony-patio-ideas) instead, since the rules for weight and screening differ up there.
 
 ## The 6-move formula
 
@@ -70,7 +70,7 @@ If your patio belongs to a rental or a townhouse, two extra rules apply. Check y
 
 Freestanding screens, clamp-on planters, and outdoor-rated adhesive hooks carry most of the load with no holes.
 
-Townhouse patios tend to be narrow and overlooked from the sides, so privacy and a defined floor matter more than extra seating. For a full walkthrough tuned to those constraints, see our guide to [styling an apartment or townhouse patio](https://bloomandlantern.com/small-patio-ideas-apartment).
+Townhouse patios tend to be narrow and overlooked from the sides, so privacy and a defined floor matter more than extra seating. For a full walkthrough tuned to those constraints, see our guide to [styling an apartment or townhouse patio](/small-patio-ideas-apartment).
 
 [YOUR PHOTO: bright, plainly styled apartment or townhouse patio that matches a literal "small patio apartment" search, clean and well-lit, narrow slab with one seating set and a privacy panel, no heavy text. Pin angle 3: search-match. Do not fill.]
 
@@ -81,9 +81,9 @@ Seating is where most people overbuy. One comfortable spot beats three wobbly on
 1. **One real two-seater as the anchor.** A small outdoor loveseat or compact sofa with a weatherproof cushion gives you a lounge corner you actually relax in. It also sets the scale for the rest of the patio.
 2. **A folding bistro set for narrow slabs.** A small round table and two chairs read as a proper coffee corner. Folding versions tuck flat against the wall when you want the floor back.
 3. **A modular or L-shaped piece in a square corner.** On a squarer patio, a small sectional that hugs two walls seats more people in less space than scattered chairs and leaves the center clear.
-4. **A built or pallet bench for budget builds.** A low bench along one wall doubles as seating and a ledge for plants and drinks. Our guide to [DIY and pallet patio furniture](https://bloomandlantern.com/diy-patio-furniture) walks through building one that survives weather.
+4. **A built or pallet bench for budget builds.** A low bench along one wall doubles as seating and a ledge for plants and drinks. Our guide to [DIY and pallet patio furniture](/diy-patio-furniture) walks through building one that survives weather.
 
-Whatever you sit on, add a cushion you can sink into. For the full range of compact options and how to size them, see our [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas).
+Whatever you sit on, add a cushion you can sink into. For the full range of compact options and how to size them, see our [patio furniture ideas for tight spaces](/patio-furniture-ideas).
 
 ## Flooring and ground cover
 
@@ -96,7 +96,7 @@ A bare or stained slab is the fastest thing to make a patio look unfinished, and
 
 One drainage note for ground-level patios: keep water running off the slab the way it already does, and do not block any drain channel or the slope away from the house. Raise planters on little feet so they do not trap a wet ring underneath.
 
-To compare durability, cost, and renter-friendliness across all of these, read our breakdown of how to [compare patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas).
+To compare durability, cost, and renter-friendliness across all of these, read our breakdown of how to [compare patio flooring options](/small-patio-flooring-ideas).
 
 [YOUR PHOTO: big numbered grid laying out all 30 ideas as small labeled vignettes across the categories (seating, flooring, plants, lighting, privacy, covered, decor, dining, style), bold "30" callout. The flagship list pin. Pin angle 2: "30 ideas" numbered grid. Do not fill.]
 
@@ -111,7 +111,7 @@ Plants make a patio feel alive, but on a small one they belong in corners and up
 
 Keep plant choices pet-safe if cats or dogs share the patio, since many common patio plants are toxic to animals. Check anything new against the [ASPCA toxic and non-toxic plant list](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) before you bring it home.
 
-Leave the detailed care to our guide on how to [build a small patio garden](https://bloomandlantern.com/patio-garden-ideas).
+Leave the detailed care to our guide on how to [build a small patio garden](/patio-garden-ideas).
 
 ## Lighting and ambiance
 
@@ -122,7 +122,7 @@ Lighting is the single biggest mood lever on a small patio, and the color temper
 15. **Solar stake or path lights for the borders.** Solar charges by day and glows at dusk with no wiring, which suits a patio with no nearby outlet.
 16. **Flameless LED candles for warmth.** They flicker without the open flame that many leases and HOAs ban outdoors, so you get the glow without the risk.
 
-Layer two or three sources rather than leaning on one. For the full lighting recipe that makes an evening patio feel finished, see our [cozy small-space patio looks](https://bloomandlantern.com/cozy-patio-ideas-small-spaces).
+Layer two or three sources rather than leaning on one. For the full lighting recipe that makes an evening patio feel finished, see our [cozy small-space patio looks](/cozy-patio-ideas-small-spaces).
 
 ## Privacy and shade
 
@@ -133,7 +133,7 @@ Screening turns an exposed slab into a private nook, and a little overhead cover
 19. **Tall plants as a living screen.** Group large pots with bushy plants or ornamental grasses along the exposed edge to soften a sightline naturally. Buy a few small and let them fill in.
 20. **A shade sail, umbrella, or pergola overhead.** These cut the midday sun and define the room from above. Wind load and anchoring are real safety concerns. Follow the manufacturer's installation and wind guidance, do not exceed the rated span, and check your lease or HOA before fixing anything to the building.
 
-For the full menu of screening that suits ground-level slabs and overlooking neighbors, see our [patio privacy ideas to feel hidden](https://bloomandlantern.com/patio-privacy-ideas).
+For the full menu of screening that suits ground-level slabs and overlooking neighbors, see our [patio privacy ideas to feel hidden](/patio-privacy-ideas).
 
 [YOUR PHOTO: clean four-panel grid showing one example each of seating, flooring, plants, and privacy on a small patio, each panel labeled. Pinterest category style. Pin angle 4: category 4-panel. Do not fill.]
 
@@ -145,7 +145,7 @@ A roof, awning, or pergola changes the rules in your favor. Overhead cover lets 
 22. **A pergola softened with climbing plants.** Train a vine or hang trailing planters along the rafters to filter light and add green overhead without losing floor.
 23. **Curtains and a rug to enclose the room.** Outdoor curtains on three sides plus a rug underfoot turn an open cover into a snug, defined space for cool or breezy evenings.
 
-For more ways to dress a sheltered slab, see our [ideas for a small covered patio](https://bloomandlantern.com/small-covered-patio-ideas).
+For more ways to dress a sheltered slab, see our [ideas for a small covered patio](/small-covered-patio-ideas).
 
 ## Decor and textiles
 
@@ -155,7 +155,7 @@ Once the bones are in place, decor is what makes the patio feel styled rather th
 25. **Side tables, trays, and a few decor objects.** A small side table, a tray for drinks, and one or two weatherproof objects give the eye places to land. A leaning outdoor mirror can stretch the sense of space. Anchor it against wind and never angle it to catch concentrated sun.
 26. **A water feature or fire bowl as a focal point.** A small fountain adds gentle sound, and a tabletop fire bowl adds warmth where your lease and local rules allow open flame.
 
-For more ways to dress the surfaces and walls, see our gallery of [ways to decorate a small patio](https://bloomandlantern.com/small-patio-decorating-ideas).
+For more ways to dress the surfaces and walls, see our gallery of [ways to decorate a small patio](/small-patio-decorating-ideas).
 
 > [PERSONAL TIP: the single highest-impact change you made on your own small patio (for example covering the bare slab, or anchoring one real seat) and why it mattered most. First person, your real experience. Do not auto-fill.]
 
@@ -170,7 +170,7 @@ You can fit a real eating spot on a surprisingly tight slab if you choose the ta
 
 Committing to one look is what makes a small patio feel designed rather than collected. Choose a direction and let it guide your colors and textures.
 
-29. **Modern and minimal.** A tight palette, clean-lined furniture, and one or two sculptural planters keep a small space calm and uncluttered. Our guide to [a clean modern patio design](https://bloomandlantern.com/modern-patio-design) breaks down the palette and pieces.
+29. **Modern and minimal.** A tight palette, clean-lined furniture, and one or two sculptural planters keep a small space calm and uncluttered. Our guide to [a clean modern patio design](/modern-patio-design) breaks down the palette and pieces.
 30. **Cozy and layered.** Warm light, soft textiles, woven textures, and trailing plants turn a slab into a place you want to linger after dark.
 
 The trick on a small patio is restraint. Pick one direction and a short list of colors, and even a tiny back slab looks pulled together.
@@ -196,27 +196,27 @@ How we picked: every piece below works on almost any small patio, holds up to we
 
 **Best for anchoring the layout: a compact two-seater or folding bistro set.** One well-chosen seat sets the scale for the whole patio. A slim two-seater or a folding bistro set tucks against the wall when you want the floor back.
 
-Browse a [compact patio bistro set]({{AMAZON_TAG}}#affiliate) and size it to leave a clear path through. Our [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas) compares the compact options, and the [DIY and pallet patio furniture](https://bloomandlantern.com/diy-patio-furniture) guide covers building your own bench if you would rather make it.
+Browse a [compact patio bistro set]({{AMAZON_TAG}}#affiliate) and size it to leave a clear path through. Our [patio furniture ideas for tight spaces](/patio-furniture-ideas) compares the compact options, and the [DIY and pallet patio furniture](/diy-patio-furniture) guide covers building your own bench if you would rather make it.
 
 **Best for grounding the floor: a weatherproof outdoor rug.** A flatweave in polypropylene or recycled PET makes a bare or stained slab read as a finished room and hoses clean after rain.
 
 Choose a [weatherproof outdoor rug]({{AMAZON_TAG}}#affiliate) sized to anchor the seating without crowding the path. Skip indoor cotton or wool, which trap damp and mold outdoors.
 
-To weigh it against tiles and other ground cover, see our [patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas) breakdown.
+To weigh it against tiles and other ground cover, see our [patio flooring options](/small-patio-flooring-ideas) breakdown.
 
 **Best for setting the mood: warm-white string lights or lanterns.** A strand or lantern rated for damp and sun, with bulbs at 2700K or lower, gives the soft glow that makes a patio feel done after dark.
 
-Run [warm-white outdoor string lights]({{AMAZON_TAG}}#affiliate) overhead or along a fence, and layer in a floor lantern for depth. The [cozy small-space patio looks](https://bloomandlantern.com/cozy-patio-ideas-small-spaces) guide covers the full lighting recipe and solar versus plug-in.
+Run [warm-white outdoor string lights]({{AMAZON_TAG}}#affiliate) overhead or along a fence, and layer in a floor lantern for depth. The [cozy small-space patio looks](/cozy-patio-ideas-small-spaces) guide covers the full lighting recipe and solar versus plug-in.
 
 **Best for privacy and shade: a freestanding screen.** A weighted, freestanding privacy screen or louvered panel blocks a neighbor's sightline with no drilling, so it suits a rental as well as an owned slab. Weigh or anchor the base if your patio catches wind.
 
-Look at a [freestanding patio privacy screen]({{AMAZON_TAG}}#affiliate), then see our [patio privacy ideas to feel hidden](https://bloomandlantern.com/patio-privacy-ideas) for the full menu of screening and overhead cover.
+Look at a [freestanding patio privacy screen]({{AMAZON_TAG}}#affiliate), then see our [patio privacy ideas to feel hidden](/patio-privacy-ideas) for the full menu of screening and overhead cover.
 
 **Best for greenery without losing floor: standing planters.** Slim standing planters and a freestanding trellis put green into corners and up the walls using almost no walking space, with no rail or wall fixing required.
 
-Match a [freestanding patio planter]({{AMAZON_TAG}}#affiliate) to your corner, and check the mature size of anything you plant in it. Our guide to how to [build a small patio garden](https://bloomandlantern.com/patio-garden-ideas) covers plant choices and pet-safe picks.
+Match a [freestanding patio planter]({{AMAZON_TAG}}#affiliate) to your corner, and check the mature size of anything you plant in it. Our guide to how to [build a small patio garden](/patio-garden-ideas) covers plant choices and pet-safe picks.
 
-For the full, tailored picks, head to the specialist guides: [patio furniture ideas](https://bloomandlantern.com/patio-furniture-ideas) for seating, [patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas) for the floor, [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas) for screening, and [a small patio garden](https://bloomandlantern.com/patio-garden-ideas) for the green.
+For the full, tailored picks, head to the specialist guides: [patio furniture ideas](/patio-furniture-ideas) for seating, [patio flooring options](/small-patio-flooring-ideas) for the floor, [patio privacy ideas](/patio-privacy-ideas) for screening, and [a small patio garden](/patio-garden-ideas) for the green.
 
 ## Small patio FAQ
 
@@ -248,4 +248,4 @@ Yes. A freestanding umbrella, a clamp-on or freestanding shade sail, or a movabl
 
 Pick the category that bugs you most and start there this week: roll out a rug, anchor one real seat, or string up warm lights. Build one layer at a time and the whole patio comes together.
 
-**Next, read:** [ways to decorate a small patio](https://bloomandlantern.com/small-patio-decorating-ideas), [cozy small-space patio looks](https://bloomandlantern.com/cozy-patio-ideas-small-spaces), [a clean modern patio design](https://bloomandlantern.com/modern-patio-design), [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas), [patio privacy ideas to feel hidden](https://bloomandlantern.com/patio-privacy-ideas), and [compare patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas).
+**Next, read:** [ways to decorate a small patio](/small-patio-decorating-ideas), [cozy small-space patio looks](/cozy-patio-ideas-small-spaces), [a clean modern patio design](/modern-patio-design), [patio furniture ideas for tight spaces](/patio-furniture-ideas), [patio privacy ideas to feel hidden](/patio-privacy-ideas), and [compare patio flooring options](/small-patio-flooring-ideas).

@@ -27,7 +27,7 @@ The fastest small patio decorating ideas all do one job: they make a bare slab r
 
 You get there with soft textiles, warm light, a tight color story, and a few accents that give the eye somewhere to land. None of it needs a renovation, and most of it works on a budget or in a rental.
 
-This guide stays in the decor lane. If you still need to sort out layout, the floor, the furniture, or screening, start with the broader [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas). Come back here to dress the space once the bones are set.
+This guide stays in the decor lane. If you still need to sort out layout, the floor, the furniture, or screening, start with the broader [small patio ideas hub](/small-patio-ideas). Come back here to dress the space once the bones are set.
 
 <!-- QUICK-ANSWER: short, scannable, near top, satisfies "how to decorate a small patio" with the close variant in the H2 -->
 
@@ -50,10 +50,10 @@ Textiles are the highest-impact, lowest-commitment way to warm up a hard slab. F
 
 This is where cozy patio ideas for small spaces really begin.
 
-1. **Ground the seating with an outdoor rug.** A flatweave in polypropylene or recycled PET defines the sit zone and makes the slab read as finished. Budget version: a single runner or a small mat under the coffee table. Small upgrade: a larger rug that tucks the front feet of your seat inside its border. For how a rug compares to tiles and other ground cover, see [small patio flooring ideas](https://bloomandlantern.com/small-patio-flooring-ideas).
+1. **Ground the seating with an outdoor rug.** A flatweave in polypropylene or recycled PET defines the sit zone and makes the slab read as finished. Budget version: a single runner or a small mat under the coffee table. Small upgrade: a larger rug that tucks the front feet of your seat inside its border. For how a rug compares to tiles and other ground cover, see [small patio flooring ideas](/small-patio-flooring-ideas).
 2. **Pile on outdoor throw pillows.** Two or three cushions in weatherproof fabric soften any seat and carry your color story. Mix one pattern with two solids so it looks collected, not matched. Budget version: outdoor pillow covers slipped over inserts you already own.
 3. **Add a weather-friendly throw.** A washable outdoor blanket draped over an arm invites you to stay out past dusk and reads as warmth in photos. Keep it in a covered bin when rain threatens.
-4. **Hang outdoor curtains for softness and shade.** Performance-fabric panels on a freestanding frame add movement and a sense of enclosure, and they filter harsh afternoon glare. If your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas) instead, since screening has its own rules.
+4. **Hang outdoor curtains for softness and shade.** Performance-fabric panels on a freestanding frame add movement and a sense of enclosure, and they filter harsh afternoon glare. If your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](/patio-privacy-ideas) instead, since screening has its own rules.
 
 Stick to outdoor-rated fabric wherever it sits in sun or damp. Indoor cotton and wool trap moisture and mold fast on a patio.
 
@@ -68,7 +68,7 @@ Aim for bulbs labeled 2700K or lower.
 5. **Run warm-white string lights overhead.** A single strand zigzagged across the space or along a fence is the classic small-patio glow-up. Budget version: one solar strand with no outlet needed. Small upgrade: dimmable plug-in bulbs you can dial down after dark.
 6. **Anchor the floor with a lantern or two.** A lantern low to the ground or on a side table adds a pool of light that a single overhead source never gives you. Group a tall and a short lantern for depth.
 7. **Default to flameless candles.** Battery LED candles flicker without an open flame, which many leases and HOAs ban outdoors. If you do burn a real flame, never leave it unattended and check your lease or HOA first.
-8. **Layer three sources, not one.** Overhead string lights, a floor lantern, and a small table light together make an evening patio feel designed. For the full lighting recipe, see [cozy patio ideas for small spaces](https://bloomandlantern.com/cozy-patio-ideas-small-spaces).
+8. **Layer three sources, not one.** Overhead string lights, a floor lantern, and a small table light together make an evening patio feel designed. For the full lighting recipe, see [cozy patio ideas for small spaces](/cozy-patio-ideas-small-spaces).
 
 > [PERSONAL TIP: the single cheapest swap that changed your patio's mood the most, for example switching a cool-white strand for warm 2700K bulbs, or adding one floor lantern. First person, your real experience. Do not auto-fill.]
 
@@ -82,7 +82,7 @@ A tight palette is what separates a designed small patio from a collected one. O
 10. **Lean pale to make the space feel bigger.** Light, cohesive tones recede and open up a small footprint, which is a core move in any small patio design. Save bold color for one or two accents.
 11. **Use pattern in small, deliberate doses.** One patterned pillow, a striped rug, or a single printed cushion adds interest without busyness. Keep patterns in the same color family so they cooperate.
 
-When you want a fuller palette and style direction worked out across the whole space, the [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas) covers picking a look from modern to cozy.
+When you want a fuller palette and style direction worked out across the whole space, the [small patio ideas hub](/small-patio-ideas) covers picking a look from modern to cozy.
 
 ## Decorate the walls and go vertical
 
@@ -102,7 +102,7 @@ Accents are the layer that makes a patio feel like yours rather than a showroom.
 16. **Add gentle sound or a focal object.** A small tabletop fountain adds soft water sound, or a single sculptural piece anchors a corner. Allow open flame only where your lease and local rules permit it.
 17. **Repurpose found and thrifted objects.** A wooden crate becomes a side table, an enamel pitcher becomes a vase, and a vintage stool becomes a plant stand. Mixing in one or two secondhand finds adds character that a matched set never will.
 
-For the furniture those accents sit on, the [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas) guide covers compact tables and seating without crowding the floor.
+For the furniture those accents sit on, the [patio furniture ideas for tight spaces](/patio-furniture-ideas) guide covers compact tables and seating without crowding the floor.
 
 [YOUR PHOTO: a thrifted accent vignette, a crate side table or vintage stool styled with an enamel pitcher of flowers, a candle, and a small plant. Pin angle 5: thrift accent vignette. Do not fill.]
 
@@ -117,7 +117,7 @@ Here we focus on how to style it, and leave watering and plant choice to the gar
 
 Keep any plant pet-safe if cats or dogs share the patio, since many common patio plants are toxic to animals. Check anything new against the [ASPCA toxic and non-toxic plant list](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants) before you bring it home.
 
-Leave the detailed care and plant picks to our guide on [patio garden ideas](https://bloomandlantern.com/patio-garden-ideas).
+Leave the detailed care and plant picks to our guide on [patio garden ideas](/patio-garden-ideas).
 
 ## Refresh with the seasons
 
@@ -150,13 +150,13 @@ Quality fit comes first, and we note the best place to buy each one.
 
 Look for an outdoor rating, fade-resistant color, and a size that tucks the front feet of your seat inside its border without crowding the path.
 
-Browse [weatherproof outdoor rugs (Wayfair)](#wayfair-affiliate) for the larger sizes, and see how a rug compares to tiles in our [small patio flooring ideas](https://bloomandlantern.com/small-patio-flooring-ideas) guide.
+Browse [weatherproof outdoor rugs (Wayfair)](#wayfair-affiliate) for the larger sizes, and see how a rug compares to tiles in our [small patio flooring ideas](/small-patio-flooring-ideas) guide.
 
 **Best for warm evening light: string lights and lanterns.** A strand or lantern rated for damp and sun, with bulbs at 2700K or lower, gives the soft glow that makes a patio feel done after dark.
 
 Look for a weatherproof rating, a warm color temperature, and a solar or dimmable option if you have no nearby outlet.
 
-Run [warm-white outdoor string lights]({{AMAZON_TAG}}#affiliate) overhead and anchor the floor with a [patio lantern]({{AMAZON_TAG}}#affiliate). The [cozy patio ideas for small spaces](https://bloomandlantern.com/cozy-patio-ideas-small-spaces) guide covers the full lighting recipe.
+Run [warm-white outdoor string lights]({{AMAZON_TAG}}#affiliate) overhead and anchor the floor with a [patio lantern]({{AMAZON_TAG}}#affiliate). The [cozy patio ideas for small spaces](/cozy-patio-ideas-small-spaces) guide covers the full lighting recipe.
 
 **Best for instant softness: outdoor throw pillows and cushions.** Two or three cushions in performance fabric warm any seat and carry your color story.
 
@@ -164,7 +164,7 @@ Look for outdoor-rated, fade-resistant fabric and washable or zip-off covers tha
 
 **Best for softness and shade: outdoor curtains.** Performance-fabric panels on a freestanding frame add movement, a sense of enclosure, and a filter for harsh afternoon glare.
 
-Look for an outdoor rating, fade-resistant color, and grommets sized to your rod or frame. Compare [outdoor curtain panels (Wayfair)](#wayfair-affiliate), and if your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas) where screening has its own rules.
+Look for an outdoor rating, fade-resistant color, and grommets sized to your rod or frame. Compare [outdoor curtain panels (Wayfair)](#wayfair-affiliate), and if your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](/patio-privacy-ideas) where screening has its own rules.
 
 **Best for personality: a lantern, tray, or outdoor mirror.** A few weatherproof accents give the eye places to land. A tray corrals a vignette, and a leaning outdoor mirror stretches a small space and bounces light into a dim corner.
 
@@ -172,9 +172,9 @@ Look for weatherproof finishes, and keep any mirror out of direct sun and firmly
 
 **Best for greenery as decor: a few planters that match your palette.** Grouped pots in odd numbers at staggered heights read fuller than a scattered row, and repeating one or two pot colors ties the greenery into your scheme.
 
-Look for a drainage hole, an outdoor-rated material, and a size your corner and your floor can carry. Match a [set of patio planters]({{AMAZON_TAG}}#affiliate) to your palette, and leave plant choices and pet-safe picks to our [patio garden ideas](https://bloomandlantern.com/patio-garden-ideas) guide.
+Look for a drainage hole, an outdoor-rated material, and a size your corner and your floor can carry. Match a [set of patio planters]({{AMAZON_TAG}}#affiliate) to your palette, and leave plant choices and pet-safe picks to our [patio garden ideas](/patio-garden-ideas) guide.
 
-For the full, tailored picks, head to the deeper guides. Go to [cozy patio ideas for small spaces](https://bloomandlantern.com/cozy-patio-ideas-small-spaces) for lighting, [small patio flooring ideas](https://bloomandlantern.com/small-patio-flooring-ideas) for the floor, [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas) for curtains and screening, and [patio garden ideas](https://bloomandlantern.com/patio-garden-ideas) for the green.
+For the full, tailored picks, head to the deeper guides. Go to [cozy patio ideas for small spaces](/cozy-patio-ideas-small-spaces) for lighting, [small patio flooring ideas](/small-patio-flooring-ideas) for the floor, [patio privacy ideas](/patio-privacy-ideas) for curtains and screening, and [patio garden ideas](/patio-garden-ideas) for the green.
 
 ## Small patio decorating FAQ
 
@@ -188,7 +188,7 @@ Shop your home and secondhand listings for the side table and accents. Repaint t
 
 Layer soft textiles, warm light, and a tight color palette. An outdoor rug, cushions and a throw, string lights or a lantern at 2700K or below, two or three repeated colors.
 
-Together they turn a bare slab into a snug nook. For the full recipe, see [cozy patio ideas for small spaces](https://bloomandlantern.com/cozy-patio-ideas-small-spaces).
+Together they turn a bare slab into a snug nook. For the full recipe, see [cozy patio ideas for small spaces](/cozy-patio-ideas-small-spaces).
 
 ### How do I decorate a rental patio without damage?
 
@@ -202,6 +202,6 @@ Cover the floor with a rug and add warm light. Those two moves do the most to ma
 
 Pick the layer that bugs you most and start there this week: roll out a rug, swap in warm bulbs, or style one accent tray. Build one layer at a time and a bare slab turns into a patio you want to linger on.
 
-**Next, read:** the wider [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas), [cozy patio ideas for small spaces](https://bloomandlantern.com/cozy-patio-ideas-small-spaces), [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas), [patio garden ideas](https://bloomandlantern.com/patio-garden-ideas), [small patio flooring ideas](https://bloomandlantern.com/small-patio-flooring-ideas), and [patio privacy ideas to feel hidden](https://bloomandlantern.com/patio-privacy-ideas).
+**Next, read:** the wider [small patio ideas hub](/small-patio-ideas), [cozy patio ideas for small spaces](/cozy-patio-ideas-small-spaces), [patio furniture ideas for tight spaces](/patio-furniture-ideas), [patio garden ideas](/patio-garden-ideas), [small patio flooring ideas](/small-patio-flooring-ideas), and [patio privacy ideas to feel hidden](/patio-privacy-ideas).
 
 Sources: [ASPCA toxic and non-toxic plants](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants)

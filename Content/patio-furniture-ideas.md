@@ -27,7 +27,7 @@ On a tight slab, one well-scaled loveseat and a slim side table beat a bulky fou
 
 Below are the compact picks worth buying, grouped by the job each one does, each with its trade-off named and a layout plan so it all fits.
 
-This is the furniture companion to our [small patio ideas](https://bloomandlantern.com/small-patio-ideas) hub, focused on seating and tables for tight slabs rather than the whole space.
+This is the furniture companion to our [small patio ideas](/small-patio-ideas) hub, focused on seating and tables for tight slabs rather than the whole space.
 
 > This post contains affiliate links. If you buy through them, Bloom & Lantern may earn a small commission at no extra cost to you. As an Amazon Associate Bloom & Lantern earns from qualifying purchases.
 
@@ -76,9 +76,9 @@ A few layout rules that keep a tight slab usable:
 
 If you rent, check your lease or HOA before you bolt, screw, or fix anything to the floor, wall, or railing. Favor freestanding pieces that lift out clean on moving day.
 
-For a layout tuned to those constraints, see our guide to styling [an apartment or townhouse patio](https://bloomandlantern.com/small-patio-ideas-apartment).
+For a layout tuned to those constraints, see our guide to styling [an apartment or townhouse patio](/small-patio-ideas-apartment).
 
-It is also worth deciding your floor first, since a rug or tile changes how furniture sits. Our breakdown of how to [compare small patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas) covers that call.
+It is also worth deciding your floor first, since a rug or tile changes how furniture sits. Our breakdown of how to [compare small patio flooring options](/small-patio-flooring-ideas) covers that call.
 
 > [PERSONAL TIP: note here what actually fit your own slab once you measured it (the piece you almost bought that was too deep, or the exact loveseat width that left you a walking lane). First person, your real experience. Do not auto-fill.]
 
@@ -148,7 +148,7 @@ This is the pick that lets a single slab flex between a quiet morning coffee and
 
 **The trade-off:** folding frames tend to be lighter and less plush than fixed seating. A light frame can blow over on an exposed slab, so weight it or bring it in during high wind.
 
-For a built-in version you make yourself, our guide to [DIY and pallet patio furniture](https://bloomandlantern.com/diy-patio-furniture) walks through a bench that stores cushions and survives weather.
+For a built-in version you make yourself, our guide to [DIY and pallet patio furniture](/diy-patio-furniture) walks through a bench that stores cushions and survives weather.
 
 Check a [foldable and stackable patio set with a folding table]({{AMAZON_TAG}}#affiliate) that tucks flat against a wall.
 
@@ -164,7 +164,7 @@ Cushions are also the fastest way to change the mood seasonally.
 
 **The trade-off:** even weatherproof cushions last longer stored dry, so plan to bring them in or stash them in a bench during long wet spells. Keep the palette to two or three colors so a small space stays calm.
 
-To build the layered, lived-in feel around them, see how to [make the seating corner feel cozy](https://bloomandlantern.com/cozy-patio-ideas-small-spaces).
+To build the layered, lived-in feel around them, see how to [make the seating corner feel cozy](/cozy-patio-ideas-small-spaces).
 
 Pick [weatherproof outdoor cushions and pillows]({{AMAZON_TAG}}#affiliate) in solution-dyed fabric and a tight palette.
 
@@ -204,7 +204,7 @@ The downside is the flip side of its strength: light enough to blow over, so wei
 
 **Wood and teak.** Natural warmth that softens a hard slab, with teak weathering to a silver-grey patina and shrugging off damp thanks to its natural oils. The trade-offs are weight, the occasional oiling some owners prefer, and a higher spend.
 
-Softwood and pallet patio furniture need sealing to survive outdoors, and our [DIY and pallet patio furniture](https://bloomandlantern.com/diy-patio-furniture) guide covers building and weatherproofing your own.
+Softwood and pallet patio furniture need sealing to survive outdoors, and our [DIY and pallet patio furniture](/diy-patio-furniture) guide covers building and weatherproofing your own.
 
 ## What to look for when buying
 
@@ -216,7 +216,7 @@ Run down this checklist before you order anything for a small patio:
 - **Weigh the wind risk.** Light frames need weighted feet, anchoring, or a storage plan. Heavier wrought iron stays put but is harder to shift.
 - **Favor flexibility.** Folding, stacking, or modular pieces let one slab do more than one job.
 - **Plan for the off-season.** A cover or a storage bench keeps the set out of the weather, which is what makes it last.
-- **Confirm what you can fix.** Renters should check the lease or HOA before bolting or drilling anything, and screen the area with freestanding pieces instead. Our [patio privacy ideas to screen the seating area](https://bloomandlantern.com/patio-privacy-ideas) guide covers no-drill options.
+- **Confirm what you can fix.** Renters should check the lease or HOA before bolting or drilling anything, and screen the area with freestanding pieces instead. Our [patio privacy ideas to screen the seating area](/patio-privacy-ideas) guide covers no-drill options.
 
 No set comes with a lifespan guarantee, since how long furniture lasts depends on your climate, sun exposure, and how you store it.
 
@@ -268,4 +268,4 @@ Start with the one piece your slab is missing most. That might be an anchor seat
 
 Build out one piece at a time and a tight slab turns into a real outdoor room.
 
-**Next, read:** [small patio ideas](https://bloomandlantern.com/small-patio-ideas) for the whole space, [DIY and pallet patio furniture](https://bloomandlantern.com/diy-patio-furniture) to build your own, [compare small patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas) before you arrange furniture, [patio privacy ideas to screen the seating area](https://bloomandlantern.com/patio-privacy-ideas), and how to [make the seating corner feel cozy](https://bloomandlantern.com/cozy-patio-ideas-small-spaces).
+**Next, read:** [small patio ideas](/small-patio-ideas) for the whole space, [DIY and pallet patio furniture](/diy-patio-furniture) to build your own, [compare small patio flooring options](/small-patio-flooring-ideas) before you arrange furniture, [patio privacy ideas to screen the seating area](/patio-privacy-ideas), and how to [make the seating corner feel cozy](/cozy-patio-ideas-small-spaces).

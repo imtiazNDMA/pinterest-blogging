@@ -72,10 +72,10 @@
 
 ### BALCONY SPACE
 
-**B-P1 · Decor & Styling** — 6/9 ✓
+**B-P1 · Decor & Styling** — 9/9 ✓ **PILLAR COMPLETE**
 - ✓ Small Balcony Ideas (hub) — Rec 9 · ✓ Cozy (39k) — Rec 5 · ✓ Apartment Balcony Decorating (69k) — Rec 73
 - ✓ Budget — Rec 6 · ✓ Renter decorating — Rec 7 · ✓ Makeover — Rec 8
-- ☐ **Modern Balcony Ideas** (SV 56,629) — high priority · ☐ Balcony Aesthetic (SV 41,532) · ◐ Boho Balcony (SV 16,079) — Rec 10
+- ✓ Modern Balcony Ideas (57k) — Rec 79 · ✓ Balcony Aesthetic (42k) — Rec 80 · ✓ Boho Balcony (16k) — Rec 10
 
 **B-P2 · Furniture & Seating** — 0/7 (whole money pillar OPEN — highest leverage)
 - ☐ Balcony Furniture Ideas (hub, SV 18,490)
@@ -88,17 +88,17 @@
 - ☐ **$ Balcony Curtain Ideas** (SV 10,357) · ☐ $ Balcony Shade Ideas (SV 7,258) · ☐ Balcony Privacy Screens DIY+buy (SV 5,108)
 - ☐ Balcony Blinds (SV 2,900) · ☐ Balcony Pergola / Trellis (SV 2,245/2,437)
 
-**B-P4 · Garden & Plants** ⚠ — 1/10 (the big engine; hub 138k = biggest single volume on the site)
+**B-P4 · Garden & Plants** ⚠ — 6/10 (the big engine; hub 138k = biggest single volume on the site)
 - ✓ $ Best Self-Watering Planters for Balconies — Rec 4
-- ☐ **Balcony Garden Ideas** (hub, SV 138,256) · ☐ Best Balcony Plants ⚠ (SV 85,414) · ☐ Small Balcony Garden (SV 61,630)
-- ☐ Apartment Balcony Garden (SV 26,213) · ☐ Balcony Flowers ⚠ (SV 23,609) · ☐ Balcony Hanging Plants (SV 7,490)
+- ✓ Balcony Garden Ideas (hub, 138k) — Rec 75 · ✓ Best Balcony Plants ⚠ (85k) — Rec 76 · ✓ Small Balcony Garden (62k) — Rec 74
+- ✓ Apartment Balcony Garden (26k) — Rec 77 · ✓ Balcony Flowers ⚠ (24k) — Rec 78 · ☐ Balcony Hanging Plants (SV 7,490)
 - ☐ Balcony Vegetable / Herb Garden ⚠ (SV 5,662) · ☐ $ Balcony Railing Planters (buyer, SV 5,895) · ☐ Vertical Balcony Garden
 
-**B-P5 · Flooring** — 0/3
-- ☐ Balcony Flooring Ideas (hub, SV 13,968–21,120) · ☐ Balcony Deck Tiles · ☐ $ Outdoor Rugs for Balconies
+**B-P5 · Flooring** — 1/3
+- ✓ Balcony Flooring Ideas (hub, ~20k) — Rec 81 · ☐ Balcony Deck Tiles · ☐ $ Outdoor Rugs for Balconies
 
-**B-P6 · Lighting** — 0/4
-- ◐ Balcony Lighting Ideas → target "balcony lights" (hub, SV 13,295) — Rec 13
+**B-P6 · Lighting** — 1/4
+- ✓ Balcony Lighting Ideas → "balcony lights" (hub, 13k) — Rec 82 (idea Rec 13 = future child "small balcony lighting ideas")
 - ☐ $ Balcony Fairy / String Light Ideas (~5k) · ☐ Hanging / Ceiling Balcony Lights (SV 3,780) · ☐ Balcony Christmas Lights (seasonal, SV 2,616)
 
 **Balcony seasonal (cross-cutting)** — ◐ Cozy Winter (Rec 14) · ◐ Fall Decor (Rec 15) · ◐ Year-Round (Rec 16) · ☐ Balcony Christmas Decor (SV 9,398)
@@ -130,14 +130,16 @@
 - ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
 
 ### Totals & suggested order
-- **Written: 15 Ready.** **Remaining to fill all pillars: ~46 posts** (~8 already logged as Idea, ~38 not yet briefed).
-- **Closest pillar completions:** Patio P2 (2 left) · Patio P1 (3) · Patio P4 (3) · Balcony P1 (3) · Patio P3 (3).
-- **Highest leverage to OPEN:** Balcony P4 Garden (138k hub) · Balcony P2 Furniture (entire money pillar untouched; swing chairs ~12k).
-- **Recommended sequence:** finish near-done decor (Balcony P1 modern/aesthetic/boho → Patio P1 cozy/modern) → open **Balcony Garden hub (138k)** → open **Balcony Furniture money pillar** → Privacy children (curtains/shade) → Flooring + Lighting → Seasonal. Each via `/keyword-cluster` (for a fresh pillar) then `/new-post` per brief.
+- **Written: 25 Ready** (was 15; +10 informational balcony posts 2026-06-27). **Remaining to fill all pillars: ~36 posts.**
+- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9).** Garden engine well underway (6/10); Flooring + Lighting hubs opened (1 each).
+- **Closest pillar completions now:** Patio P2 (2 left) · Patio P1/P3/P4 (3 each) · Balcony P6 Lighting (3 left, hub done).
+- **Highest leverage to OPEN next:** Balcony **P2 Furniture** (entire money pillar untouched; swing chairs ~12k) · finish **Balcony Garden** (hanging plants, veg/herb, railing planters, vertical) · Patio **P5 Covered**.
+- **Recommended sequence:** open Balcony Furniture money pillar (`/keyword-cluster`) → finish Garden children → Privacy children (curtains/shade) → Flooring/Lighting children → Patio near-done pillars → Seasonal.
 
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-27 (latest+1)** — **Wrote 10 informational balcony posts** (Recs 74–82 + boho Rec 10), all editor-qa PASS → Ready. **Balcony P1 Decor pillar COMPLETE** (modern/aesthetic/boho). Opened the **Garden engine** (hub 138k + best plants 85k + small garden 62k + apartment garden 26k + flowers 24k = 6/10) and the **Flooring (Rec 81)** + **Lighting (Rec 82)** hubs. All 5 garden posts YMYL ASPCA-verified (editor-qa caught coleus toxic + a marigold/Calendula citation error). Internal links normalized to relative `/slug` site-wide. Tracker: 25 Content posts Ready. Committed `52a1925` (prior batch).
 - **2026-06-27 (latest)** — **Readability initiative.** Reset the house density standard to the attention-span gate (paragraphs ≤2 sentences / ~45 words, sentences ≤30 words, one-line rhythm + narrative flow) in `formatting-and-readability.md`; added the robotic-staccato tell to `anti-ai-slop.md`; updated `content-writer` + `editor-qa`; built `playbooks/readability-pass.md` + `/readability-pass` command. **Re-flowed all 15 READY posts** — verified 0 em-dashes/arrows/emojis, 0 prose paragraphs >45w, all invariants (keywords/links/disclosure/placeholders/ASPCA safety) held, word counts within ±0.7%. Spec: `docs/superpowers/specs/2026-06-27-readability-pass-design.md`. Then built this **pillar coverage map** (15 written / ~46 to go).
 - **2026-06-27 (later)** — **Domain `bloomandlantern.com` + Stellar Plus hosting purchased** (Namecheap). Ran the brand/domain **token find-replace repo-wide** (43 files): `{{BLOG_NAME}}`→Bloom & Lantern, `{{DOMAIN}}`→`https://bloomandlantern.com`; `{{AMAZON_TAG}}` kept. Built out patio space: **hub (Rec 47)**, **furniture money post (Rec 54)**, **garden hub (Rec 52)** all READY, with pin batches **PB-008/009** logged. Next: install WordPress on Stellar Plus, then `/site-setup`.
 - **2026-06-27** — Repo pushed to GitHub. Built keyword-expansion method (`suggestions.md`). **Patio validated as a full 2nd space** (+2,606 terms; hub "small patio ideas" 118k) and folded into tracker/plan/vault. **Brand chosen: Bloom & Lantern** (`bloomandlantern.com`, verified available). Next frontier = backyard.

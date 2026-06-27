@@ -29,7 +29,7 @@ The method is the same every time. Read the light your slab actually gets, then 
 
 Choose plants that suit your sun hours, and group them so they read as a planting instead of a scatter. Do those four things and a bare slab fills in lush within one season.
 
-This is the deep how-to behind the broader [patio garden ideas hub](https://bloomandlantern.com/patio-garden-ideas), which gathers the styles and methods.
+This is the deep how-to behind the broader [patio garden ideas hub](/patio-garden-ideas), which gathers the styles and methods.
 
 Here you get the execution: assessing space and light, choosing containers, what to grow by light, arranging for a full look, watering, and fixing what a small patio throws at you.
 
@@ -56,7 +56,7 @@ Good patio garden design starts with measuring, not shopping. Spend a few minute
 
 1. **Track your sun hours over one full day.** Note when direct sun first hits and when it leaves at the times you use the space. Six-plus hours is full sun, three to six is part shade, and under three is low light. This single number decides most of your plant list.
 2. **Note the heat and wind your slab catches.** A south or west wall bounces heat and dries pots fast, while a high or corner balcony funnels wind that snaps tall stems and parches leaves. Both change which plants and pots will cope.
-3. **Measure the floor and check what it can hold.** Sketch the slab, mark where the door swings, and keep a clear path through. Soil plus water plus pot gets heavy quickly, so site big containers near a wall or a load-bearing edge, especially above ground level. The wider [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas) covers zoning the floor so plants and a seat both fit.
+3. **Measure the floor and check what it can hold.** Sketch the slab, mark where the door swings, and keep a clear path through. Soil plus water plus pot gets heavy quickly, so site big containers near a wall or a load-bearing edge, especially above ground level. The wider [small patio ideas hub](/small-patio-ideas) covers zoning the floor so plants and a seat both fit.
 
 ## Step 2: Choose the right containers
 
@@ -64,7 +64,7 @@ Containers are the foundation of the whole patio garden, so it pays to get them 
 
 4. **Go bigger than feels necessary.** A larger pot holds more soil, dries out slower, and lets roots settle, so it forgives a missed watering far better than a small one. As a rough guide, herbs and salad greens are happy in 8 to 10 inch pots. Tomatoes, peppers, and small shrubs want 14 inches or more and real depth.
 5. **Pick material for your climate.** Glazed ceramic and thick resin hold moisture and shrug off sun. Terracotta breathes and dries fast, which suits herbs but punishes thirsty plants in heat. Fabric grow bags are light, drain well, and suit veg on a slab with weight limits.
-6. **Treat drainage as non-negotiable.** Every container needs a hole, and every pot should sit on feet or spacers so the hole stays clear and no wet ring stains the floor. That matters more if you are still [choosing your patio flooring](https://bloomandlantern.com/small-patio-flooring-ideas) under the pots.
+6. **Treat drainage as non-negotiable.** Every container needs a hole, and every pot should sit on feet or spacers so the hole stays clear and no wet ring stains the floor. That matters more if you are still [choosing your patio flooring](/small-patio-flooring-ideas) under the pots.
 7. **Use self-watering pots where you can.** A container with a built-in reservoir, or a self-watering insert dropped into a regular pot, stretches the gap between waterings on a hot patio. It can save a thirsty plant while you are away.
 
 [YOUR PHOTO: a clean line-up of empty patio containers in mixed sizes and materials (glazed ceramic, resin, terracotta, fabric grow bag) on a slab, drainage feet visible. Pin angle 2: container line-up. Do not fill.]
@@ -100,7 +100,7 @@ When floor space runs out, the walls and the air above your pots are still empty
 
 15. **Hang rail planters along the edge.** Trough planters that hook over a railing put trailing flowers and herbs at the perimeter without using an inch of floor. Confirm they are clipped on securely so wind cannot lift them.
 16. **Mount a wall pocket or pot panel.** A felt pocket system or a row of wall-mounted pots greens a blank fence and frees the floor entirely. Check what the wall can hold before you fix anything, and favor freestanding frames if you rent.
-17. **Train climbers up a trellis.** A trellis weighted into a heavy pot lets beans, sweet peas, or a flowering vine grow up instead of out, and it doubles as a soft screen. For the full menu of living screens along an exposed edge, see our [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas).
+17. **Train climbers up a trellis.** A trellis weighted into a heavy pot lets beans, sweet peas, or a flowering vine grow up instead of out, and it doubles as a soft screen. For the full menu of living screens along an exposed edge, see our [patio privacy ideas](/patio-privacy-ideas).
 18. **Stack a tiered plant stand or ladder shelf.** Staggered shelves hold several pots in one footprint and lift trailing plants to eye level where you actually notice them.
 
 [YOUR PHOTO: a railing and wall vertical setup, rail planters hooked over the edge plus a wall pocket panel of herbs and trailing greenery, on a compact balcony patio. Pin angle 3: vertical/railing setup. Do not fill.]
@@ -149,7 +149,7 @@ Quality fit comes first, and we note the best place to buy each one.
 
 Look for glazed ceramic or thick resin that shrugs off sun, a real drainage hole, and a weight your floor and your back can both handle.
 
-Browse [large weatherproof planters (Wayfair)](#wayfair-affiliate) and set them on feet so they do not trap a wet ring, which our [patio flooring guide](https://bloomandlantern.com/small-patio-flooring-ideas) covers.
+Browse [large weatherproof planters (Wayfair)](#wayfair-affiliate) and set them on feet so they do not trap a wet ring, which our [patio flooring guide](/small-patio-flooring-ideas) covers.
 
 **Best for growing food: a raised bed or elevated planter.** A deep raised bed or a standing grow box gives roots the room edibles want and saves your back at working height.
 
@@ -161,7 +161,7 @@ Stock up on [potting mix and self-watering inserts]({{AMAZON_TAG}}#affiliate) si
 
 **Best for going vertical: a railing planter, trellis, or wall pocket.** When floor space runs out, a trough that hooks over a railing, a felt pocket panel, or a trellis weighted into a heavy pot grows more in the same footprint.
 
-Pick a no-drill freestanding frame if you rent. Start with a [vertical planter, railing planter, or trellis]({{AMAZON_TAG}}#affiliate), and to grow one into a living screen along an exposed edge, see [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas).
+Pick a no-drill freestanding frame if you rent. Start with a [vertical planter, railing planter, or trellis]({{AMAZON_TAG}}#affiliate), and to grow one into a living screen along an exposed edge, see [patio privacy ideas](/patio-privacy-ideas).
 
 **Best for easy watering: a long-spout can or a simple drip kit.** A long-spout can reaches the back of a grouped arrangement without a spill. A basic drip kit on a timer keeps pots going through a heat wave or while you travel.
 
@@ -171,7 +171,7 @@ Look at a [long-spout watering can or drip kit]({{AMAZON_TAG}}#affiliate) and ma
 
 Consider a [full-spectrum grow light]({{AMAZON_TAG}}#affiliate) only where the natural light genuinely falls short.
 
-For more styles and the full set of patio garden methods, head back to the [patio garden ideas hub](https://bloomandlantern.com/patio-garden-ideas).
+For more styles and the full set of patio garden methods, head back to the [patio garden ideas hub](/patio-garden-ideas).
 
 ## Small patio garden FAQ
 
@@ -211,6 +211,6 @@ Pick one step and do it this weekend: track your light, pot up a herb cluster, o
 
 Build one layer at a time and a hard, bare slab turns into a garden you actually use.
 
-**Next, read:** the broader [patio garden ideas hub](https://bloomandlantern.com/patio-garden-ideas) for styles and methods, the [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas) for the whole space, how to [make a small patio feel cozy](https://bloomandlantern.com/cozy-patio-ideas-small-spaces), how to [arrange patio furniture around your plants](https://bloomandlantern.com/patio-furniture-ideas), and [patio privacy ideas](https://bloomandlantern.com/patio-privacy-ideas) for living screens.
+**Next, read:** the broader [patio garden ideas hub](/patio-garden-ideas) for styles and methods, the [small patio ideas hub](/small-patio-ideas) for the whole space, how to [make a small patio feel cozy](/cozy-patio-ideas-small-spaces), how to [arrange patio furniture around your plants](/patio-furniture-ideas), and [patio privacy ideas](/patio-privacy-ideas) for living screens.
 
 Sources: [ASPCA toxic and non-toxic plants](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants), [ASPCA: basil (non-toxic)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/basil), [ASPCA: petunia (non-toxic)](https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/petunia)

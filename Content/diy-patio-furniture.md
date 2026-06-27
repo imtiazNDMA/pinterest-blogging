@@ -31,7 +31,7 @@ Most of these builds need nothing more than a drill, a saw, sandpaper, and a fre
 
 Below are 14 buildable projects grouped by type, from pallet sofas to no-sew cushions, each with a difficulty rating and one key tip. First, the basics that make every build last.
 
-This is the build-it-yourself companion to our [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas), which covers compact pieces to buy and how to lay them out. Use that guide for the seating you would rather purchase, and this one for what you want to make.
+This is the build-it-yourself companion to our [patio furniture ideas for tight spaces](/patio-furniture-ideas), which covers compact pieces to buy and how to lay them out. Use that guide for the seating you would rather purchase, and this one for what you want to make.
 
 ## Before you build: the basics
 
@@ -59,7 +59,7 @@ Inspect for oil spills, chemical stains, or odd smells, and skip anything that l
 
 **2. Pallet coffee or low table.** *Difficulty: easy.* A single pallet plus four caster wheels or short feet becomes a low table in under an hour. Lay a cut board or a sheet of glass on top for a flat drink surface. *Key tip:* sand the top deck hard and round the edges, since pallet boards are rough where cups and elbows land.
 
-**3. Pallet vertical planter wall.** *Difficulty: easy.* Stand a pallet upright against a wall, line the back of each row with landscape fabric, and fill with potting mix for a living screen that uses no floor. It pairs herbs and trailing greenery with your seating. *Key tip:* secure the top to the wall or weight the base so a planted pallet, which gets heavy and top-aware, cannot fall forward. For what to grow in it, see how to [build a small patio garden](https://bloomandlantern.com/patio-garden-ideas).
+**3. Pallet vertical planter wall.** *Difficulty: easy.* Stand a pallet upright against a wall, line the back of each row with landscape fabric, and fill with potting mix for a living screen that uses no floor. It pairs herbs and trailing greenery with your seating. *Key tip:* secure the top to the wall or weight the base so a planted pallet, which gets heavy and top-aware, cannot fall forward. For what to grow in it, see how to [build a small patio garden](/patio-garden-ideas).
 
 [YOUR PHOTO: finished pallet sofa styled on a small patio, cushions and a throw pillow on it, sealed wood with visible grain, warm light. Pin angle 1: finished pallet sofa hero. Do not fill.]
 
@@ -71,7 +71,7 @@ A bench is the most useful thing a beginner can make. It seats two, lines up flu
 
 **5. Two-by-four slat bench.** *Difficulty: easy.* Four legs, two side rails, and a run of spaced slats make a clean, sturdy bench from standard lumber. The gaps between slats shed rain and dry fast. *Key tip:* leave a finger-width gap between slats for drainage, and counter-sink the screws so nothing catches the backs of your legs.
 
-**6. Console or potting bench.** *Difficulty: moderate.* A narrow waist-height bench against a wall works as a bar, a buffet for outdoor meals, or a potting station with a lower shelf for pots. *Key tip:* keep it shallow, around 14 to 16 inches deep, so it serves a surface without eating the walking lane. Style the top with the tricks in our [small patio decorating ideas](https://bloomandlantern.com/small-patio-decorating-ideas).
+**6. Console or potting bench.** *Difficulty: moderate.* A narrow waist-height bench against a wall works as a bar, a buffet for outdoor meals, or a potting station with a lower shelf for pots. *Key tip:* keep it shallow, around 14 to 16 inches deep, so it serves a surface without eating the walking lane. Style the top with the tricks in our [small patio decorating ideas](/small-patio-decorating-ideas).
 
 ## Bistro and side tables
 
@@ -126,7 +126,7 @@ You do not need a full workshop to build everything above. A short, well-chosen 
 - **A staple gun, or a no-sew kit.** Best for finishing cushion covers with tidy corners. Reach for a [heavy-duty staple gun]({{AMAZON_TAG}}#affiliate) to wrap foam fast, or skip it entirely with fabric glue and ties for a fully no-sew cover.
 - **Casters and furniture feet.** Best for lifting wood off a wet slab and rolling heavy pieces out to clean. Add [locking casters or furniture feet]({{AMAZON_TAG}}#affiliate) rated for the weight you are lifting, and choose a locking wheel if you want a rolling piece to stay put once it is in place.
 
-If you would rather buy a finished, weatherproof set than build one, that is the smarter call for big-ticket seating. Our [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas) compares compact loveseats, bistro sets, and sectionals worth purchasing.
+If you would rather buy a finished, weatherproof set than build one, that is the smarter call for big-ticket seating. Our [patio furniture ideas for tight spaces](/patio-furniture-ideas) compares compact loveseats, bistro sets, and sectionals worth purchasing.
 
 ## Make it last: weatherproofing and safety
 
@@ -142,7 +142,7 @@ Anchor or weight lightweight builds so wind cannot tip them, and do not overload
 
 > [PERSONAL TIP: your own off-season storage or re-sealing habit, for example where you stash cushions over winter or the spring weekend you re-coat the bench, and what happened the year you skipped it. First person, your real experience. Do not auto-fill.]
 
-The floor under your build matters too. A level, dry surface keeps legs from rocking and wood from sitting in puddles. To choose what goes under the furniture, see our breakdown of how to [compare small patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas).
+The floor under your build matters too. A level, dry surface keeps legs from rocking and wood from sitting in puddles. To choose what goes under the furniture, see our breakdown of how to [compare small patio flooring options](/small-patio-flooring-ideas).
 
 ## When to buy instead of build
 
@@ -150,7 +150,7 @@ DIY wins on small tables, benches, planters, and makeovers, where the build is q
 
 A sensible split is to build the bench, the side table, and the planters, then buy the one comfortable anchor seat.
 
-For the pieces worth purchasing, our [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas) covers compact picks, and our [small patio ideas hub](https://bloomandlantern.com/small-patio-ideas) ties the whole space together once the furniture is sorted.
+For the pieces worth purchasing, our [patio furniture ideas for tight spaces](/patio-furniture-ideas) covers compact picks, and our [small patio ideas hub](/small-patio-ideas) ties the whole space together once the furniture is sorted.
 
 ## DIY patio furniture FAQ
 
@@ -184,4 +184,4 @@ Pick the one piece your patio is missing most and start there this weekend: a be
 
 Build one, seal it well, and the next project goes faster.
 
-**Next, read:** [patio furniture ideas for tight spaces](https://bloomandlantern.com/patio-furniture-ideas) for pieces worth buying, [small patio ideas](https://bloomandlantern.com/small-patio-ideas) for the whole space, [small patio decorating ideas](https://bloomandlantern.com/small-patio-decorating-ideas) to style your builds, [a small patio garden](https://bloomandlantern.com/patio-garden-ideas) for the planters, and [compare small patio flooring options](https://bloomandlantern.com/small-patio-flooring-ideas) for what goes underneath.
+**Next, read:** [patio furniture ideas for tight spaces](/patio-furniture-ideas) for pieces worth buying, [small patio ideas](/small-patio-ideas) for the whole space, [small patio decorating ideas](/small-patio-decorating-ideas) to style your builds, [a small patio garden](/patio-garden-ideas) for the planters, and [compare small patio flooring options](/small-patio-flooring-ideas) for what goes underneath.
