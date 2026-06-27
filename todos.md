@@ -19,10 +19,11 @@
 - [x] Choose brand: **Bloom & Lantern** → `bloomandlantern.com` (verified available)
 - [x] Save session to memory + update this tracker
 
-### 🤖 Claude builds — status (paused mid-run 2026-06-27, resume here)
+### 🤖 Claude builds — status
 - [x] **Trust/legal page drafts** — About · Affiliate Disclosure · Privacy → `Content/pages/` (committed). Owner fills `{{CONTACT_EMAIL}}` + run Privacy through Termly/iubenda before launch.
-- [x] **Pin batch PB-007** — planters post (Rec 4) → `Content/pins/best-self-watering-planters-balcony-pins.md` (committed, 5 fresh pins). **PENDING: log 5 Pin rows (PB-007) to the tracker** — not yet done.
-- [ ] **Patio hub post** — `small patio ideas` (118k) → `Content/small-patio-ideas.md` (Rec 47). **NOT started** (agent stopped before writing). Re-run `/new-post` on resume, then editor-qa + monetization → Ready.
+- [x] **Pin batch PB-007** — planters post (Rec 4) → `Content/pins/best-self-watering-planters-balcony-pins.md` (5 fresh pins). **Logged 5 Pin rows (PB-007, Rec 58–62) to the tracker 2026-06-27.** ✅
+- [x] **Patio hub post** — `small patio ideas` (118k) → `Content/small-patio-ideas.md` (Rec 47). **Written 2026-06-27** via full `/new-post` pipeline (brief → content-writer → monetization → editor-qa). ~2,150 words, 30 ideas, 18 internal links, light monetization block, editor-qa PASS all gates → **status=Ready**. Owner: pick SEO title, fill 1 [PERSONAL TIP] + 5 [YOUR PHOTO].
+- [x] **Pin batch PB-008** — patio hub (Rec 47) → `Content/pins/small-patio-ideas-pins.md` (5 fresh pins, distinct archetypes). **Logged 5 Pin rows (PB-008, Rec 63–67) to the tracker 2026-06-27**; scheduled 2026-07-31 → 08-04. Owner: design in Canva (2:3 1000×1500), label AI, schedule via Pinterest native scheduler. ✅
 
 ### 🏗️ At the office — Buy + set up (owner actions)
 - [ ] **Buy `bloomandlantern.com`** — standard (not premium) price; auto-renew + free WHOIS privacy
