@@ -13,9 +13,9 @@ updated: 2026-06-26
 
 ## The milestone ladder (check them off — this is the dopamine)
 ### Phase 0 — Foundation (now)
-- [ ] Brand name + domain chosen
-- [ ] WordPress live with theme + legal pages ([[Site Structure]])
-- [ ] Pinterest business account + 5 boards live
+- [x] Brand name + domain chosen
+- [x] WordPress live with theme + legal pages ([[Site Structure]])
+- [x] Pinterest business account + 5 boards live
 - [ ] First post published
 - [ ] First pin published
 - [ ] 10 posts published

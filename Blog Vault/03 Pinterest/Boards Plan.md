@@ -1,37 +1,52 @@
 ---
 type: pinterest
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # 🗃️ Boards Plan
 
-← [[Home]] · [[Pinterest Strategy]] · [[Pin Tracker]]
+← [[Home]] · [[Pinterest Strategy]] · [[Pin Tracker]] · Roadmap: `Growth Strategy/pinterest.md`
 
-Keyword-named boards, one per pillar + sub-topic boards as the library grows. Each board gets a keyword-rich,
-on-topic description. **Board name ≤ 50 chars · description ≤ 500 chars.**
+**Model: one board per content pillar** (broad head keyword). The focused, keyword-rich pins live *inside*
+the board (use board **sections** for sub-angles). A well-fed pillar board is a strong topical signal.
+**Board name ≤ 50 chars · description ≤ 500 chars.** Full paste-ready descriptions live in
+`Growth Strategy/setup-checklist.md`.
 
-## Starter boards (launch with 5–8)
-| Board | Keyword focus | Description seed |
+## The 12 pillar boards (launch the 9 fed ones; ⏳ wait for content)
+
+### Balcony
+| Board (pillar) | Fed by | Launch? |
 |---|---|---|
-| Small Balcony Ideas | hub / decor | Small balcony ideas and inspiration: cozy, modern, and budget ways to style a tiny apartment balcony or patio. |
-| Cozy Balcony Decor | cozy/aesthetic | Cozy balcony decor and aesthetic ideas — string lights, rugs, cushions, and warm styling for a small outdoor retreat. |
-| Budget Balcony Decor | budget | Cheap and budget balcony ideas: affordable, renter-friendly ways to style a small balcony for less. |
-| Apartment Balcony Ideas | apartment | Apartment balcony decorating ideas for small and rental spaces — layouts, furniture, plants, and privacy. |
-| Balcony Furniture | furniture | Small balcony furniture ideas: bistro sets, space-saving chairs, swing seats, and storage for tiny balconies. |
-| Balcony Privacy Ideas | privacy | Balcony privacy ideas for apartments — screens, curtains, plants, and renter-friendly ways to feel hidden. |
-| Balcony Garden & Plants | garden | Balcony garden ideas and the best plants for a small or apartment balcony, including railing planters and herbs. |
-| Rental / Renter Balcony | renter | Renter-friendly, no-drill balcony decorating ideas you can take with you and still get your deposit back. |
+| **Small Balcony Ideas** *(Decor & Styling)* | hub, cozy, budget, renter, apt-decorating, makeover, modern, aesthetic, boho | ✅ |
+| **Balcony Furniture Ideas** *(Furniture)* | — | ⏳ |
+| **Balcony Privacy Ideas** | balcony privacy | ✅ |
+| **Balcony Garden Ideas** *(Garden)* | garden hub, best plants, small garden, apt garden, flowers, planters | ✅ |
+| **Balcony Flooring Ideas** | balcony flooring | ✅ |
+| **Balcony Lighting Ideas** | balcony lighting | ✅ |
 
-## Boards to add as content grows
-Balcony Lighting · Balcony Makeovers / Before & After · Boho Balcony · Modern Balcony · Balcony Flooring & Tiles ·
-Seasonal Balcony (Christmas / Fall / Winter) · Balcony Shade & Pergola.
+### Patio
+| Board (pillar) | Fed by | Launch? |
+|---|---|---|
+| **Small Patio Ideas** *(Decor & Design)* | patio hub, patio decorating | ✅ |
+| **Patio Furniture Ideas** | patio furniture, DIY patio furniture | ✅ |
+| **Patio Garden Ideas** | patio garden, small patio garden | ✅ |
+| **Patio Privacy Ideas** | patio privacy | ✅ |
+| **Covered Patio Ideas** *(Covered/Structure)* | — | ⏳ |
+| **Patio Flooring Ideas** *(Flooring/Hardscape)* | — | ⏳ |
+
+## Sections inside a pillar (instead of new boards)
+*Small Balcony Ideas* → Cozy · Boho & Aesthetic · Budget · Modern · Renter/Apartment · Makeovers.
+This keeps one broad board (a single strong topic signal) while pins stay tightly keyworded.
 
 ## Board rules
-- Name = a real keyword people search (check Pinterest autocomplete).
-- 1 board per topic; don't fragment into near-duplicates.
-- Pin each post's batch across the **relevant** boards (not all to one).
-- Keep boards on-niche — topical consistency builds account trust.
-- Reorder boards so your best/most-relevant sit top-left on the profile.
+- Name = a real keyword people search (check Pinterest autocomplete). Pillar-level, not micro.
+- Don't create an empty board — a pillar board launches only once it has pins.
+- Each pin → its pillar board first; optionally add to one other relevant board a few days later (not all at once).
+- Keep boards on-niche; topical consistency builds account trust.
+- Reorder boards so the highest-volume pillars (Small Patio Ideas 118k, Balcony Garden, Apartment Balcony) sit top-left.
 
-## Group boards (later)
-Once established, join 2–3 active **balcony/small-space** group boards for extra reach. Vet for engagement, not just size.
+## Group boards (later, Phase 3)
+Once established, join 2–3 active **balcony/small-space** group boards for reach. Vet for engagement, not size.
+
+## Optional brand board
+*Bloom & Lantern | Best Of* — repin top performers once you have winners.

@@ -1,35 +1,43 @@
 ---
 type: pin-tracker
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # 📍 Pin Tracker
 
-← [[Home]] · [[Pinterest Strategy]] · [[Boards Plan]] · [[Pinterest Analytics]]
+← [[Home]] · [[Pinterest Strategy]] · [[Boards Plan]] · [[Pinterest Analytics]] · Roadmap: `Growth Strategy/pinterest.md`
 
 Every pin batch + its schedule. **Status:** Draft → Designed → Scheduled → Published.
+Pins go to **pillar boards** ([[Boards Plan]]); the per-pin keyword stays focused.
 
-## Batches
-| Batch | Post | Pins | Angles | Schedule | Status |
+## Batches (designed so far)
+| Batch | Post | Pillar board | Pins | Schedule | Status |
 |---|---|---|---|---|---|
-| PB-001 | Cozy Small Balcony | 5 | mood · list · formula · budget · search | 06-26 → 06-30 | Draft (need images) |
-| PB-002 | Budget Balcony | 5 | hero · list · spend-vs-save · DIY · before/after | 07-01 → 07-05 | Draft |
-| PB-003 | Renter-Friendly | 5 | no-drill hero · list · deposit-safe · before/after · privacy | 07-06 → 07-10 | Draft |
-| PB-004 | Makeover B&A | 5 | hero split · 8-grid · formula · budget split · renter split | 07-11 → 07-15 | Draft |
-| PB-005 | Pillar (hub) | 5 | aesthetic hero · 30-grid · apartment search · 2×2 category · look-bigger | 07-16 → 07-20 | Draft |
-| PB-006 | Balcony Privacy | 5 | hero · 14-grid · no-drill tease · before/after · side-front-above | 07-21 → 07-25 | Draft (incl. ready AI prompts) |
+| PB-001 | Cozy Small Balcony | Small Balcony Ideas | 5 | 06-26 → 06-30 | Draft (need images) |
+| PB-002 | Budget Balcony | Small Balcony Ideas | 5 | 07-01 → 07-05 | Draft |
+| PB-003 | Renter-Friendly | Small Balcony Ideas | 5 | 07-06 → 07-10 | Draft |
+| PB-004 | Makeover B&A | Small Balcony Ideas | 5 | 07-11 → 07-15 | Draft |
+| PB-005 | Pillar (hub) | Small Balcony Ideas | 5 | 07-16 → 07-20 | Draft |
+| PB-006 | Balcony Privacy | Balcony Privacy Ideas | 5 | 07-21 → 07-25 | Draft |
+| PB-007 | Self-Watering Planters | Balcony Garden Ideas | 5 | 07-26 → 07-30 | Draft |
+| PB-008 | Small Patio (hub) | Small Patio Ideas | 5 | 07-31 → 08-04 | Draft |
+| PB-009 | Patio Furniture | Patio Furniture Ideas | 5 | 08-05 → 08-09 | Draft |
 
-**Total: 30 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
-PB-006 is the first batch built on the new pin design system (explicit archetype + ready-to-paste AI image prompt per pin).
+**Total: 45 pins designed (briefs + AI prompts ready), 0 published.** Images + scheduling are the owner step.
+
+## Batches still TO BUILD (the 10 new posts — run `/make-pins`)
+Priority (volume + fills thin boards): `balcony-garden-ideas` (138k) → `best-balcony-plants`, `balcony-flowers`,
+`small-balcony-garden`, `apartment-balcony-garden` → `modern-balcony-ideas`, `balcony-aesthetic`,
+`boho-balcony-ideas` → `balcony-lighting-ideas`, `balcony-flooring-ideas`. See the roadmap Phase 1.
 
 ## Per-pin schedule (PB-001 example — fill status as you publish)
 | Date | Pin | Board | Status |
 |---|---|---|---|
-| 06-26 | Cozy balcony dusk (mood) | Cozy Balcony Decor | ⬜ |
+| 06-26 | Cozy balcony dusk (mood) | Small Balcony Ideas | ⬜ |
 | 06-27 | 18 cozy ideas (list) | Small Balcony Ideas | ⬜ |
-| 06-28 | 5-layer formula | Cozy Balcony Decor | ⬜ |
-| 06-29 | Cozy on a budget | Budget Balcony Decor | ⬜ |
-| 06-30 | How to make cozy (search) | Apartment Balcony Ideas | ⬜ |
+| 06-28 | 5-layer formula | Small Balcony Ideas (Cozy section) | ⬜ |
+| 06-29 | Cozy on a budget | Small Balcony Ideas (Budget section) | ⬜ |
+| 06-30 | How to make cozy (search) | Small Balcony Ideas | ⬜ |
 
 > Full per-pin briefs (overlay text, design, descriptions, filenames) live in the studio: `Content/pins/<slug>-pins.md`.
 

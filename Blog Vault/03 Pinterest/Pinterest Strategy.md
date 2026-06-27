@@ -1,14 +1,18 @@
 ---
 type: pinterest
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # 📌 Pinterest Strategy
 
-← [[Home]] · [[Pin Tracker]] · [[Boards Plan]] · [[Pinterest Analytics]]
+← [[Home]] · [[Pin Tracker]] · [[Boards Plan]] · [[Pinterest Analytics]] · Roadmap: `Growth Strategy/pinterest.md`
 
 Pinterest is a **visual search engine**, not social media. Treat it as SEO. It's your **primary traffic source** —
-the blog is where you monetize the clicks.
+the blog is where you monetize the clicks. The phased plan (setup → seed → ramp → optimize → monetize) lives in
+the **roadmap** (`Growth Strategy/pinterest.md`); this note is the standing strategy reference.
+
+**Board model:** one board per **content pillar** (broad head keyword); the focused, keyword-rich pins live
+inside it (sections for sub-angles). See [[Boards Plan]] for the 12 pillar boards.
 
 ## The rules that matter (2026)
 - **Fresh pins win.** A fresh pin = a new image/design, not a re-share. Every post gets multiple distinct pins over time.
@@ -42,8 +46,10 @@ Several blog keywords don't exist as Pinterest interests — pins must use the t
 - Pillar → "balcony ideas" / "small balcony design" · Cozy → "cozy balcony" · Makeover → "balcony makeover" ·
   Renter → "small balcony decor". (Full map in the studio validation file.)
 
-## Account setup checklist
+## Account setup checklist *(Phase 0 of the roadmap)*
 - [ ] Pinterest **Business** account (free analytics + scheduler)
 - [ ] Claim the website + enable Rich Pins
-- [ ] Keyword-rich profile name + bio + 5 starter boards ([[Boards Plan]])
+- [ ] Keyword-rich profile name + bio + the **9 fed pillar boards** ([[Boards Plan]])
+- [ ] Add **sections** inside Small Balcony Ideas (Cozy/Boho/Budget/Modern/Renter/Makeovers)
 - [ ] Profile photo + brand colors consistent with the site
+- Full step list with paste-ready board descriptions: `Growth Strategy/setup-checklist.md`

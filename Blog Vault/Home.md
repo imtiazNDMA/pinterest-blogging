@@ -34,6 +34,7 @@ Your single place to run the blog + Pinterest, track income, and stay motivated.
 
 ### 03 — Pinterest
 - [[Pinterest Strategy]] · [[Pin Tracker]] · [[Boards Plan]]
+- **Roadmap:** `Growth Strategy/pinterest.md` (phased setup → seed → ramp → optimize → monetize)
 
 ### 04 — Analytics
 - [[Analytics Dashboard]] · [[Monthly Review]]
