@@ -11,7 +11,7 @@ internal_links: ["small-patio-ideas", "diy-patio-furniture", "small-patio-floori
 monetized: true
 affiliate_programs: ["amazon", "wayfair"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-009"
 draft_start: 2026-06-27
 last_updated: 2026-06-27
 ---
