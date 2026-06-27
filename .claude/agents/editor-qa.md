@@ -29,10 +29,13 @@ ready until it provably clears every checklist. You catch what the writer missed
 **Formatting & readability (formatting-and-readability.md) — hard gates**
 - [ ] **No arrows:** grep the draft for `->`, `→`, `=>`, `»` (and a bare `>` used as an arrow, e.g. "Floor > grow box" — judgment call). Any in prose = FAIL (Markdown blockquote `>` at line start is exempt). Rewrite to words.
 - [ ] **Zero emojis:** scan body, headings, callouts, tables. Any emoji = FAIL.
-- [ ] **No wall-of-text paragraph:** any paragraph over ~4 sentences / ~60 words = FAIL; split it.
-- [ ] **No over-long sentence:** any sentence over ~35 words = FAIL; split it.
+- [ ] **Paragraph density (attention-span gate):** any paragraph over **2 sentences / ~45 words** = FAIL; split it.
+      A 3-sentence paragraph is allowed sparingly — if more than ~1 in 5 paragraphs runs to 3, flag for tightening.
+- [ ] **No over-long sentence:** any sentence over **~30 words** = FAIL; split it.
 - [ ] **Subhead spacing:** any body run over ~350 words with no H2/H3 = FAIL; add one.
 - [ ] **Bold cap:** more than one bolded phrase in a paragraph, or bold-lead on every paragraph = FAIL.
+- [ ] **No robotic staccato (anti-ai-slop):** short paragraphs must vary sentence length; a run of same-length
+      short fragments = flag for burstiness (rewrite, don't just leave it choppy).
 
 **Humanization (humanization.md) — guidance flags (note, don't auto-fail on judgment)**
 - [ ] Sentence/paragraph length varies; not uniform AI cadence

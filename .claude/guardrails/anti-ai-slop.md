@@ -28,6 +28,11 @@ tapestry, realm, landscape (figurative), testament, treasure trove, game-changer
 ## B. Structural AI tells (rewrite the structure, not just words)
 - **Symmetry/listicle bloat:** every section the same length; every bullet starts the same way; "Rule of three"
   everywhere. Real writing has uneven, intent-driven rhythm.
+- **Robotic staccato / uniform short-sentence cadence:** the failure mode of "make it shorter." A run of short
+  sentences all roughly the same length reads as machine-chopped, not human. Short prose still needs
+  **burstiness** — a longer flowing sentence between the punchy ones. The fix for a wall of text is short
+  paragraphs with *varied* sentence lengths, never twenty identical 8-word fragments in a row. (Pairs with the
+  density gate in `formatting-and-readability.md`: short ≠ choppy.)
 - **Restating the heading** as the first sentence of its section ("Watering is important for watering.").
 - **Defining the obvious** ("A pot is a container you put plants in.").
 - **Hedge sandwiches:** "While X can be good, it may depend on various factors, so consider your needs."
@@ -104,6 +109,7 @@ not a style preference. A keyword and a specific hook carry the text; emoji deco
       rhetorical-question fragments); ≤1 earned contrast in the whole post (C2)
 - [ ] No restated headings, obvious definitions, or empty conclusion
 - [ ] Section lengths/rhythm vary with intent (no robotic symmetry)
+- [ ] **No robotic staccato:** short paragraphs vary sentence length (burstiness); not a run of same-length fragments
 - [ ] Every paragraph carries information a reader couldn't have guessed
 - [ ] Every claim is specific OR sourced; no fluent-but-unverified facts
 - [ ] No fake/bolted-on personality (real experience only via `[PERSONAL TIP]`, owner-filled)
