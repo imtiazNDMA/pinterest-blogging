@@ -88,11 +88,11 @@
 - ☐ **$ Balcony Curtain Ideas** (SV 10,357) · ☐ $ Balcony Shade Ideas (SV 7,258) · ☐ Balcony Privacy Screens DIY+buy (SV 5,108)
 - ☐ Balcony Blinds (SV 2,900) · ☐ Balcony Pergola / Trellis (SV 2,245/2,437)
 
-**B-P4 · Garden & Plants** ⚠ — 6/10 (the big engine; hub 138k = biggest single volume on the site)
+**B-P4 · Garden & Plants** ⚠ — 10/10 ✓ **PILLAR COMPLETE** (the big engine; hub 138k = biggest single volume on the site)
 - ✓ $ Best Self-Watering Planters for Balconies — Rec 4
 - ✓ Balcony Garden Ideas (hub, 138k) — Rec 75 · ✓ Best Balcony Plants ⚠ (85k) — Rec 76 · ✓ Small Balcony Garden (62k) — Rec 74
-- ✓ Apartment Balcony Garden (26k) — Rec 77 · ✓ Balcony Flowers ⚠ (24k) — Rec 78 · ☐ Balcony Hanging Plants (SV 7,490)
-- ☐ Balcony Vegetable / Herb Garden ⚠ (SV 5,662) · ☐ $ Balcony Railing Planters (buyer, SV 5,895) · ☐ Vertical Balcony Garden
+- ✓ Apartment Balcony Garden (26k) — Rec 77 · ✓ Balcony Flowers ⚠ (24k) — Rec 78 · ✓ Balcony Hanging Plants ⚠ (7.5k) — Rec 163
+- ✓ Balcony Vegetable Garden ⚠ (5.7k) — Rec 164 · ✓ $ Balcony Railing Planters (buyer, 5.9k) — Rec 165 · ✓ Vertical Balcony Garden ⚠ — Rec 166
 
 **B-P5 · Flooring** — 1/3
 - ✓ Balcony Flooring Ideas (hub, ~20k) — Rec 81 · ☐ Balcony Deck Tiles · ☐ $ Outdoor Rugs for Balconies
@@ -130,15 +130,17 @@
 - ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
 
 ### Totals & suggested order
-- **Written: 25 Ready** (was 15; +10 informational balcony posts 2026-06-27). **Remaining to fill all pillars: ~36 posts.**
-- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9).** Garden engine well underway (6/10); Flooring + Lighting hubs opened (1 each).
+- **Written: 29 Ready** (was 25; +4 garden children 2026-06-28: Recs 163–166). **Remaining to fill all pillars: ~32 posts.**
+- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** — the two biggest pillars complete. Flooring + Lighting hubs opened (1 each).
 - **Closest pillar completions now:** Patio P2 (2 left) · Patio P1/P3/P4 (3 each) · Balcony P6 Lighting (3 left, hub done).
-- **Highest leverage to OPEN next:** Balcony **P2 Furniture** (entire money pillar untouched; swing chairs ~12k) · finish **Balcony Garden** (hanging plants, veg/herb, railing planters, vertical) · Patio **P5 Covered**.
+- **Highest leverage to OPEN next:** Balcony **P2 Furniture** (entire money pillar untouched; swing chairs ~12k) · Balcony **P3 Privacy** (curtains 10k $, shade 7k $) · Patio **P5 Covered**.
 - **Recommended sequence:** open Balcony Furniture money pillar (`/keyword-cluster`) → finish Garden children → Privacy children (curtains/shade) → Flooring/Lighting children → Patio near-done pillars → Seasonal.
 
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-28 (latest+2)** — **Balcony Garden pillar COMPLETED (10/10) — wrote the 4 remaining children (Recs 163–166).** Via parallel content-writer → editor-qa pipelines: **balcony-hanging-plants** (7.5k, ~2,000w), **balcony-vegetable-garden** (5.7k, ~2,630w, YMYL edibles), **$ balcony-railing-planters** (5.9k buyer, ~2,400w, 6 distinct best-for picks), **vertical-balcony-garden** (~2,390w). All editor-qa PASS → Ready; all cross-link each other + the hub. **YMYL gate earned its keep:** editor-qa caught + fixed a wrong ASPCA claim (pepper foliage — the ASPCA "Ornamental Pepper" is *Solanum pseudocapsicum* / Jerusalem cherry, NOT edible *Capsicum*) → rewritten to a nightshade hedge; every plant claim across the 4 posts verified against ASPCA. Logged 4 Content rows (51-field verified). **Now 29 posts Ready.** Two biggest pillars (P1 Decor 9/9, P4 Garden 10/10) done.
+  - **▶ RESUME NEXT:** open the **Balcony Furniture money pillar** (`/keyword-cluster`, 0/7 — swing chairs ~12k buyer, highest leverage) or **Balcony Privacy** (curtains 10k $, shade 7k $). Then `/make-pins` for the 4 new garden posts (PB-026+). Owner pre-publish on all 29 Ready: SEO title, [PERSONAL TIP], [YOUR PHOTO]s, real {{AMAZON_TAG}} links. Next tracker Record ID **167**.
 - **2026-06-28 (latest+1)** — **WordPress + boards LIVE (owner) + patio Phase-1 pins (PB-020 → PB-024, +25 pins → 120 total).** Owner completed the WordPress install and created the fed pillar boards. Built 5 patio batches via parallel `pinterest-strategist` agents (ground-level patio perspective, single-pillar-board, Path B, 5 distinct archetypes each, YMYL ASPCA-aligned on the 2 garden batches): **PB-020 patio-garden-ideas** (63k hub) + **PB-021 small-patio-garden** → **Patio Garden Ideas** board (dream-vs-build pair); **PB-022 small-patio-decorating-ideas** → **Small Patio Ideas** board (decor lane vs PB-008 hub); **PB-023 diy-patio-furniture** → **Patio Furniture Ideas** board (DIY lane vs PB-009 buyer); **PB-024 patio-privacy-ideas** → **Patio Privacy Ideas** board OFF ZERO. Logged 25 `Pin` rows (Rec 133–157, 51-field verified), stamped `pin_batch_id`, scheduled **2026-09-29 → 10-23**. **Phase-1 pins now cover every written post except `apartment-balcony-decorating`** (only remaining gap).
   - **Homepage designed (`homepage.md`).** After a brainstorm (decisions: AI golden-hour hero + cream band, hubs-first CTAs, no email band yet, sections = two space cards + Start-here + browse-by-pillar grid + About teaser + Latest grid), wrote a full paste-ready Kadence block-by-block build guide (free stack only: Kadence theme + Kadence Blocks free + core Query Loop). Pairs with `Growth Strategy/kadence-theme-spec.md`. Includes exact block settings, brand-voice copy, 4 AI image prompts, apply-order + a11y floor.
   - **Phase-1 pins CLOSED.** `/make-pins apartment-balcony-decorating` → **PB-025** (Rec 158–162, board Small Balcony Ideas, scheduled 2026-10-24 → 10-28). **Every written post now has a pin batch.** Tracker: **125 pins / 162 records**.
