@@ -95,12 +95,12 @@
 - ✓ Apartment Balcony Garden (26k) — Rec 77 · ✓ Balcony Flowers ⚠ (24k) — Rec 78 · ✓ Balcony Hanging Plants ⚠ (7.5k) — Rec 163
 - ✓ Balcony Vegetable Garden ⚠ (5.7k) — Rec 164 · ✓ $ Balcony Railing Planters (buyer, 5.9k) — Rec 165 · ✓ Vertical Balcony Garden ⚠ — Rec 166
 
-**B-P5 · Flooring** — 1/3
-- ✓ Balcony Flooring Ideas (hub, ~20k) — Rec 81 · ☐ Balcony Deck Tiles · ☐ $ Outdoor Rugs for Balconies
+**B-P5 · Flooring** — 3/3 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
+- ✓ Balcony Flooring Ideas (hub, ~20k) — Rec 81 · ✓ $ Balcony Deck Tiles — Rec 240 · ✓ $ Outdoor Rugs for Balconies — Rec 241
 
-**B-P6 · Lighting** — 1/4
-- ✓ Balcony Lighting Ideas → "balcony lights" (hub, 13k) — Rec 82 (idea Rec 13 = future child "small balcony lighting ideas")
-- ☐ $ Balcony Fairy / String Light Ideas (~5k) · ☐ Hanging / Ceiling Balcony Lights (SV 3,780) · ☐ Balcony Christmas Lights (seasonal, SV 2,616)
+**B-P6 · Lighting** — 4/4 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
+- ✓ Balcony Lighting Ideas → "balcony lights" (hub, 13k) — Rec 82
+- ✓ $ Balcony Fairy / String Lights (~5k) — Rec 242 · ✓ $ Balcony Ceiling / Hanging Lights (3,780) — Rec 243 · ✓ Balcony Christmas Lights (seasonal, 2,616) — Rec 244
 
 **Balcony seasonal (cross-cutting)** — ◐ Cozy Winter (Rec 14) · ◐ Fall Decor (Rec 15) · ◐ Year-Round (Rec 16) · ☐ Balcony Christmas Decor (SV 9,398)
 
@@ -131,16 +131,18 @@
 - ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
 
 ### Totals & suggested order
-- **Written: 47 Ready** (was 41; +6 how-to/informational layer 2026-06-28: Recs 234–239). **Remaining to fill all pillars: ~20 posts** (+ more how-to candidates queued).
+- **Written: 52 Ready** (was 47; +5 Flooring/Lighting children 2026-06-28: Recs 240–244). **🎉 THE ENTIRE BALCONY SPACE IS COMPLETE — all 6 balcony pillars done (P1 Decor 9/9, P2 Furniture 7/7, P3 Privacy 6/6, P4 Garden 10/10, P5 Flooring 3/3, P6 Lighting 4/4).** Remaining work is the **Patio space** (open pillars) + the queued how-to candidates.
 - **🆕 HOW-TO / INFORMATIONAL LAYER STARTED** (owner-flagged gap, now backed by data — owner supplied `how-to-balcony/patio-interests.csv`; analysis: `keyword Research/how-to-cluster-2026-06-28.md`). Wrote the top 6, slotted into pillars: **how-to-get-rid-of-flies-on-patio** (8.4k!) · how-to-clean-concrete-patio (1.7k) · how-to-paint-concrete-patio (2k) · how-to-hang-patio-lights (1.3k) · how-to-clean-patio-furniture (920) · how-to-cover-balcony-railing-for-privacy (520). **Queued next** (see cluster doc): arrange-patio-furniture, fix/restore-patio-furniture, hide-eyesores (grill/AC), arrange-potted-plants, keep-birds-off-balcony. **Skipped** off-brand hardscaping (pour concrete, lay pavers, build patio) + "how to draw a balcony".
-- **PILLARS DONE (4):** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** · ✅ **Balcony P2 Furniture (7/7, money)** · ✅ **Balcony P3 Privacy & Shade (6/6, money)**. **The entire BALCONY space is now nearly done — only P5 Flooring (1/3) + P6 Lighting (1/4) children remain.** Patio space still has open pillars.
-- **Closest pillar completions now:** Balcony P5 Flooring (2 left) · Balcony P6 Lighting (3 left) · Patio P2 (2 left) · Patio P1/P3/P4 (3 each).
-- **Highest leverage next:** finish **Balcony Flooring + Lighting** children (small, completes the whole balcony space) · then the near-done **Patio** pillars · or the **informational/how-to layer** (owner-flagged gap — build later).
+- **PILLARS DONE (6 — ALL BALCONY):** ✅ P1 Decor (9/9) · ✅ P2 Furniture (7/7, money) · ✅ P3 Privacy (6/6, money) · ✅ P4 Garden (10/10) · ✅ P5 Flooring (3/3) · ✅ P6 Lighting (4/4). **The Balcony space is fully built.**
+- **Remaining work = PATIO space + how-to layer:** Patio P2 Garden (2 left) · Patio P1 Decor / P3 Furniture / P4 Privacy (3 each) · Patio P5 Covered (3) · Patio P6 Flooring (1); plus the queued how-to candidates.
+- **Highest leverage next:** the near-done **Patio** pillars (P2 Garden is closest) · the queued **how-to** candidates (arrange furniture, hide eyesores, etc.) · or **make pins** for the 16 unpinned posts (5 privacy + 6 how-to + 5 flooring/lighting) · or **publish** (52 Ready + homepage.md).
 - **Recommended sequence:** open Balcony Furniture money pillar (`/keyword-cluster`) → finish Garden children → Privacy children (curtains/shade) → Flooring/Lighting children → Patio near-done pillars → Seasonal.
 
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-28 (latest+7)** — **🎉 ENTIRE BALCONY SPACE COMPLETE (all 6 pillars) → 52 posts Ready.** Wrote the final 5 children (Recs 240–244, all editor-qa PASS → Ready, Amazon-only) to close Flooring + Lighting: **$ balcony-deck-tiles**, **$ outdoor-rugs-for-balconies** (Flooring 3/3); **$ balcony-fairy-lights**, **$ balcony-ceiling-lights**, **balcony-christmas-lights (seasonal)** (Lighting 4/4). Each: 5-6 distinct Amazon picks, electrical/material safety verified (damp-vs-wet rating, GFCI, max strands), disclosure above first link, zero prices, cross-linked siblings + hub. **Every balcony pillar (Decor/Furniture/Privacy/Garden/Flooring/Lighting) is now done.** Remaining = Patio space + queued how-to candidates.
+  - **▶ RESUME NEXT:** big **pin backlog** — 16 posts now need pins (5 privacy + 6 how-to + 5 flooring/lighting), `/make-pins` from **PB-037**. OR build the **Patio space** pillars (P2 Garden closest). OR write queued **how-to** candidates. OR publish (52 Ready + `homepage.md`). Next Record ID **245**.
 - **2026-06-28 (latest+6)** — **How-To / informational layer LAUNCHED (the owner-flagged gap, now data-backed) → 47 posts Ready.** Owner supplied PinClicks how-to exports (`how-to-balcony-interests.csv` ×2 + `how-to-patio-interests.csv`); processed 504 unique how-to terms (Python/csv, real Pinterest SV) → `keyword Research/how-to-cluster-2026-06-28.md`. Key finding: how-to demand is overwhelmingly **PATIO** (owners search maintenance/DIY; balcony renters search decorating) — so the layer doubles as patio depth + Google diversification + seasonality smoothing. Wrote the **top 6** (Recs 234–239, all editor-qa PASS → Ready, Amazon-only), slotted into pillars: **how-to-get-rid-of-flies-on-patio (8,408 — biggest how-to term)**, how-to-clean-concrete-patio, how-to-paint-concrete-patio, how-to-hang-patio-lights, how-to-clean-patio-furniture, how-to-cover-balcony-railing-for-privacy. Flies post YMYL fully ASPCA-verified (lavender/Tagetes-marigold/scented-geranium/lemongrass toxic; basil/rosemary/lemon-balm safe). Each: light Amazon monetization, disclosure above first link, zero prices, cross-links its pillar's ideas/money posts. **Skipped** off-brand hardscaping + "how to draw a balcony"; flagged "how to decorate balcony/patio" to optimize on EXISTING posts (no cannibalization).
   - **▶ RESUME NEXT:** `/make-pins` for the 5 privacy posts (PB-037+) AND the 6 how-to posts; write the **queued how-to candidates** (arrange furniture, fix furniture, hide eyesores, arrange potted plants, keep birds off); finish Balcony Flooring + Lighting children; or publish. Next Record ID **240**; pins continue **PB-037**.
 - **2026-06-28 (latest+5)** — **Balcony Privacy & Shade money pillar COMPLETED (6/6) → 41 posts Ready; 4 pillars done.** Wrote the 5 remaining children via parallel content-writer → editor-qa pipelines (Recs 229–233, all PASS → Ready, all **Amazon-only**): **$ balcony-curtain-ideas** (10.4k), **$ balcony-shade-ideas** (7.3k, wind-load hedge), **balcony-privacy-screens** (5.1k buy+DIY), **$ balcony-blinds** (2.9k), **balcony-trellis-ideas** (2.4k, YMYL — editor-qa verified star jasmine *Trachelospermum* SAFE vs Carolina jasmine *Gelsemium* TOXIC, correctly distinguished). Each money post: 6 distinct best-for picks, disclosure above first affiliate, zero prices. **The whole Balcony space is now nearly complete** (P1 Decor, P2 Furniture, P3 Privacy, P4 Garden all done; only Flooring + Lighting children remain). Owner chose this over the how-to layer; how-to layer parked for later.
