@@ -69,6 +69,7 @@ states the rules every agent and command must obey.
 
 ## Conventions
 - **Tokens:** the brand-name and domain tokens were resolved to **Bloom & Lantern** / `https://bloomandlantern.com` on 2026-06-27 (repo-wide find-replace). `{{AMAZON_TAG}}` is still a placeholder — never hard-code a real value until I provide it. Affiliate anchors stay as `{{AMAZON_TAG}}#affiliate` until real tagged links exist.
+- **Affiliate network: AMAZON ASSOCIATES ONLY** *(owner directive 2026-06-28).* Every affiliate link points to Amazon via `{{AMAZON_TAG}}#affiliate`. Do NOT introduce any other network (Wayfair, Etsy, ShareASale, etc.) or invent anchors like `#wayfair-affiliate` — even for higher-AOV items — until the owner explicitly approves that program. `affiliate_programs` frontmatter = `["amazon"]`.
 - **Files & slugs:** see `guidelines/naming-conventions.md`.
 - **Data intake:** I cannot log into Pinterest Trends / Keyword Planner / GA4 / Search Console / Amazon.
   When real numbers are needed, I produce the structure and you paste exports; I then process them.

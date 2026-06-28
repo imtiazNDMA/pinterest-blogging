@@ -9,7 +9,7 @@ cluster: small-balcony-patio-ideas
 meta_description: "Small balcony makeover before and after: 8 transformations that take a bare or cluttered space from sad to stunning, with the copy-this formula behind each look."
 internal_links: ["small-balcony-patio-ideas", "small-balcony-ideas-on-a-budget", "cozy-small-balcony-ideas", "renter-friendly-balcony-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-004"
 draft_start: 2026-06-26
@@ -167,7 +167,7 @@ Nothing here is on the list just because it fills space.
 
 **Best for the one piece worth spending on: a compact bistro set or space-saving outdoor sofa.** This is your anchor seat from step three, the single line item worth the splurge.
 
-A [compact balcony bistro set or small-space outdoor sofa](#affiliate) (Wayfair) gives you one solid, comfortable seat that defines the zone instead of three wobbly chairs that read as clutter.
+A [compact balcony bistro set or small-space outdoor sofa]({{AMAZON_TAG}}#affiliate) gives you one solid, comfortable seat that defines the zone instead of three wobbly chairs that read as clutter.
 
 Look for a footprint under about three feet wide and a weather-rated frame like powder-coated steel or all-weather wicker, so it lives outside year round.
 

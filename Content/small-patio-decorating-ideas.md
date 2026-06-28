@@ -9,7 +9,7 @@ cluster: "small-patio-decorating-ideas"
 meta_description: "Small patio decorating ideas to style a tiny space on a budget: cozy textiles, string lights, color, vertical decor, and accents that make it feel finished."
 internal_links: ["small-patio-ideas", "cozy-patio-ideas-small-spaces", "patio-furniture-ideas", "patio-garden-ideas", "small-patio-flooring-ideas", "patio-privacy-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-022"
 draft_start: 2026-06-27
@@ -150,7 +150,7 @@ Quality fit comes first, and we note the best place to buy each one.
 
 Look for an outdoor rating, fade-resistant color, and a size that tucks the front feet of your seat inside its border without crowding the path.
 
-Browse [weatherproof outdoor rugs (Wayfair)](#wayfair-affiliate) for the larger sizes, and see how a rug compares to tiles in our [small patio flooring ideas](/small-patio-flooring-ideas) guide.
+Browse [weatherproof outdoor rugs]({{AMAZON_TAG}}#affiliate) for the larger sizes, and see how a rug compares to tiles in our [small patio flooring ideas](/small-patio-flooring-ideas) guide.
 
 **Best for warm evening light: string lights and lanterns.** A strand or lantern rated for damp and sun, with bulbs at 2700K or lower, gives the soft glow that makes a patio feel done after dark.
 
@@ -164,7 +164,7 @@ Look for outdoor-rated, fade-resistant fabric and washable or zip-off covers tha
 
 **Best for softness and shade: outdoor curtains.** Performance-fabric panels on a freestanding frame add movement, a sense of enclosure, and a filter for harsh afternoon glare.
 
-Look for an outdoor rating, fade-resistant color, and grommets sized to your rod or frame. Compare [outdoor curtain panels (Wayfair)](#wayfair-affiliate), and if your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](/patio-privacy-ideas) where screening has its own rules.
+Look for an outdoor rating, fade-resistant color, and grommets sized to your rod or frame. Compare [outdoor curtain panels]({{AMAZON_TAG}}#affiliate), and if your real goal is blocking a neighbor's sightline, route that to [patio privacy ideas](/patio-privacy-ideas) where screening has its own rules.
 
 **Best for personality: a lantern, tray, or outdoor mirror.** A few weatherproof accents give the eye places to land. A tray corrals a vignette, and a leaning outdoor mirror stretches a small space and bounces light into a dim corner.
 

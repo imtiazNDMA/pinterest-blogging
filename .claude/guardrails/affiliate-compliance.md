@@ -3,6 +3,10 @@
 **Status: hard rules. Violating these can get the Amazon account terminated or the site de-monetized.**
 Re-verify specifics before relying — programs change. Sources tracked in `.claude/memory.md`.
 
+## Amazon Associates ONLY (owner directive 2026-06-28)
+- The ONLY approved affiliate network right now is **Amazon Associates**. Every affiliate link uses `{{AMAZON_TAG}}#affiliate` and frontmatter `affiliate_programs: ["amazon"]`.
+- Do NOT add or invent any other network (Wayfair, Etsy, ShareASale, Target, etc.) or anchors like `#wayfair-affiliate`, even for higher-ticket items, until the owner explicitly approves that program. Pick the best **Amazon** product instead.
+
 ## FTC disclosure (US)
 - Every post containing affiliate links MUST include a **clear, conspicuous disclosure ABOVE the first
   affiliate link** — not buried in a footer, not only on a separate page.

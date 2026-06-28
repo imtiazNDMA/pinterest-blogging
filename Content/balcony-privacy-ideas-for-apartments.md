@@ -9,7 +9,7 @@ cluster: small-balcony-patio-ideas
 meta_description: "Balcony privacy ideas for apartments: 14 renter-friendly, mostly no-drill ways to block nosy neighbors with screens, curtains, blinds, and privacy plants."
 internal_links: ["small-balcony-patio-ideas", "renter-friendly-balcony-ideas", "small-balcony-ideas-on-a-budget", "cozy-small-balcony-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-006"
 draft_start: 2026-06-26
@@ -125,7 +125,7 @@ Every pick below is renter friendly first.
 
 **Best for instant green coverage with zero upkeep: artificial hedge or faux-ivy panels.** Interlocking faux-hedge panels zip-tie to the railing for a planted look with no watering and no light needs. They read as green from a few feet away year round. Pick UV-rated panels so the leaves do not fade or go brittle, and accept that they look synthetic up close. [Check artificial hedge panels on Amazon](#affiliate?tag={{AMAZON_TAG}}).
 
-**Best for blocking the view from above: a shade sail or cantilever umbrella.** When the problem is upstairs windows, only an overhead piece breaks the line of sight. A shade sail or a tilting cantilever umbrella does it while adding shade in the same move. Both carry real wind load, so anchor a sail only to solid points, weight an umbrella base heavily, and take either down in storms. [Compare shade sails and cantilever umbrellas on Wayfair](#affiliate).
+**Best for blocking the view from above: a shade sail or cantilever umbrella.** When the problem is upstairs windows, only an overhead piece breaks the line of sight. A shade sail or a tilting cantilever umbrella does it while adding shade in the same move. Both carry real wind load, so anchor a sail only to solid points, weight an umbrella base heavily, and take either down in storms. [Compare shade sails and cantilever umbrellas on Amazon]({{AMAZON_TAG}}#affiliate).
 
 **Best for a living screen that grows in: clamp-on rail planters.** Hand-tightened brackets grip the railing with no drilling and hold a row of tall grasses that filter a sightline while still letting light through. Match the clamp to your railing width, and confirm the bracket is rated for the soil weight, since a full planter is heavy. [Shop clamp-on rail planters on Amazon](#affiliate?tag={{AMAZON_TAG}}).
 

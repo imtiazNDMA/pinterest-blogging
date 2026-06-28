@@ -9,7 +9,7 @@ cluster: "balcony-furniture-ideas"
 meta_description: "Balcony sofa ideas for small spaces: 6 compact outdoor couches that actually fit, from a 2-seat loveseat to a modular sectional, daybed, and pallet sofa."
 internal_links: ["balcony-furniture-ideas", "balcony-seating-ideas", "balcony-bench-ideas", "best-balcony-chairs", "cozy-small-balcony-ideas", "apartment-balcony-decorating"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: ""
 draft_start: 2026-06-28
@@ -84,7 +84,7 @@ Add a slim side table for a drink and you have a genuine outdoor living room in 
 
 **The trade-off:** a true loveseat still wants four feet of wall and a fixed spot. If your balcony is narrower, skip down to the armless or bench-style sofa, which fits where a loveseat cannot.
 
-Compare a [compact two-seat outdoor loveseat (Wayfair)](#wayfair-affiliate) and size it to leave a clear walking lane.
+Compare a [compact two-seat outdoor loveseat]({{AMAZON_TAG}}#affiliate) and size it to leave a clear walking lane.
 
 [YOUR PHOTO: hero shot of a compact two-seat loveseat styled in a small balcony corner, cushions and a side table, the walking lane visible past it. Pin angle 1: aspirational compact-loveseat corner hero. Do not fill.]
 
@@ -98,7 +98,7 @@ That flexibility is what earns a sectional its footprint on a small balcony.
 
 **The trade-off:** a sectional is the most space-hungry pick here, so measure twice. It only works on a balcony with a genuine corner to fill, and it crowds the lane on a narrow strip.
 
-See a [small modular outdoor sectional (Wayfair)](#wayfair-affiliate) and map the corner it has to fit before you order.
+See a [small modular outdoor sectional]({{AMAZON_TAG}}#affiliate) and map the corner it has to fit before you order.
 
 [YOUR PHOTO: two-panel image showing a modular sectional in an L-shape for guests, then split into a loveseat-plus-ottoman layout. Pin angle 3: modular sectional configurations. Do not fill.]
 
@@ -136,7 +136,7 @@ It turns a balcony into the spot you actually want to spend Sunday on.
 
 **The trade-off:** a daybed is deeper than a loveseat, so it needs a balcony with room to spare and clear access around it. On a narrow strip it blocks the walking lane, so measure the depth carefully, since the width alone won't tell you whether it fits.
 
-Browse a [compact outdoor daybed (Wayfair)](#wayfair-affiliate) and check the depth against your floor before committing.
+Browse a [compact outdoor daybed]({{AMAZON_TAG}}#affiliate) and check the depth against your floor before committing.
 
 ### Best budget or DIY: a pallet sofa
 

@@ -9,7 +9,7 @@ cluster: "balcony-furniture-ideas"
 meta_description: "Balcony table and chairs that fit a tight space: 6 bistro and dining sets by use case, from folding to railing bar tables, plus how to choose."
 internal_links: ["balcony-furniture-ideas", "best-balcony-chairs", "balcony-seating-ideas", "balcony-bench-ideas", "cozy-small-balcony-ideas", "balcony-lighting-ideas", "small-balcony-patio-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: ""
 draft_start: 2026-06-28

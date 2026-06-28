@@ -9,7 +9,7 @@ cluster: "patio-garden-ideas"
 meta_description: "Patio garden ideas for small spaces: containers, vertical planters, edibles, flowers, and layouts to turn a bare patio into a lush garden, even as a renter."
 internal_links: ["small-patio-ideas", "small-patio-garden", "patio-furniture-ideas", "patio-privacy-ideas", "cozy-patio-ideas-small-spaces", "small-patio-flooring-ideas", "small-patio-ideas-apartment"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-020"
 draft_start: 2026-06-27
@@ -172,11 +172,11 @@ Quality fit comes first, and we note the best place to buy each one.
 
 **Best for the foundation: a few large weatherproof planters.** Big containers hold more soil, dry out slower, and forgive a missed watering, so size up rather than down. Look for glazed ceramic or thick resin that shrugs off sun, a real drainage hole, and a weight your floor and your back can both handle.
 
-Browse [large weatherproof planters (Wayfair)](#wayfair-affiliate) for the statement pots. Set them on feet so they do not trap a wet ring, which our [patio flooring guide](/small-patio-flooring-ideas) covers. For the full container setup, see [growing a small patio garden in containers](/small-patio-garden).
+Browse [large weatherproof planters]({{AMAZON_TAG}}#affiliate) for the statement pots. Set them on feet so they do not trap a wet ring, which our [patio flooring guide](/small-patio-flooring-ideas) covers. For the full container setup, see [growing a small patio garden in containers](/small-patio-garden).
 
 **Best for growing food: a raised bed or standing grow box.** A deep raised bed or standing grow box gives roots the room edibles want and saves your back at working height. Choose rot-resistant material, drainage slots or a liner, and a depth that matches what you plan to grow.
 
-Compare [raised garden beds (Wayfair)](#wayfair-affiliate), then let [the container garden guide](/small-patio-garden) handle soil and planting order.
+Compare [raised garden beds]({{AMAZON_TAG}}#affiliate), then let [the container garden guide](/small-patio-garden) handle soil and planting order.
 
 **Best for going vertical: a wall planter or freestanding trellis.** When floor space runs out, a felt pocket panel, a row of wall pots, or a trellis weighted into a heavy pot grows more in the same footprint. Pick a no-drill freestanding frame if you rent, and confirm any wall can take the load before you fix anything.
 

@@ -9,7 +9,7 @@ cluster: "small-balcony-patio-ideas"
 meta_description: "Small balcony ideas for apartments: 30 ways to style a tiny outdoor space with seating, lighting, privacy, plants, and budget-friendly, renter-safe touches."
 internal_links: ["cozy-small-balcony-ideas", "small-balcony-ideas-on-a-budget", "renter-friendly-balcony-ideas", "small-balcony-makeover-before-and-after", "balcony-privacy-ideas-for-apartments"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-005"
 draft_start: 2026-06-26

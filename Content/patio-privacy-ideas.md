@@ -9,7 +9,7 @@ cluster: "small-patio-ideas"
 meta_description: "Patio privacy ideas to feel hidden on a ground-level patio: freestanding screens, outdoor curtains, privacy plants, lattice, walls and pergolas, renter to DIY."
 internal_links: ["small-patio-ideas", "patio-privacy-screen", "balcony-privacy-ideas-for-apartments", "patio-garden-ideas", "patio-furniture-ideas", "small-patio-decorating-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-024"
 draft_start: 2026-06-27
@@ -130,7 +130,7 @@ A few privacy pieces are worth buying purpose-made rather than improvising, beca
 
 Whatever you are screening, weigh a buy against three things: how much of the sightline it blocks, whether it goes up without drilling, and how well it survives weather and wind. Here is what separates a solid version of each from a flimsy one, and the best place to look for it.
 
-**Best for blocking one bad angle: a freestanding privacy screen or panel.** Look for a stable, weightable base and a weather-rated material that keeps its shape, so the panel stays upright when the wind picks up. For a wider run that screens a whole seating zone, compare a [freestanding multi-panel privacy screen (Wayfair)](#wayfair-affiliate); for a single panel to hide one sightline, look at a [freestanding privacy screen]({{AMAZON_TAG}}#affiliate). Either way, weight or anchor the base and follow the maker's wind guidance, as the body covers.
+**Best for blocking one bad angle: a freestanding privacy screen or panel.** Look for a stable, weightable base and a weather-rated material that keeps its shape, so the panel stays upright when the wind picks up. For a wider run that screens a whole seating zone, compare a [freestanding multi-panel privacy screen]({{AMAZON_TAG}}#affiliate); for a single panel to hide one sightline, look at a [freestanding privacy screen]({{AMAZON_TAG}}#affiliate). Either way, weight or anchor the base and follow the maker's wind guidance, as the body covers.
 
 **Best for a soft, movable screen: outdoor curtains.** Look for solution-dyed or performance outdoor fabric that resists fading and dries fast, with grommets and a rod or frame sized to the span so it does not sag or billow. Browse [outdoor-rated curtain panels]({{AMAZON_TAG}}#affiliate) and clip or weight the hems on a breezy slab.
 
@@ -138,7 +138,7 @@ Whatever you are screening, weigh a buy against three things: how much of the si
 
 **Best for a half-open front screen: a lattice or trellis panel.** Look for a weave tight enough to screen on its own, or an open one you pair with a climber, set in a base heavy enough to stand without drilling. Compare a [freestanding lattice or trellis panel]({{AMAZON_TAG}}#affiliate) and train a vine up it if you want fuller cover.
 
-**Best for the view from above: a shade sail or pergola.** Look for rated hardware, a clear span limit, and anchoring guidance you can actually meet on your slab, since overhead cover carries serious wind and snow load. For a pergola or larger overhead structure, compare a [patio pergola or louvered cover (Wayfair)](#wayfair-affiliate); for a lighter fix, look at an [outdoor shade sail]({{AMAZON_TAG}}#affiliate). Defer to the manufacturer's installation limits and check whether a permit applies before you anchor anything.
+**Best for the view from above: a shade sail or pergola.** Look for rated hardware, a clear span limit, and anchoring guidance you can actually meet on your slab, since overhead cover carries serious wind and snow load. For a pergola or larger overhead structure, compare a [patio pergola or louvered cover]({{AMAZON_TAG}}#affiliate); for a lighter fix, look at an [outdoor shade sail]({{AMAZON_TAG}}#affiliate). Defer to the manufacturer's installation limits and check whether a permit applies before you anchor anything.
 
 For the full, tailored picks across all of these, see our guide to [the best patio privacy screens to buy or build](/patio-privacy-screen). If you would rather grow your screen, our [privacy plants for a patio garden](/patio-garden-ideas) guide covers the plant choices and care.
 

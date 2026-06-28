@@ -9,7 +9,7 @@ cluster: "patio-garden-ideas"
 meta_description: "Small patio garden, step by step: plan by light, pick the right containers, choose what to grow, and arrange for a lush look that thrives in a tight space."
 internal_links: ["patio-garden-ideas", "small-patio-ideas", "patio-furniture-ideas", "cozy-patio-ideas-small-spaces", "small-patio-flooring-ideas", "patio-privacy-ideas"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-021"
 draft_start: 2026-06-27
@@ -149,11 +149,11 @@ Quality fit comes first, and we note the best place to buy each one.
 
 Look for glazed ceramic or thick resin that shrugs off sun, a real drainage hole, and a weight your floor and your back can both handle.
 
-Browse [large weatherproof planters (Wayfair)](#wayfair-affiliate) and set them on feet so they do not trap a wet ring, which our [patio flooring guide](/small-patio-flooring-ideas) covers.
+Browse [large weatherproof planters]({{AMAZON_TAG}}#affiliate) and set them on feet so they do not trap a wet ring, which our [patio flooring guide](/small-patio-flooring-ideas) covers.
 
 **Best for growing food: a raised bed or elevated planter.** A deep raised bed or a standing grow box gives roots the room edibles want and saves your back at working height.
 
-Choose rot-resistant material, drainage slots or a liner, and a depth matched to what you plan to grow. Compare [raised garden beds and elevated planters (Wayfair)](#wayfair-affiliate).
+Choose rot-resistant material, drainage slots or a liner, and a depth matched to what you plan to grow. Compare [raised garden beds and elevated planters]({{AMAZON_TAG}}#affiliate).
 
 **Best for forgiveness on a hot slab: quality potting mix and self-watering inserts.** A light, fast-draining container mix beats dense garden soil every time, and self-watering inserts stretch the gap between waterings on an exposed patio.
 

@@ -9,7 +9,7 @@ cluster: "small-patio-ideas"
 meta_description: "Patio furniture ideas for small spaces: the best compact seating, bistro sets, sectionals, and materials for a tight patio, plus a buying checklist."
 internal_links: ["small-patio-ideas", "diy-patio-furniture", "small-patio-flooring-ideas", "patio-privacy-ideas", "cozy-patio-ideas-small-spaces", "small-patio-ideas-apartment"]
 monetized: true
-affiliate_programs: ["amazon", "wayfair"]
+affiliate_programs: ["amazon"]
 status: ready
 pin_batch_id: "PB-009"
 draft_start: 2026-06-27
@@ -98,7 +98,7 @@ Paired with a slim side table for drinks, it sets the scale for the whole patio 
 
 **The trade-off:** a true loveseat still needs about four feet of clear wall. If your slab is narrower than that, skip down to the bistro set or the foldable pick, which fit where a sofa cannot.
 
-Compare a [compact outdoor loveseat and side table set (Wayfair)](#wayfair-affiliate) and size it to leave a clear path through.
+Compare a [compact outdoor loveseat and side table set]({{AMAZON_TAG}}#affiliate) and size it to leave a clear path through.
 
 [YOUR PHOTO: hero shot of a compact two-seat loveseat with a slim side table on a small patio, the walking lane clearly visible past it, warm styling. Pin angle 1: aspirational hero with walking lane. Do not fill.]
 
@@ -112,7 +112,7 @@ On a slightly larger slab, a four-seat round dining set does the same job for gu
 
 **The trade-off:** two seats is the realistic ceiling for a true bistro footprint, so it suits couples and solo sitters more than a crowd. Size up to a small dining set only if you have the clearance to pull chairs out.
 
-Browse a [small-space bistro or round dining set (Wayfair)](#wayfair-affiliate) and check the chair pull-out clearance before you commit.
+Browse a [small-space bistro or round dining set]({{AMAZON_TAG}}#affiliate) and check the chair pull-out clearance before you commit.
 
 ### Best for a square corner: a modular outdoor sectional
 
@@ -124,7 +124,7 @@ Because the pieces detach, you can reconfigure it as two armchairs and an ottoma
 
 **The trade-off:** a sectional is the most space-hungry pick here, so measure twice. It only earns its footprint on a slab with a genuine corner to fill; on a narrow strip it crowds the lane.
 
-See a [small modular outdoor sectional (Wayfair)](#wayfair-affiliate) and map the corner it has to fit before ordering.
+See a [small modular outdoor sectional]({{AMAZON_TAG}}#affiliate) and map the corner it has to fit before ordering.
 
 ### Best for hidden storage: a lift-top storage bench
 
