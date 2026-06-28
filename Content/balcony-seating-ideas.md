@@ -11,7 +11,7 @@ internal_links: ["balcony-furniture-ideas", "balcony-bench-ideas", "balcony-sofa
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-033"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---

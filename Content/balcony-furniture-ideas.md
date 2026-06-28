@@ -11,7 +11,7 @@ internal_links: ["balcony-swing-chairs", "best-balcony-chairs", "balcony-seating
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-030"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---

@@ -11,7 +11,7 @@ internal_links: ["balcony-garden-ideas", "best-self-watering-planters-balcony", 
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-028"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---
