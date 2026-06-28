@@ -1,19 +1,35 @@
 ---
 title: "Vertical Balcony Garden: How to Grow Up When the Floor Runs Out"
 slug: vertical-balcony-garden
-primary_keyword: "vertical balcony garden"
-secondary_keywords: ["vertical garden balcony", "vertical garden ideas balcony", "vertical planters for balcony", "living wall balcony", "vertical herb garden balcony", "space saving balcony garden", "grow vertically small balcony"]
+primary_keyword: vertical balcony garden
+secondary_keywords:
+  - vertical garden balcony
+  - vertical garden ideas balcony
+  - vertical planters for balcony
+  - living wall balcony
+  - vertical herb garden balcony
+  - space saving balcony garden
+  - grow vertically small balcony
 search_intent: informational
-pillar: "Balcony gardening how-tos"
-cluster: "balcony-garden-ideas"
+pillar: Balcony gardening how-tos
+cluster: balcony-garden-ideas
 meta_description: "Vertical balcony garden ideas for a tiny ledge: wall pockets, tiered shelves, trellises, and rail planters, plus renter no-drill setups and what to grow up."
-internal_links: ["balcony-garden-ideas", "small-balcony-garden", "balcony-hanging-plants", "balcony-railing-planters", "balcony-vegetable-garden", "best-balcony-plants", "small-balcony-patio-ideas"]
+internal_links:
+  - balcony-garden-ideas
+  - small-balcony-garden
+  - balcony-hanging-plants
+  - balcony-railing-planters
+  - balcony-vegetable-garden
+  - best-balcony-plants
+  - small-balcony-patio-ideas
 monetized: true
-affiliate_programs: ["amazon"]
+affiliate_programs:
+  - amazon
 status: ready
-pin_batch_id: "PB-029"
+pin_batch_id: PB-029
 draft_start: 2026-06-28
 last_updated: 2026-06-28
+"":
 ---
 
 <!-- SEO TITLE OPTIONS (pick/refine before publish):
