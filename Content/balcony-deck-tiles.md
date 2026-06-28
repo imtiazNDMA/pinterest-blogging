@@ -11,7 +11,7 @@ internal_links: ["balcony-flooring-ideas", "outdoor-rugs-for-balconies", "small-
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-043"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---

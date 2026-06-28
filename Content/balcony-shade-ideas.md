@@ -11,7 +11,7 @@ internal_links: ["balcony-privacy-ideas-for-apartments", "balcony-curtain-ideas"
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-038"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---

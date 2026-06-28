@@ -11,7 +11,7 @@ internal_links: ["small-patio-ideas", "patio-garden-ideas", "patio-privacy-ideas
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-048"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---

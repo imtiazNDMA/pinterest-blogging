@@ -13,7 +13,7 @@ affiliate_programs: ["amazon"]
 status: ready
 draft_start: 2026-06-28
 last_updated: 2026-06-28
-pin_batch_id: ""
+pin_batch_id: "PB-046"
 ---
 
 <!-- SEO TITLE OPTIONS (pick/refine before publish):

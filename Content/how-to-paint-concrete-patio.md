@@ -11,7 +11,7 @@ internal_links: ["how-to-clean-concrete-patio", "small-patio-decorating-ideas", 
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-050"
 draft_start: 2026-06-28
 last_updated: 2026-06-28
 ---
