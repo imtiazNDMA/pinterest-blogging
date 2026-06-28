@@ -106,9 +106,9 @@
 
 ### PATIO SPACE
 
-**P-P1 · Decor & Design** — 3/5 ✓
+**P-P1 · Decor & Design** — 5/5 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
 - ✓ Small Patio Ideas (hub, SV 118,387) — Rec 47 · ✓ Small Patio Decorating (SV 30,228) — Rec 48 · ✓ Apartment/Townhouse Patio Ideas (9,752) — Rec 326
-- ◐ Cozy Patio Ideas Small Spaces (SV 7,821) — Rec 49 · ◐ Modern Patio Design (SV 5,818) — Rec 50 *(both still Idea → write to complete the pillar)*
+- ✓ Cozy Patio Ideas (7,821) — Rec 49 · ✓ Modern Patio Design (5,818) — Rec 50
 
 **P-P2 · Garden & Plants** ⚠ — 4/4 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
 - ✓ Patio Garden Ideas (hub, SV 63,325) — Rec 52 · ✓ Small Patio Garden (SV 32,058) — Rec 53
@@ -118,19 +118,19 @@
 - ✓ Best Patio Furniture for Small Spaces (hub $, SV 30,239) — Rec 54 · ✓ DIY Patio Furniture (~31k) — Rec 55
 - ✓ $ Best Wicker / Wrought-Iron Patio Furniture (6,075/5,258) — Rec 327 · ✓ Patio Furniture Layout how-to (13,489) — Rec 325 · ☐ Patio Furniture Makeover DIY (~3,300)
 
-**P-P4 · Privacy & Shade** — 1/4 ✓
+**P-P4 · Privacy & Shade** — 4/4 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
 - ✓ Patio Privacy Ideas (hub, SV 18,504) — Rec 56
-- ◐ DIY Patio Privacy Screens: Buy or Build (SV 7,215) — Rec 57 · ☐ DIY Patio Privacy Wall (SV 4,656) · ☐ $ Privacy Planters for Patios (buyer, SV 3,425)
+- ✓ Patio Privacy Screens buy+DIY (7,215) — Rec 57 · ✓ Patio Privacy Wall (4,656) — Rec 330 · ✓ $ Privacy Planters for Patios (3,425) — Rec 331
 
 **P-P5 · Covered / Structure** — 0/3
 - ◐ Covered Patio Ideas for Small Spaces (SV 4,500) — Rec 51 · ☐ Small Enclosed Patio Ideas (SV 718)
 - ☐ Rooftop Patio Design (hub SV 82,990; ⚠ intent skews big-build — target small/covered long-tail first)
 
-**P-P6 · Flooring & Hardscape** — 0/1 (low priority)
-- ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
+**P-P6 · Flooring & Hardscape** — 1/1 ✓ **PILLAR COMPLETE** (finished 2026-06-28)
+- ✓ Small Patio Flooring Ideas (8-surface comparison, SV 15,400) — Rec 332
 
 ### Totals & suggested order
-- **Written: 57 Ready** (was 52; +5 patio posts 2026-06-28: Recs 325–329). **🎉 ALL 6 BALCONY PILLARS COMPLETE** (P1 Decor 9/9, P2 Furniture 7/7, P3 Privacy 6/6, P4 Garden 10/10, P5 Flooring 3/3, P6 Lighting 4/4) **+ Patio Garden complete (4/4).** All 57 posts fully pinned except the 5 newest patio (PB-053+).
+- **Written: 63 Ready** (was 57; +6 patio posts 2026-06-28: Recs 49,50,57,330,331,332). **🎉 ALL 6 BALCONY PILLARS COMPLETE + 5 of 6 PATIO PILLARS COMPLETE** (Patio P1 Decor 5/5, P2 Garden 4/4, P4 Privacy 4/4, P6 Flooring 1/1; P3 Furniture 4/5). **Only Patio P5 Covered (0/3) + 1 P3 makeover left in the whole content plan.** 11 newest patio posts need pins (PB-053+).
 - **🆕 HOW-TO / INFORMATIONAL LAYER STARTED** (owner-flagged gap, now backed by data — owner supplied `how-to-balcony/patio-interests.csv`; analysis: `keyword Research/how-to-cluster-2026-06-28.md`). Wrote the top 6, slotted into pillars: **how-to-get-rid-of-flies-on-patio** (8.4k!) · how-to-clean-concrete-patio (1.7k) · how-to-paint-concrete-patio (2k) · how-to-hang-patio-lights (1.3k) · how-to-clean-patio-furniture (920) · how-to-cover-balcony-railing-for-privacy (520). **Queued next** (see cluster doc): arrange-patio-furniture, fix/restore-patio-furniture, hide-eyesores (grill/AC), arrange-potted-plants, keep-birds-off-balcony. **Skipped** off-brand hardscaping (pour concrete, lay pavers, build patio) + "how to draw a balcony".
 - **PILLARS DONE (6 — ALL BALCONY):** ✅ P1 Decor (9/9) · ✅ P2 Furniture (7/7, money) · ✅ P3 Privacy (6/6, money) · ✅ P4 Garden (10/10) · ✅ P5 Flooring (3/3) · ✅ P6 Lighting (4/4). **The Balcony space is fully built.**
 - **Remaining work = PATIO space + how-to layer:** ✅ Patio P2 Garden DONE (4/4). Left: Patio P1 Decor (2: cozy◐/modern◐) · P3 Furniture (1: makeover) · P4 Privacy (3) · P5 Covered (3) · P6 Flooring (1); plus queued how-to candidates.
@@ -140,6 +140,7 @@
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-28 (latest+10)** — **Patio space nearly finished → 63 posts Ready; 3 more patio pillars COMPLETE (P1 Decor 5/5, P4 Privacy 4/4, P6 Flooring 1/1).** Wrote 6 patio posts via parallel content-writer → editor-qa (Recs 49,50,57 [Idea→Ready, updated in place], + new 330,331,332): **cozy-patio-ideas** (7.8k), **modern-patio-design** (5.8k → completes P1), **patio-privacy-screens** (7.2k buy+DIY), **patio-privacy-wall** (4.7k, permit/wind hedge), **$ privacy-planters-for-patios** (3.4k → completes P4), **small-patio-flooring-ideas** (15.4k, 8-surface comparison → completes P6). YMYL gate caught more: boxwood recommended unflagged (toxic) in modern-patio + maiden grass wrongly claimed non-toxic in privacy-planters (not ASPCA-listed) → both fixed; oleander confirmed highly toxic; /patio-privacy-screen slug corrected. **Whole content plan now: all 6 balcony pillars + 5 of 6 patio pillars done. Only Patio P5 Covered (0/3) + 1 P3 makeover remain.** These 6 + the earlier 5 patio posts (11 total) need pins (PB-053+).
 - **2026-06-28 (latest+9)** — **Patio space build started → 57 posts Ready; Patio Garden pillar COMPLETE (4/4).** Wrote 5 high-leverage patio posts (Recs 325–329, all editor-qa PASS → Ready, Amazon-only): **patio-furniture-layout-ideas** (13.5k — biggest untouched patio term), **apartment-patio-ideas** (9.7k townhouse), **$ best-wicker-patio-furniture** (6k+5.3k, 6 distinct picks), **cottage-garden-patio** (8.2k, YMYL), **apartment-patio-garden** (3.1k, YMYL → completes P2 Garden). YMYL gate caught two errors: sweet-pea wrongly flagged toxic (perennial *Lathyrus* is ASPCA non-toxic) + the recurring pepper-foliage mistake (ASPCA "Ornamental Pepper" = *Solanum*, not edible *Capsicum*) — both fixed. Patio now: P1 Decor 3/5, P2 Garden 4/4 ✓, P3 Furniture 4/5, P4 Privacy 1/4, P5 Covered 0/3, P6 Flooring 0/1. These 5 posts still need pins (PB-053+).
   - **▶ STRATEGIC CHECKPOINT:** the content engine is now very deep (57 Ready posts, all 6 balcony pillars + patio garden done, 260 pins). Diminishing returns on more drafts vs. the real bottleneck = **going live** (owner inputs: images, Amazon tag, WordPress publish). Next: build a **launch/publish roadmap** (prioritized go-live sequence), OR keep filling patio pillars (cozy/modern patio complete P1; wicker makeover; patio privacy wall/planters; covered patio), OR `/make-pins` the 5 new patio posts. Next Record ID **330**; pins **PB-053**.
 - **2026-06-28 (latest+8)** — **PIN BACKLOG CLEARED — every Ready post now has a pin batch (PB-037→052, +80 pins → 260 total).** Built 16 fresh-pin batches (2 waves of 8) via parallel pinterest-strategist agents for the 5 privacy + cover-railing how-to + 2 flooring → Balcony Privacy/Flooring boards; 3 lighting → Balcony Lighting board; 4 patio how-tos → Small Patio Ideas board; clean-furniture → Patio Furniture board. Logged 80 Pin rows (Rec 245–324, 51-field verified), stamped `pin_batch_id`. **0 unpinned posts remain.** ⚠ **PB-047 (balcony-christmas-lights) is SEASONAL** — its placeholder dates are Feb 2027; owner must re-time those 5 pins to publish Sept–Nov. (Note: pin schedule now runs to 2027-03-12 as spaced placeholders; owner compresses to a realistic cadence once the site is live + boards exist.)
