@@ -11,7 +11,7 @@ internal_links: ["small-patio-ideas", "patio-privacy-screen", "balcony-privacy-i
 monetized: true
 affiliate_programs: ["amazon", "wayfair"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-024"
 draft_start: 2026-06-27
 last_updated: 2026-06-27
 ---

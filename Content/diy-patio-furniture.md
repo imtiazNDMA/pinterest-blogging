@@ -11,7 +11,7 @@ internal_links: ["patio-furniture-ideas", "small-patio-ideas", "small-patio-deco
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-023"
 draft_start: 2026-06-27
 last_updated: 2026-06-27
 ---

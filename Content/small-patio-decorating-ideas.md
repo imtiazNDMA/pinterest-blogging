@@ -11,7 +11,7 @@ internal_links: ["small-patio-ideas", "cozy-patio-ideas-small-spaces", "patio-fu
 monetized: true
 affiliate_programs: ["amazon", "wayfair"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-022"
 draft_start: 2026-06-27
 last_updated: 2026-06-27
 ---
