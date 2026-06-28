@@ -84,10 +84,10 @@
 - ✓ $ Balcony Bench (3.5k) — Rec 172 · ✓ $ Balcony Table & Chairs / bistro (3.1k) — Rec 173 (railing-load hedge)
 - Cluster doc + briefs: `keyword Research/balcony-furniture-cluster-2026-06-28.md`.
 
-**B-P3 · Privacy & Shade** — 1/6 ✓
-- ✓ Balcony Privacy Ideas (hub, SV 20,364) — Rec 12
-- ☐ **$ Balcony Curtain Ideas** (SV 10,357) · ☐ $ Balcony Shade Ideas (SV 7,258) · ☐ Balcony Privacy Screens DIY+buy (SV 5,108)
-- ☐ Balcony Blinds (SV 2,900) · ☐ Balcony Pergola / Trellis (SV 2,245/2,437)
+**B-P3 · Privacy & Shade** — 6/6 ✓ **PILLAR COMPLETE** (money pillar, finished 2026-06-28)
+- ✓ Balcony Privacy Ideas (hub, 20,364) — Rec 12
+- ✓ **$ Balcony Curtain Ideas** (10,357) — Rec 229 · ✓ $ Balcony Shade Ideas (7,258) — Rec 230 · ✓ Balcony Privacy Screens buy+DIY (5,108) — Rec 231
+- ✓ $ Balcony Blinds (2,900) — Rec 232 · ✓ Balcony Trellis / Pergola (2,437) — Rec 233 (YMYL: star vs Carolina jasmine verified)
 
 **B-P4 · Garden & Plants** ⚠ — 10/10 ✓ **PILLAR COMPLETE** (the big engine; hub 138k = biggest single volume on the site)
 - ✓ $ Best Self-Watering Planters for Balconies — Rec 4
@@ -131,15 +131,17 @@
 - ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
 
 ### Totals & suggested order
-- **Written: 36 Ready** (was 29; +7 furniture pillar 2026-06-28: Recs 167–173). **Remaining to fill all pillars: ~25 posts.**
-- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** · ✅ **Balcony P2 Furniture (7/7, money)** — three pillars complete (the two biggest volume + the money pillar). Flooring + Lighting hubs opened (1 each).
-- **Closest pillar completions now:** Patio P2 (2 left) · Patio P1/P3/P4 (3 each) · Balcony P6 Lighting (3 left, hub done).
-- **Highest leverage to OPEN next:** Balcony **P3 Privacy** (curtains 10k $, shade 7k $, money) · finish near-done **Patio** pillars · Balcony **P5 Flooring** / **P6 Lighting** children.
+- **Written: 41 Ready** (was 36; +5 Privacy pillar 2026-06-28: Recs 229–233). **Remaining to fill all pillars: ~20 posts.**
+- **PILLARS DONE (4):** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** · ✅ **Balcony P2 Furniture (7/7, money)** · ✅ **Balcony P3 Privacy & Shade (6/6, money)**. **The entire BALCONY space is now nearly done — only P5 Flooring (1/3) + P6 Lighting (1/4) children remain.** Patio space still has open pillars.
+- **Closest pillar completions now:** Balcony P5 Flooring (2 left) · Balcony P6 Lighting (3 left) · Patio P2 (2 left) · Patio P1/P3/P4 (3 each).
+- **Highest leverage next:** finish **Balcony Flooring + Lighting** children (small, completes the whole balcony space) · then the near-done **Patio** pillars · or the **informational/how-to layer** (owner-flagged gap — build later).
 - **Recommended sequence:** open Balcony Furniture money pillar (`/keyword-cluster`) → finish Garden children → Privacy children (curtains/shade) → Flooring/Lighting children → Patio near-done pillars → Seasonal.
 
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-28 (latest+5)** — **Balcony Privacy & Shade money pillar COMPLETED (6/6) → 41 posts Ready; 4 pillars done.** Wrote the 5 remaining children via parallel content-writer → editor-qa pipelines (Recs 229–233, all PASS → Ready, all **Amazon-only**): **$ balcony-curtain-ideas** (10.4k), **$ balcony-shade-ideas** (7.3k, wind-load hedge), **balcony-privacy-screens** (5.1k buy+DIY), **$ balcony-blinds** (2.9k), **balcony-trellis-ideas** (2.4k, YMYL — editor-qa verified star jasmine *Trachelospermum* SAFE vs Carolina jasmine *Gelsemium* TOXIC, correctly distinguished). Each money post: 6 distinct best-for picks, disclosure above first affiliate, zero prices. **The whole Balcony space is now nearly complete** (P1 Decor, P2 Furniture, P3 Privacy, P4 Garden all done; only Flooring + Lighting children remain). Owner chose this over the how-to layer; how-to layer parked for later.
+  - **▶ RESUME NEXT:** `/make-pins` the 5 new privacy posts (PB-037+); then finish **Balcony Flooring** (deck tiles, outdoor rugs) + **Lighting** (fairy/string, hanging/ceiling, christmas) children to fully complete the balcony space; then Patio pillars or the **informational/how-to layer**. Next Record ID **234**; pins continue **PB-037**.
 - **2026-06-28 (latest+4)** — **Amazon-only affiliate enforced + pins for all 11 new posts (PB-026→036, +55 pins → 180 total).** (1) Owner directive: **Amazon Associates ONLY** for now — stripped every Wayfair anchor from 10 posts → `{{AMAZON_TAG}}#affiliate`, cleaned tracker notes, added the hard rule to `.claude/CLAUDE.md` + `guardrails/affiliate-compliance.md` + memory [[feedback-amazon-only-affiliate]]. (2) Built fresh-pin batches for the 4 garden + 7 furniture posts via parallel pinterest-strategist agents: PB-026→029 → **Balcony Garden Ideas** board (now 50 pins); PB-030→036 → **Balcony Furniture Ideas** board OFF ZERO + fully fed (35 pins). Logged 55 Pin rows (Rec 174–228, 51-field verified), stamped `pin_batch_id`, scheduled 2026-10-29 → 12-22. **Every Ready post (36) now has a pin batch.** Tracker: 180 pins / 228 records.
   - **▶ RESUME NEXT:** (open question raised by owner) **add an informational / how-to / question-type layer** — the backlog so far is "ideas" + "money/buyer" pages; we have not built standalone how-to/FAQ articles (e.g. "how much weight can a balcony hold", "how to keep balcony plants alive in wind", "are balconies safe for cats", seasonal "how to winterize a balcony"). These build Google E-E-A-T + smooth seasonality. Decide direction next. Otherwise: finish Balcony Privacy / near-done Patio pillars, or publish. Next Record ID **229**; pins continue **PB-037**.
 - **2026-06-28 (latest+3)** — **Balcony Furniture money pillar OPENED + COMPLETED (7/7) — the highest-leverage pillar.** Ran `/keyword-cluster` (keyword-researcher → `keyword Research/balcony-furniture-cluster-2026-06-28.md`: 7 briefs, anti-cannibalization, distinct buyer picks per post), then wrote all 7 via parallel content-writer → editor-qa pipelines (Recs 167–173, all PASS → Ready): **balcony-furniture-ideas** hub (18.5k), **$ balcony-swing-chairs** (12.7k, top money, load-safety hedge), **$ best-balcony-chairs** (7.8k, hanging chair handoff to swing post), **balcony-seating-ideas** (7.7k, ideas-led spoke routing to buyer siblings), **$ balcony-sofa-ideas** (3.8k), **$ balcony-bench-ideas** (3.5k, owns storage-bench query), **$ balcony-table-and-chairs** (3.1k, railing-load hedge). All money posts: 6 distinct best-for picks, disclosure above first affiliate, zero prices. **Now 36 posts Ready; 3 pillars complete (Decor 9/9 + Garden 10/10 + Furniture 7/7).** ⚠ **Follow-up:** the sofa post (Rec 171) uses `#wayfair-affiliate` anchors — Wayfair is NOT an approved program yet; owner resolves (swap to Amazon or set up Wayfair) before publish.
