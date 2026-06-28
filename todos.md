@@ -77,11 +77,12 @@
 - ✓ Budget — Rec 6 · ✓ Renter decorating — Rec 7 · ✓ Makeover — Rec 8
 - ✓ Modern Balcony Ideas (57k) — Rec 79 · ✓ Balcony Aesthetic (42k) — Rec 80 · ✓ Boho Balcony (16k) — Rec 10
 
-**B-P2 · Furniture & Seating** — 0/7 (whole money pillar OPEN — highest leverage)
-- ☐ Balcony Furniture Ideas (hub, SV 18,490)
-- ☐ **$ Balcony Swing / Hanging Chairs** (SV ~12,697) — biggest furniture money post
-- ☐ Balcony Seating Ideas (SV 7,670) · ☐ $ Best Balcony Chairs (SV 7,817) · ☐ Balcony Sofa (SV 3,789)
-- ☐ Balcony Bench (SV 3,462) · ☐ Balcony Table & Chairs / bistro (SV 3,069)
+**B-P2 · Furniture & Seating** — 7/7 ✓ **PILLAR COMPLETE** (the money pillar — opened + finished 2026-06-28)
+- ✓ Balcony Furniture Ideas (hub, 18.5k) — Rec 167
+- ✓ **$ Balcony Swing / Hanging Chairs** (12.7k) — Rec 168 (biggest furniture money post; load-safety hedge)
+- ✓ Balcony Seating Ideas (7.7k) — Rec 170 · ✓ $ Best Balcony Chairs (7.8k) — Rec 169 · ✓ $ Balcony Sofa (3.8k) — Rec 171 (⚠ Wayfair anchors to resolve)
+- ✓ $ Balcony Bench (3.5k) — Rec 172 · ✓ $ Balcony Table & Chairs / bistro (3.1k) — Rec 173 (railing-load hedge)
+- Cluster doc + briefs: `keyword Research/balcony-furniture-cluster-2026-06-28.md`.
 
 **B-P3 · Privacy & Shade** — 1/6 ✓
 - ✓ Balcony Privacy Ideas (hub, SV 20,364) — Rec 12
@@ -130,15 +131,17 @@
 - ☐ Small Patio Flooring Ideas (pavers/concrete/gravel/brick comparison, hub SV 15,400)
 
 ### Totals & suggested order
-- **Written: 29 Ready** (was 25; +4 garden children 2026-06-28: Recs 163–166). **Remaining to fill all pillars: ~32 posts.**
-- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** — the two biggest pillars complete. Flooring + Lighting hubs opened (1 each).
+- **Written: 36 Ready** (was 29; +7 furniture pillar 2026-06-28: Recs 167–173). **Remaining to fill all pillars: ~25 posts.**
+- **PILLARS DONE:** ✅ **Balcony P1 Decor (9/9)** · ✅ **Balcony P4 Garden (10/10)** · ✅ **Balcony P2 Furniture (7/7, money)** — three pillars complete (the two biggest volume + the money pillar). Flooring + Lighting hubs opened (1 each).
 - **Closest pillar completions now:** Patio P2 (2 left) · Patio P1/P3/P4 (3 each) · Balcony P6 Lighting (3 left, hub done).
-- **Highest leverage to OPEN next:** Balcony **P2 Furniture** (entire money pillar untouched; swing chairs ~12k) · Balcony **P3 Privacy** (curtains 10k $, shade 7k $) · Patio **P5 Covered**.
+- **Highest leverage to OPEN next:** Balcony **P3 Privacy** (curtains 10k $, shade 7k $, money) · finish near-done **Patio** pillars · Balcony **P5 Flooring** / **P6 Lighting** children.
 - **Recommended sequence:** open Balcony Furniture money pillar (`/keyword-cluster`) → finish Garden children → Privacy children (curtains/shade) → Flooring/Lighting children → Patio near-done pillars → Seasonal.
 
 ---
 
 ## 🗺️ Journey log (milestones)
+- **2026-06-28 (latest+3)** — **Balcony Furniture money pillar OPENED + COMPLETED (7/7) — the highest-leverage pillar.** Ran `/keyword-cluster` (keyword-researcher → `keyword Research/balcony-furniture-cluster-2026-06-28.md`: 7 briefs, anti-cannibalization, distinct buyer picks per post), then wrote all 7 via parallel content-writer → editor-qa pipelines (Recs 167–173, all PASS → Ready): **balcony-furniture-ideas** hub (18.5k), **$ balcony-swing-chairs** (12.7k, top money, load-safety hedge), **$ best-balcony-chairs** (7.8k, hanging chair handoff to swing post), **balcony-seating-ideas** (7.7k, ideas-led spoke routing to buyer siblings), **$ balcony-sofa-ideas** (3.8k), **$ balcony-bench-ideas** (3.5k, owns storage-bench query), **$ balcony-table-and-chairs** (3.1k, railing-load hedge). All money posts: 6 distinct best-for picks, disclosure above first affiliate, zero prices. **Now 36 posts Ready; 3 pillars complete (Decor 9/9 + Garden 10/10 + Furniture 7/7).** ⚠ **Follow-up:** the sofa post (Rec 171) uses `#wayfair-affiliate` anchors — Wayfair is NOT an approved program yet; owner resolves (swap to Amazon or set up Wayfair) before publish.
+  - **▶ RESUME NEXT:** `/make-pins` for the 11 new posts (4 garden + 7 furniture; PB-026+) — OR open **Balcony Privacy** money pillar (`/keyword-cluster`; curtains 10k$, shade 7k$) — OR finish near-done Patio pillars. Or owner publishes the 36 Ready posts to WordPress (homepage build from `homepage.md`). Next tracker Record ID **174**.
 - **2026-06-28 (latest+2)** — **Balcony Garden pillar COMPLETED (10/10) — wrote the 4 remaining children (Recs 163–166).** Via parallel content-writer → editor-qa pipelines: **balcony-hanging-plants** (7.5k, ~2,000w), **balcony-vegetable-garden** (5.7k, ~2,630w, YMYL edibles), **$ balcony-railing-planters** (5.9k buyer, ~2,400w, 6 distinct best-for picks), **vertical-balcony-garden** (~2,390w). All editor-qa PASS → Ready; all cross-link each other + the hub. **YMYL gate earned its keep:** editor-qa caught + fixed a wrong ASPCA claim (pepper foliage — the ASPCA "Ornamental Pepper" is *Solanum pseudocapsicum* / Jerusalem cherry, NOT edible *Capsicum*) → rewritten to a nightshade hedge; every plant claim across the 4 posts verified against ASPCA. Logged 4 Content rows (51-field verified). **Now 29 posts Ready.** Two biggest pillars (P1 Decor 9/9, P4 Garden 10/10) done.
   - **▶ RESUME NEXT:** open the **Balcony Furniture money pillar** (`/keyword-cluster`, 0/7 — swing chairs ~12k buyer, highest leverage) or **Balcony Privacy** (curtains 10k $, shade 7k $). Then `/make-pins` for the 4 new garden posts (PB-026+). Owner pre-publish on all 29 Ready: SEO title, [PERSONAL TIP], [YOUR PHOTO]s, real {{AMAZON_TAG}} links. Next tracker Record ID **167**.
 - **2026-06-28 (latest+1)** — **WordPress + boards LIVE (owner) + patio Phase-1 pins (PB-020 → PB-024, +25 pins → 120 total).** Owner completed the WordPress install and created the fed pillar boards. Built 5 patio batches via parallel `pinterest-strategist` agents (ground-level patio perspective, single-pillar-board, Path B, 5 distinct archetypes each, YMYL ASPCA-aligned on the 2 garden batches): **PB-020 patio-garden-ideas** (63k hub) + **PB-021 small-patio-garden** → **Patio Garden Ideas** board (dream-vs-build pair); **PB-022 small-patio-decorating-ideas** → **Small Patio Ideas** board (decor lane vs PB-008 hub); **PB-023 diy-patio-furniture** → **Patio Furniture Ideas** board (DIY lane vs PB-009 buyer); **PB-024 patio-privacy-ideas** → **Patio Privacy Ideas** board OFF ZERO. Logged 25 `Pin` rows (Rec 133–157, 51-field verified), stamped `pin_batch_id`, scheduled **2026-09-29 → 10-23**. **Phase-1 pins now cover every written post except `apartment-balcony-decorating`** (only remaining gap).

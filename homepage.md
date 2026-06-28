@@ -19,21 +19,21 @@
 - **No on-page Pinterest strip** — your Pinterest + socials live in the dusk-blue footer.
 
 ## Palette + type quick-reference (from the theme spec)
-| Token | Hex | Use |
-|---|---|---|
-| Terracotta (accent) | `#C97B5A` | primary buttons, accents |
-| Terracotta dark | `#A85F42` | button hover |
-| Heading | `#2E2B27` | H1–H3 |
-| Body | `#3A3A38` | paragraphs |
-| Muted | `#6B655C` | eyebrows, meta |
-| Border | `#E4D6BF` | hairlines, card borders |
-| Subtle bg | `#EFE3D1` | alt-section background |
-| Base bg (cream) | `#F5EBDD` | page background, hero band |
-| Dusk blue | `#2C3E50` | footer (theme spec) |
-| Sage | `#9CAF88` | Patio card tint |
-| Honey | `#C8A06A` | Balcony card tint |
-| Amber | `#E8B86D` | glow accents |
-| Content surface | `#FFFDF8` | card surfaces |
+| Token               | Hex       | Use                        |
+| ------------------- | --------- | -------------------------- |
+| Terracotta (accent) | `#C97B5A` | primary buttons, accents   |
+| Terracotta dark     | `#A85F42` | button hover               |
+| Heading             | `#2E2B27` | H1–H3                      |
+| Body                | `#3A3A38` | paragraphs                 |
+| Muted               | `#6B655C` | eyebrows, meta             |
+| Border              | `#E4D6BF` | hairlines, card borders    |
+| Subtle bg           | `#EFE3D1` | alt-section background     |
+| Base bg (cream)     | `#F5EBDD` | page background, hero band |
+| Dusk blue           | `#2C3E50` | footer (theme spec)        |
+| Sage                | `#9CAF88` | Patio card tint            |
+| Honey               | `#C8A06A` | Balcony card tint          |
+| Amber               | `#E8B86D` | glow accents               |
+| Content surface     | `#FFFDF8` | card surfaces              |
 
 **Fonts:** Playfair Display (headings) · Montserrat (body, eyebrows, buttons). **Eyebrow style:** Montserrat, UPPERCASE, letter-spacing 0.12em, ~13px, color terracotta-dark `#A85F42`. (The theme spec's Additional CSS already defines an `.eyebrow` class — apply it via the Advanced Heading "Advanced → Additional CSS class" field, or just set those values inline.)
 
