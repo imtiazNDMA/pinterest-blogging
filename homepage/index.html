@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bloom &amp; Lantern — Small Balcony &amp; Patio Styling</title>
+<meta name="description" content="Renter-friendly decor, furniture, privacy, garden, and lighting ideas for small balconies and patios." />
+<link rel="icon" href="../assets/favicon/favicon.png" />
+
+<!--
+  ============================================================================
+  BLOOM & LANTERN — HOMEPAGE ("Golden Hour")
+  Single-file, hand-coded reference build of homepage.md.
+
+  WHY THIS FILE EXISTS
+  - homepage.md describes the page as Kadence blocks (for WordPress).
+  - This file is the SAME page in plain HTML + CSS so you can open it in a
+    browser, see it live, and use it as a 1:1 visual reference while you
+    rebuild it in Kadence.
+  - Each section below is wrapped in a "STEP N" comment that mirrors the
+    SECTION numbers in homepage.md. Build top to bottom.
+
+  HOW TO PREVIEW
+  - Double-click this file (or open it in a browser). No server needed.
+
+  IMAGES
+  - The 4 hero/section images don't exist yet (generate them from
+    Appendix A in homepage.md). Until then each shows a palette-matched
+    placeholder. To drop a real image in, find the `--swap` comment in each
+    section and set `background-image:url('...')` to your uploaded JPG.
+  ============================================================================
+-->
+
+<!-- Fonts: Playfair Display (headings) + Montserrat (body/UI) — theme spec §0 -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet" />
+
+<style>
+/* ===========================================================================
+   STEP A — DESIGN TOKENS (palette + type)
+   Lifted from homepage.md's palette table and the theme spec's :root block.
+   One source of truth: change a color here and the whole page follows.
+   =========================================================================== */
+:root{
+  /* Palette */
+  --terracotta:#C97B5A;     /* primary buttons, accents          */
+  --terracotta-dark:#A85F42;/* button/link hover, eyebrows        */
+  --heading:#2E2B27;        /* H1–H3                              */
+  --body:#3A3A38;           /* paragraphs                         */
+  --muted:#6B655C;          /* eyebrows, meta                     */
+  --border:#E4D6BF;         /* hairlines, card borders            */
+  --subtle-bg:#EFE3D1;      /* alt-section background (deep cream)*/
+  --cream:#F5EBDD;          /* page background, hero band         */
+  --dusk:#2C3E50;           /* footer                             */
+  --sage:#9CAF88;           /* patio card tint                    */
+  --honey:#C8A06A;          /* balcony card tint                  */
+  --amber:#E8B86D;          /* glow accents                       */
+  --surface:#FFFDF8;        /* card surfaces                      */
+  --btn-text:#FFF8EF;       /* warm cream button label            */
+
+  /* Type */
+  --font-display:"Playfair Display", Georgia, serif;
+  --font-body:"Montserrat", system-ui, -apple-system, sans-serif;
+
+  /* Rhythm */
+  --max:1080px;             /* content max width                  */
+  --radius:10px;
+  --section-pad:80px;       /* desktop vertical padding per section*/
+}
+
+/* ----- Reset / base ----- */
+*,*::before,*::after{ box-sizing:border-box; }
+html{ scroll-behavior:smooth; }
+body{
+  margin:0;
+  font-family:var(--font-body);
+  font-weight:400;
+  font-size:17px;
+  line-height:1.75;
+  color:var(--body);
+  background:var(--cream);
+  -webkit-font-smoothing:antialiased;
+}
+img{ max-width:100%; display:block; }
+a{ color:var(--terracotta-dark); }
+
+h1,h2,h3{ font-family:var(--font-display); color:var(--heading); margin:0 0 .4em; }
+h1{ font-weight:700; font-size:44px; line-height:1.15; letter-spacing:-.01em; }
+h2{ font-weight:700; font-size:32px; line-height:1.2;  letter-spacing:-.005em; }
+h3{ font-weight:600; font-size:24px; line-height:1.3; }
+p{ margin:0 0 1em; }
+
+/* ----- Utilities ----- */
+.container{ width:100%; max-width:var(--max); margin-inline:auto; padding-inline:24px; }
+.section{ padding-block:var(--section-pad); }
+.bg-cream{   background:var(--cream); }
+.bg-surface{ background:var(--surface); }
+.bg-subtle{  background:var(--subtle-bg); }
+
+/* Eyebrow / label (theme spec §8) */
+.eyebrow{
+  font-family:var(--font-body);
+  text-transform:uppercase;
+  letter-spacing:.12em;
+  font-size:.78rem;
+  font-weight:600;
+  color:var(--terracotta-dark);
+  margin:0 0 .5em;
+}
+.section-head{ text-align:center; max-width:680px; margin:0 auto 48px; }
+.section-head p{ color:var(--muted); margin:0; }
+
+/* ----- Buttons (theme spec §5 + amber lantern glow §8) ----- */
+.btn{
+  display:inline-block;
+  font-family:var(--font-body);
+  font-weight:600;
+  font-size:15px;
+  text-transform:uppercase;
+  letter-spacing:.05em;
+  text-decoration:none;
+  padding:14px 28px;
+  border-radius:6px;
+  border:2px solid transparent;
+  cursor:pointer;
+  transition:background-color .2s ease, color .2s ease, box-shadow .25s ease, transform .15s ease;
+}
+.btn--primary{ background:var(--terracotta); color:var(--btn-text); border-color:var(--terracotta); }
+.btn--primary:hover{ background:var(--terracotta-dark); border-color:var(--terracotta-dark); }
+.btn--outline{ background:transparent; color:var(--terracotta-dark); border-color:var(--terracotta-dark); }
+.btn--outline:hover{ background:var(--terracotta); color:var(--btn-text); border-color:var(--terracotta); }
+/* Lantern glow on hover — the signature move */
+.btn:hover{
+  box-shadow:0 6px 22px -6px rgba(201,123,90,.65), 0 0 0 3px rgba(232,184,109,.30);
+  transform:translateY(-1px);
+}
+
+/* ----- Image placeholder (delete once you drop in real JPGs) ----- */
+.ph{
+  position:relative;
+  background:linear-gradient(135deg,#E8B86D 0%, #C97B5A 45%, #2C3E50 100%);
+  color:#fff; display:grid; place-items:center; text-align:center;
+  font-family:var(--font-body); font-size:.72rem; letter-spacing:.04em;
+  text-transform:uppercase; padding:1rem;
+}
+.ph span{ background:rgba(0,0,0,.28); padding:.3em .6em; border-radius:4px; backdrop-filter:blur(2px); }
+
+/* ===========================================================================
+   STEP 0 — HEADER (from theme spec §3: logo left, nav right, sticky, cream)
+   In WordPress this comes from the theme Header settings, not the homepage.
+   Included here so the page reads as a real site.
+   =========================================================================== */
+.site-header{
+  position:sticky; top:0; z-index:50;
+  background:var(--cream);
+  border-bottom:1px solid var(--border);
+}
+.site-header .container{ display:flex; align-items:center; justify-content:space-between; padding-block:14px; }
+.brand{ display:flex; align-items:center; gap:10px; text-decoration:none; }
+.brand img{ height:40px; width:auto; }
+.brand .wordmark{ font-family:var(--font-display); font-weight:700; font-size:24px; color:var(--heading); }
+.nav{ display:flex; gap:26px; align-items:center; }
+.nav a{
+  font-family:var(--font-body); font-weight:500; font-size:15px;
+  color:var(--body); text-decoration:none;
+  position:relative; padding-block:4px;
+}
+.nav a:hover{ color:var(--terracotta); }
+/* amber underline on hover (theme spec §8) */
+.nav a::after{
+  content:""; position:absolute; left:0; bottom:0; height:2px; width:0;
+  background:var(--amber); transition:width .2s ease;
+}
+.nav a:hover::after{ width:100%; }
+.nav-toggle{ display:none; background:none; border:0; cursor:pointer; padding:8px; }
+.nav-toggle span{ display:block; width:24px; height:2px; background:var(--heading); margin:5px 0; }
+
+/* ===========================================================================
+   STEP 1 — HERO (homepage.md SECTION 1)
+   Full-width image, dark gradient over the lower third, cream band bottom-left
+   holding eyebrow + H1 + subhead + 2 buttons.
+   =========================================================================== */
+.hero{
+  position:relative;
+  min-height:75vh;
+  display:flex;
+  align-items:flex-end;        /* content vertical-align: BOTTOM */
+  /* --swap: replace the gradient with your hero JPG (Appendix A1):
+     background-image:url('hero.jpg'); */
+  background:linear-gradient(120deg,#E8B86D 0%, #C8A06A 30%, #C97B5A 60%, #2C3E50 100%);
+  background-size:cover;
+  background-position:center;
+}
+/* Overlay: transparent at top → dusk-blue at bottom, keeps text legible */
+.hero::before{
+  content:""; position:absolute; inset:0;
+  background:linear-gradient(180deg, rgba(44,62,80,0) 35%, rgba(44,62,80,.45) 100%);
+}
+.hero .container{ position:relative; z-index:1; padding-bottom:56px; }
+/* The cream band */
+.hero__band{
+  background:rgba(245,235,221,.94);   /* cream @ 94% */
+  border-radius:var(--radius);
+  padding:32px;
+  max-width:620px;
+  box-shadow:0 10px 30px rgba(0,0,0,.12);
+}
+.hero__band h1{ margin-top:.1em; }
+.hero__band .subhead{ font-size:18px; color:var(--body); margin-bottom:1.4em; }
+.hero__actions{ display:flex; gap:12px; flex-wrap:wrap; }
+
+/* ===========================================================================
+   STEP 2 — START WITH YOUR SPACE (homepage.md SECTION 2)
+   Two big clickable cards: Balcony (honey tint) + Patio (sage tint).
+   The whole card is an <a> = Kadence's "apply link to entire box".
+   =========================================================================== */
+.cards-2{ display:grid; grid-template-columns:1fr 1fr; gap:24px; }
+.space-card{
+  display:block; text-decoration:none; color:inherit;
+  border:1px solid var(--border); border-radius:var(--radius);
+  overflow:hidden;
+  transition:transform .18s ease, box-shadow .25s ease;
+}
+.space-card:hover{ transform:translateY(-2px); box-shadow:0 12px 28px -10px rgba(46,43,39,.28); }
+.space-card .ph{ aspect-ratio:3/2; }
+.space-card .pad{ padding:28px; }
+/* tints */
+.space-card--balcony .pad{ background:rgba(200,160,106,.14); } /* honey 14% */
+.space-card--patio   .pad{ background:rgba(156,175,136,.16); } /* sage 16%  */
+.space-card h3{ margin-bottom:.3em; }
+.space-card p{ color:var(--body); margin-bottom:.8em; }
+.card-link{ font-family:var(--font-body); font-weight:600; color:var(--terracotta-dark); }
+
+/* ===========================================================================
+   STEP 3 — START HERE / CURATED GUIDES (homepage.md SECTION 3)
+   4 cards on surface bg: hub + hub + biggest-volume + money post.
+   =========================================================================== */
+.cards-4{ display:grid; grid-template-columns:repeat(4,1fr); gap:24px; }
+.guide-card{
+  display:block; text-decoration:none; color:inherit;
+  background:var(--surface);
+  border:1px solid var(--border); border-radius:var(--radius);
+  overflow:hidden;
+  transition:transform .18s ease, box-shadow .25s ease;
+}
+.guide-card:hover{ transform:translateY(-2px); box-shadow:0 12px 28px -10px rgba(46,43,39,.28); }
+.guide-card .ph{ aspect-ratio:3/2; }
+.guide-card .pad{ padding:20px; }
+.guide-card h3{ font-size:18px; margin-bottom:.3em; }
+.guide-card p{ font-size:15px; color:var(--muted); margin:0; }
+
+/* ===========================================================================
+   STEP 4 — FIND YOUR PROJECT (homepage.md SECTION 4)
+   6 icon tiles, 3 across x 2 rows on desktop. Inline SVG icons (terracotta).
+   =========================================================================== */
+.tiles-6{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px; }
+.tile{
+  display:flex; flex-direction:column; align-items:center; text-align:center;
+  text-decoration:none; color:inherit;
+  background:var(--surface);
+  border:1px solid var(--border); border-radius:var(--radius);
+  padding:28px 24px;
+  transition:transform .18s ease, box-shadow .25s ease;
+}
+.tile:hover{ transform:translateY(-2px); box-shadow:0 12px 28px -10px rgba(46,43,39,.28); }
+.tile svg{ width:36px; height:36px; color:var(--terracotta); margin-bottom:14px; transition:color .2s ease; }
+.tile:hover svg{ color:var(--terracotta-dark); }
+.tile .label{ font-family:var(--font-body); font-weight:600; font-size:16px; color:var(--heading); }
+
+/* ===========================================================================
+   STEP 5 — ABOUT TEASER (homepage.md SECTION 5)
+   2 columns (~45% image / 55% text) on deeper-cream bg.
+   =========================================================================== */
+.about{ display:grid; grid-template-columns:45% 1fr; gap:40px; align-items:center; }
+.about .ph{ aspect-ratio:4/3; border-radius:var(--radius); }
+.about h2{ margin-bottom:.4em; }
+.about p{ color:var(--body); }
+
+/* ===========================================================================
+   STEP 6 — LATEST FROM THE BLOG (homepage.md SECTION 6)
+   Static stand-in for the WordPress Query Loop (3-col grid, newest 6).
+   In WP: core Query Loop, Inherit OFF, Posts, Order by Date, 6 items.
+   =========================================================================== */
+.posts-3{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px 24px; }
+.post-card{
+  display:block; text-decoration:none; color:inherit;
+  background:var(--surface);
+  border:1px solid var(--border); border-radius:var(--radius);
+  overflow:hidden;
+  transition:transform .18s ease, box-shadow .25s ease;
+}
+.post-card:hover{ transform:translateY(-2px); box-shadow:0 12px 28px -10px rgba(46,43,39,.28); }
+.post-card .ph{ aspect-ratio:3/2; }
+.post-card .pad{ padding:16px 18px 20px; }
+.post-card .cat{
+  font-family:var(--font-body); font-weight:600; text-transform:uppercase;
+  letter-spacing:.06em; font-size:12px; color:var(--terracotta-dark);
+}
+.post-card h3{ font-size:20px; margin:.3em 0 0; }
+.center{ text-align:center; margin-top:40px; }
+
+/* ===========================================================================
+   STEP 7 — FOOTER (theme spec §4: dusk-blue, 3 cols + bottom bar)
+   Site-wide in WP; included here to close the page.
+   =========================================================================== */
+.site-footer{ background:var(--dusk); color:var(--cream); padding-block:56px 0; }
+.footer-cols{ display:grid; grid-template-columns:1.4fr 1fr 1fr; gap:40px; }
+.site-footer h4{
+  font-family:var(--font-body); font-weight:600; text-transform:uppercase;
+  letter-spacing:.08em; font-size:.9rem; color:var(--amber); margin:0 0 1em;
+}
+.site-footer .wordmark{ font-family:var(--font-display); font-weight:700; font-size:22px; color:var(--cream); }
+.site-footer p{ color:rgba(245,235,221,.85); font-size:15px; }
+.site-footer ul{ list-style:none; margin:0; padding:0; }
+.site-footer li{ margin-bottom:.6em; }
+.site-footer a{ color:var(--cream); text-decoration:none; transition:color .2s ease; }
+.site-footer a:hover{ color:var(--amber); }
+.footer-bar{
+  margin-top:48px; border-top:1px solid rgba(245,235,221,.18);
+  padding-block:20px; font-size:13px; color:rgba(245,235,221,.7);
+  display:flex; justify-content:space-between; flex-wrap:wrap; gap:12px;
+}
+
+/* ===========================================================================
+   RESPONSIVE — tablet then phone (homepage.md grid rules per section)
+   =========================================================================== */
+@media (max-width:900px){
+  :root{ --section-pad:56px; }
+  h1{ font-size:34px; }
+  h2{ font-size:27px; }
+  .cards-4{ grid-template-columns:1fr 1fr; }     /* 4 → 2 tablet */
+  .posts-3{ grid-template-columns:1fr 1fr; }     /* 3 → 2 tablet */
+  .about{ grid-template-columns:1fr; }           /* image stacks above text */
+  .footer-cols{ grid-template-columns:1fr 1fr; }
+}
+@media (max-width:600px){
+  :root{ --section-pad:48px; }
+  h1{ font-size:28px; }                           /* mobile hero H1 */
+  .nav{ display:none; }
+  .nav-toggle{ display:block; }
+  .cards-2{ grid-template-columns:1fr; }          /* 1-up */
+  .cards-4{ grid-template-columns:1fr; }          /* 1-up */
+  .tiles-6{ grid-template-columns:1fr 1fr; }      /* 2-up tiles read fine */
+  .posts-3{ grid-template-columns:1fr; }          /* 1-up */
+  .footer-cols{ grid-template-columns:1fr; }
+  .hero__band{ padding:24px; }
+  .hero__actions .btn{ flex:1 1 100%; text-align:center; } /* stack full-width */
+}
+
+/* Respect reduced-motion: kill the lift/glow transitions */
+@media (prefers-reduced-motion:reduce){
+  *{ transition:none !important; scroll-behavior:auto !important; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- ===== STEP 0 — HEADER (theme spec §3) ===================================== -->
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="/">
+      <!-- Real logo from assets/. Swap for the horizontal logo if you prefer. -->
+      <img src="../assets/logo/logo.png" alt="Bloom &amp; Lantern" />
+      <span class="wordmark">Bloom &amp; Lantern</span>
+    </a>
+    <nav class="nav" aria-label="Primary">
+      <a href="/small-balcony-patio-ideas">Balcony Ideas</a>
+      <a href="/small-patio-ideas">Patio Ideas</a>
+      <a href="/balcony-garden-ideas">Garden</a>
+      <a href="/about">About</a>
+    </nav>
+    <button class="nav-toggle" aria-label="Open menu"><span></span><span></span><span></span></button>
+  </div>
+</header>
+
+<main>
+
+<!-- ===== STEP 1 — HERO (SECTION 1) ========================================== -->
+<section class="hero">
+  <!-- --swap: set background-image on .hero in the CSS above (Appendix A1) -->
+  <div class="container">
+    <div class="hero__band">
+      <p class="eyebrow">Small Balcony &amp; Patio Styling</p>
+      <h1>Make the most of your small balcony or patio</h1>
+      <p class="subhead">Renter-friendly decor, furniture, privacy, garden, and lighting ideas for the small space you already have. No backyard, no drills, no overspending.</p>
+      <div class="hero__actions">
+        <a class="btn btn--primary" href="/small-balcony-patio-ideas">Explore Balcony Ideas</a>
+        <a class="btn btn--outline" href="/small-patio-ideas">Explore Patio Ideas</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== STEP 2 — START WITH YOUR SPACE (SECTION 2) ========================= -->
+<section class="section bg-cream">
+  <div class="container">
+    <div class="section-head">
+      <h2>Start with your space</h2>
+    </div>
+    <div class="cards-2">
+
+      <!-- Card A — Balcony (honey tint), whole card clickable -->
+      <a class="space-card space-card--balcony" href="/small-balcony-patio-ideas">
+        <!-- --swap: replace .ph with <img src="balcony-card.jpg" alt="..."> (Appendix A2a) -->
+        <div class="ph"><span>Balcony card image — A2a</span></div>
+        <div class="pad">
+          <h3>Balcony Ideas</h3>
+          <p>Up high on a railing? Style a cozy, modern, or boho balcony that works in inches, not acres.</p>
+          <span class="card-link">Browse balcony ideas</span>
+        </div>
+      </a>
+
+      <!-- Card B — Patio (sage tint) -->
+      <a class="space-card space-card--patio" href="/small-patio-ideas">
+        <!-- --swap: replace .ph with <img src="patio-card.jpg" alt="..."> (Appendix A2b) -->
+        <div class="ph"><span>Patio card image — A2b</span></div>
+        <div class="pad">
+          <h3>Patio Ideas</h3>
+          <p>Down at ground level? Turn a bare slab or tight patio into a full outdoor room you actually use.</p>
+          <span class="card-link">Browse patio ideas</span>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== STEP 3 — START HERE / CURATED GUIDES (SECTION 3) =================== -->
+<section class="section bg-surface">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow">Start Here</p>
+      <h2>New here? Start with these</h2>
+    </div>
+    <div class="cards-4">
+
+      <a class="guide-card" href="/small-balcony-patio-ideas">
+        <div class="ph"><span>Featured image</span></div>
+        <div class="pad">
+          <h3>Small Balcony Ideas</h3>
+          <p>The complete small-balcony playbook, in one guide.</p>
+        </div>
+      </a>
+
+      <a class="guide-card" href="/small-patio-ideas">
+        <div class="ph"><span>Featured image</span></div>
+        <div class="pad">
+          <h3>Small Patio Ideas</h3>
+          <p>Thirty ways to style a tiny patio or slab.</p>
+        </div>
+      </a>
+
+      <a class="guide-card" href="/balcony-garden-ideas">
+        <div class="ph"><span>Featured image</span></div>
+        <div class="pad">
+          <h3>Balcony Garden Ideas</h3>
+          <p>Grow a lush container garden on a railing.</p>
+        </div>
+      </a>
+
+      <a class="guide-card" href="/patio-furniture-ideas">
+        <div class="ph"><span>Featured image</span></div>
+        <div class="pad">
+          <h3>Best Small-Patio Furniture</h3>
+          <p>Seating that fits where it seems impossible.</p>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== STEP 4 — FIND YOUR PROJECT (SECTION 4) ============================= -->
+<section class="section bg-cream">
+  <div class="container">
+    <div class="section-head">
+      <h2>Find your project</h2>
+      <p>Six things to sort out for any small outdoor space. Tap the one you're working on.</p>
+    </div>
+    <div class="tiles-6">
+
+      <!-- Decor & Styling -->
+      <a class="tile" href="/small-balcony-patio-ideas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="13.5" cy="6.5" r=".5"/><circle cx="17.5" cy="10.5" r=".5"/><circle cx="8.5" cy="7.5" r=".5"/><circle cx="6.5" cy="12.5" r=".5"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.926 0 1.648-.746 1.648-1.688 0-.437-.18-.835-.437-1.125-.29-.289-.438-.652-.438-1.125a1.64 1.64 0 0 1 1.668-1.668h1.996c3.051 0 5.555-2.503 5.555-5.554C21.965 6.012 17.461 2 12 2z"/></svg>
+        <span class="label">Decor &amp; Styling</span>
+      </a>
+
+      <!-- Furniture & Seating -->
+      <a class="tile" href="/patio-furniture-ideas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 11V6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v5"/><path d="M3 11h18a1 1 0 0 1 1 1v4H2v-4a1 1 0 0 1 1-1z"/><path d="M5 16v3M19 16v3"/></svg>
+        <span class="label">Furniture &amp; Seating</span>
+      </a>
+
+      <!-- Privacy & Shade -->
+      <a class="tile" href="/balcony-privacy-ideas-for-apartments">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2 4 5v6c0 5 3.5 8.5 8 11 4.5-2.5 8-6 8-11V5l-8-3z"/></svg>
+        <span class="label">Privacy &amp; Shade</span>
+      </a>
+
+      <!-- Garden & Plants -->
+      <a class="tile" href="/balcony-garden-ideas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M11 20A7 7 0 0 1 4 13c4 0 7 3 7 7z"/><path d="M13 20a7 7 0 0 1 7-7c0 4-3 7-7 7z"/><path d="M12 20V9"/><path d="M12 9C12 5 9 3 6 3c0 3 2 6 6 6z"/></svg>
+        <span class="label">Garden &amp; Plants</span>
+      </a>
+
+      <!-- Flooring -->
+      <a class="tile" href="/balcony-flooring-ideas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="1"/><path d="M3 9h18M3 15h18M9 3v18M15 3v18"/></svg>
+        <span class="label">Flooring</span>
+      </a>
+
+      <!-- Lighting -->
+      <a class="tile" href="/balcony-lighting-ideas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18h6M10 21h4"/><path d="M12 2a7 7 0 0 0-4 12.7c.6.5 1 1.3 1 2.1V18h6v-1.2c0-.8.4-1.6 1-2.1A7 7 0 0 0 12 2z"/></svg>
+        <span class="label">Lighting</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== STEP 5 — ABOUT TEASER (SECTION 5) ================================= -->
+<section class="section bg-subtle">
+  <div class="container">
+    <div class="about">
+      <!-- --swap: replace .ph with <img src="about.jpg" alt="..."> (Appendix A4) -->
+      <div class="ph"><span>About image — A4</span></div>
+      <div>
+        <p class="eyebrow">Our Story</p>
+        <h2>Small space, big potential</h2>
+        <p>You have a small balcony or patio, a limited budget, and probably a lease that says "no permanent changes." Bloom &amp; Lantern is built for exactly that. We turn tight outdoor spaces into corners you actually want to sit in, with clear, renter-friendly ideas you can copy this weekend.</p>
+        <a class="btn btn--outline" href="/about">About Bloom &amp; Lantern</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== STEP 6 — LATEST FROM THE BLOG (SECTION 6) ========================= -->
+<!-- In WordPress this is a core Query Loop (Inherit OFF, Posts, newest 6, 3-col
+     grid). The static cards below stand in for that loop so you can see layout. -->
+<section class="section bg-cream">
+  <div class="container">
+    <div class="section-head">
+      <h2>Latest from the blog</h2>
+    </div>
+    <div class="posts-3">
+
+      <a class="post-card" href="/small-patio-ideas">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Patio Ideas</span><h3>30 Small Patio Ideas That Actually Fit</h3></div>
+      </a>
+
+      <a class="post-card" href="/balcony-garden-ideas">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Balcony Ideas</span><h3>Balcony Garden Ideas for Renters</h3></div>
+      </a>
+
+      <a class="post-card" href="/balcony-privacy-ideas-for-apartments">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Balcony Ideas</span><h3>Apartment Balcony Privacy, No Drilling</h3></div>
+      </a>
+
+      <a class="post-card" href="/best-self-watering-planters-balcony">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Balcony Ideas</span><h3>Best Self-Watering Planters for Balconies</h3></div>
+      </a>
+
+      <a class="post-card" href="/balcony-lighting-ideas">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Balcony Ideas</span><h3>Warm Balcony Lighting Ideas</h3></div>
+      </a>
+
+      <a class="post-card" href="/patio-furniture-ideas">
+        <div class="ph"><span>Post image</span></div>
+        <div class="pad"><span class="cat">Patio Ideas</span><h3>Small-Patio Furniture That Fits</h3></div>
+      </a>
+
+    </div>
+    <div class="center">
+      <a class="btn btn--outline" href="/blog">View all guides</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ===== STEP 7 — FOOTER (theme spec §4) ==================================== -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <p class="wordmark">Bloom &amp; Lantern</p>
+        <p>Small-space balcony &amp; patio styling, decor, and container gardening.</p>
+      </div>
+      <div>
+        <h4>Explore</h4>
+        <ul>
+          <li><a href="/small-balcony-patio-ideas">Balcony Ideas</a></li>
+          <li><a href="/small-patio-ideas">Patio Ideas</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Site</h4>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/privacy-policy">Privacy Policy</a></li>
+          <li><a href="/affiliate-disclosure">Affiliate Disclosure</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bar">
+      <span>&copy; Bloom &amp; Lantern</span>
+      <span>Built for small balconies and patios.</span>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
