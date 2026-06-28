@@ -11,7 +11,7 @@ internal_links: ["small-balcony-patio-ideas", "cozy-small-balcony-ideas", "balco
 monetized: true
 affiliate_programs: ["amazon"]
 status: ready
-pin_batch_id: ""
+pin_batch_id: "PB-018"
 last_updated: 2026-06-27
 ---
 
